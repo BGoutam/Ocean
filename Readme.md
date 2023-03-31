@@ -9,7 +9,11 @@ publishing and consuming data and algorithm. it constitutes -
    Point to note is once an algorithm is published and it's DID is stored, the same algorithm can
    be executed on a separate dataset. This is detailed on teh section Gradio App.
 
-NOTE :: Currently all the CLIs are hardcoded to use "polygon-test" which is the Polygon Testnet 
+NOTE :: ALL ALGORITHMS ARE RUN USING A FREE COMPUTING ENVIRONMENT WHICH IS LIMITED TO
+        1 CPU AND MAXIMUM TIME LIMIT OF 60 SECONDS. HENCE COMPLEX TIME CONSUMING C2D
+        ALGORITHMS WOULD NOT RUN IN THE FREE C2D ENVIRONMENT.
+
+        Currently all the CLIs are hardcoded to use "polygon-test" which is the Polygon Testnet 
         Mumbai. It can be changed to a parameter in the next version. Also, a separate document
         for Setup will be added detailing how to setup and run on separate instances.
 
