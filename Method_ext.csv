@@ -1,0 +1,161 @@
+Method,Name,Type,Description,Expression Context,Expression Code,Document,Pages,Program
+ADADAS.ADT,Algorithm to derive ADADAS.ADT,Computation,SAS date from QS.QSDTC,,,,,ADADAS
+ADADAS.ADY,Algorithm to derive ADADAS.ADY,Computation,"ADY = ADT - TRTSDT + 1, if ADT>=TRTSDT. ADY = 
+ADT - TRTSDT, if ADT<TRTSDT.",,,,,ADADAS
+ADADAS.ANL01FL,Algorithm to derive ADADAS.ANL01FL,Computation,"If multiple visits fall into the same visit window, then the one closest to the target date is chosen for analysis. These are flagged with ANL01FL=""Y"".",,,,,ADADAS
+ADADAS.AVAL,Algorithm to derive ADADAS.AVAL,Computation,QS.QSSTRESN where QSTESTCD=PARAMCD,,,,,ADADAS
+ADADAS.AVAL.ACTOT,Algorithm to derive ADADAS.AVAL.ACTOT,Computation,"Sum of ADAS scores for items 1, 2, 4, 5, 6, 7, 8, 11, 12, 13, and 14, see SAP section 14.2 for details on adjusting for missing values",,,,,ADADAS
+ADADAS.AVISIT,Algorithm to derive ADADAS.AVISIT,Computation,"Derived based on windowing algorithm described in SAP, Section 8.2",,,,,ADADAS
+ADADAS.AVISITN,Algorithm to derive ADADAS.AVISITN,Computation,Numeric code for AVISIT,,,,,ADADAS
+ADADAS.BASE,Algorithm to derive ADADAS.BASE,Computation,QS.QSSTRESN when QS.QSBLFL=Y (QS.VISITNUM=3),,,,,ADADAS
+ADADAS.CHG,Algorithm to derive ADADAS.CHG,Computation,AVAL - BASE,,,,,ADADAS
+ADADAS.DTYPE,Algorithm to derive ADADAS.DTYPE,Computation,"Set to ""LOCF"" if a record is imputated when PARAMCD=""ACTOT""; otherwise, set to missing",,,,,ADADAS
+ADADAS.PCHG,Algorithm to derive ADADAS.PCHG,Computation,100* (CHG/BASE),,,,,ADADAS
+ADAE.ADURN,Algorithm to derive ADAE.ADURN,Computation,ADURN=AENDT-ASTDT+1,,,,,ADAE
+ADAE.ADURU,Algorithm to derive ADAE.ADURU,Computation,If ADURN is not missing then ADURU='DAYS',,,,,ADAE
+ADAE.AEACN,Algorithm to derive ADAE.AEACN,Computation,AE.AEACN,,,,,ADAE
+ADAE.AEBODSYS,Algorithm to derive ADAE.AEBODSYS,Computation,AE.AEBODSYS,,,,,ADAE
+ADAE.AEDECOD,Algorithm to derive ADAE.AEDECOD,Computation,AE.AEDECOD,,,,,ADAE
+ADAE.AEHLGT,Algorithm to derive ADAE.AEHLGT,Computation,AE.AEHLGT,,,,,ADAE
+ADAE.AEHLGTCD,Algorithm to derive ADAE.AEHLGTCD,Computation,AE.AEHLGTCD,,,,,ADAE
+ADAE.AEHLT,Algorithm to derive ADAE.AEHLT,Computation,AE.AEHLT,,,,,ADAE
+ADAE.AEHLTCD,Algorithm to derive ADAE.AEHLTCD,Computation,AE.AEHLTCD,,,,,ADAE
+ADAE.AELLT,Algorithm to derive ADAE.AELLT,Computation,AE.AELLT,,,,,ADAE
+ADAE.AELLTCD,Algorithm to derive ADAE.AELLTCD,Computation,AE.AELLTCD,,,,,ADAE
+ADAE.AENDT,Algorithm to derive ADAE.AENDT,Computation,"AE.AEENDTC, converted to a numeric SAS date",,,,,ADAE
+ADAE.AENDY,Algorithm to derive ADAE.AENDY,Computation,IF AENDT>=TRTSDT>MISSING then AENDY=AENDT-TRTSDT+1 Else if TRTSDT>AENDT>MISSING then AENDY=AENDT-TRTSDT,,,,,ADAE
+ADAE.AEOUT,Algorithm to derive ADAE.AEOUT,Computation,AE.AEOUT,,,,,ADAE
+ADAE.AEPTCD,Algorithm to derive ADAE.AEPTCD,Computation,AE.AEPTCD,,,,,ADAE
+ADAE.AEREL,Algorithm to derive ADAE.AEREL,Computation,AE.AEREL,,,,,ADAE
+ADAE.AESCAN,Algorithm to derive ADAE.AESCAN,Computation,AE.AESCAN,,,,,ADAE
+ADAE.AESCONG,Algorithm to derive ADAE.AESCONG,Computation,AE.AESCONG,,,,,ADAE
+ADAE.AESDISAB,Algorithm to derive ADAE.AESDISAB,Computation,AE.AESDISAB,,,,,ADAE
+ADAE.AESDTH,Algorithm to derive ADAE.AESDTH,Computation,AE.AESDTH,,,,,ADAE
+ADAE.AESEQ,Algorithm to derive ADAE.AESEQ,Computation,AE.AESEQ,,,,,ADAE
+ADAE.AESER,Algorithm to derive ADAE.AESER,Computation,AE.AESER,,,,,ADAE
+ADAE.AESEV,Algorithm to derive ADAE.AESEV,Computation,AE.AESEV,,,,,ADAE
+ADAE.AESHOSP,Algorithm to derive ADAE.AESHOSP,Computation,AE.AESHOSP,,,,,ADAE
+ADAE.AESLIFE,Algorithm to derive ADAE.AESLIFE,Computation,AE.AESLIFE,,,,,ADAE
+ADAE.AESOC,Algorithm to derive ADAE.AESOC,Computation,AE.AESOC,,,,,ADAE
+ADAE.AESOCCD,Algorithm to derive ADAE.AESOCCD,Computation,AE.AESOCCD,,,,,ADAE
+ADAE.AESOD,Algorithm to derive ADAE.AESOD,Computation,AE.AESOD,,,,,ADAE
+ADAE.AETERM,Algorithm to derive ADAE.AETERM,Computation,AE.AETERM,,,,,ADAE
+ADAE.AGE,Algorithm to derive ADAE.AGE,Computation,ADSL.AGE,,,,,ADAE
+ADAE.AGEGR1,Algorithm to derive ADAE.AGEGR1,Computation,ADSL.AGEGR1,,,,,ADAE
+ADAE.AGEGR1N,Algorithm to derive ADAE.AGEGR1N,Computation,ADSL.AGEGR1N,,,,,ADAE
+ADAE.AOCC01FL,Algorithm to derive ADAE.AOCC01FL,Computation,"Subset to CQ01NAM='' and TRTEMFL='Y' and sort by Subject (USUBJID), Start Date (ASTDT), and Sequence Number (AESEQ) and flag the first record (set AOCC01FL=?Y?) within each Subject (Flag First Treatment Emergent Dermatological Event for Time to Event Analysis)",,,,,ADAE
+ADAE.AOCC02FL,Algorithm to derive ADAE.AOCC02FL,Computation,"Subset to TRTEMFL='Y' and AESER='Y' and sort by Subject (USUBJID), Start Date (ASTDT), and Sequence Number (AESEQ) and flag the first record (set AOCC02FL=?Y?) within each Subject",,,,,ADAE
+ADAE.AOCC03FL,Algorithm to derive ADAE.AOCC03FL,Computation,"Subset to TRTEMFL='Y' and AESER='Y' and sort by Subject (USUBJID), System Organ Class (AEBODSYS), Start Date (ASTDT), and Sequence Number (AESEQ) and flag the first record (set AOCC03FL=?Y?) within each Subject and SOC",,,,,ADAE
+ADAE.AOCC04FL,Algorithm to derive ADAE.AOCC04FL,Computation,"Subset to TRTEMFL='Y' and AESER='Y' and sort by Subject (USUBJID), System Organ Class (AEBODSYS), Preferred Term (AEDECOD), Start Date (ASTDT), and Sequence Number (AESEQ) and flag the first record (set AOCC04FL=?Y?) within each Subject, SOC, and PT",,,,,ADAE
+ADAE.AOCCFL,Algorithm to derive ADAE.AOCCFL,Computation,"Subset to TRTEMFL='Y' and sort by Subject (USUBJID), Start Date (ASTDT), and Sequence Number (AESEQ) and flag the first record (set AOCCFL=?Y?) within each Subject",,,,,ADAE
+ADAE.AOCCPFL,Algorithm to derive ADAE.AOCCPFL,Computation,"Subset to TRTEMFL='Y' and sort by Subject (USUBJID), System Organ Class (AEBODSYS), Preferred Term (AEDECOD), Start Date (ASTDT), and Sequence Number (AESEQ) and flag the first record (set AOCCPFL=?Y?) within each Subject, SOC, and PT",,,,,ADAE
+ADAE.AOCCSFL,Algorithm to derive ADAE.AOCCSFL,Computation,"Subset to TRTEMFL='Y' and sort by Subject (USUBJID), System Organ Class (AEBODSYS), Start Date (ASTDT), and Sequence Number (AESEQ) and flag the first record (set AOCCSFL=?Y?) within each Subject and SOC",,,,,ADAE
+ADAE.ASTDT,Algorithm to derive ADAE.ASTDT,Computation,"AE.AESTDTC, converted to a numeric SAS date. Some events with partial dates are imputed in a conservative manner. If the day component is missing, a value of '01' is used. If both the month and day are missing no imputation is performed as these dates clearly indicate a start prior to the beginning of treatment. There are no events with completely missing start dates.",,,,,ADAE
+ADAE.ASTDTF,Algorithm to derive ADAE.ASTDTF,Computation,ASTDTF='D' if the day value within the character date is imputed. Note that only day values needed to be imputed for this study.,,,,,ADAE
+ADAE.ASTDY,Algorithm to derive ADAE.ASTDY,Computation,IF ASTDT>=TRTSDT>MISSING then ASTDY=ASTDT-TRTSDT+1 Else if TRTSDT>ASTDT>MISSING then ASTDY=ASTDT-TRTSDT,,,,,ADAE
+ADAE.CQ01NAM,Algorithm to derive ADAE.CQ01NAM,Computation,"If AEDECOD contains any of the character strings of ('APPLICATION', 'DERMATITIS', 'ERYTHEMA', 'BLISTER') OR if AEBODSYS='SKIN AND SUBC UTANEOUS TISSUE DISORDERS' but AEDECOD is not in ('COLD SWEAT', 'HYPERHIDROSIS', 'ALOPECIA') then CQ01NAM='DERMATOLOGIC EVENTS' Otherwise CQ01NAM=NULL",,,,,ADAE
+ADAE.RACE,Algorithm to derive ADAE.RACE,Computation,ADSL.RACE,,,,,ADAE
+ADAE.RACEN,Algorithm to derive ADAE.RACEN,Computation,ADSL.RACEN,,,,,ADAE
+ADAE.SAFFL,Algorithm to derive ADAE.SAFFL,Computation,ADSL.SAFFL,,,,,ADAE
+ADAE.SEX,Algorithm to derive ADAE.SEX,Computation,ADSL.SEX,,,,,ADAE
+ADAE.SITEID,Algorithm to derive ADAE.SITEID,Computation,ADSL.SITEID,,,,,ADAE
+ADAE.TRTA,Algorithm to derive ADAE.TRTA,Computation,ADSL.TRT01A,,,,,ADAE
+ADAE.TRTAN,Algorithm to derive ADAE.TRTAN,Computation,ADSL.TRT01AN,,,,,ADAE
+ADAE.TRTEDT,Algorithm to derive ADAE.TRTEDT,Computation,ADSL.TRTEDT,,,,,ADAE
+ADAE.TRTEMFL,Algorithm to derive ADAE.TRTEMFL,Computation,If ASTDT >= TRTSDT > . then TRTEMFL='Y'. Otherwise TRTEMFL='N',,,,,ADAE
+ADAE.TRTSDT,Algorithm to derive ADAE.TRTSDT,Computation,ADSL.TRTSDT,,,,,ADAE
+ADLBC.A1HI,Algorithm to derive ADLBC.A1HI,Computation,LB.LBSTNRHI,,,,,ADLBC
+ADLBC.A1LO,Algorithm to derive ADLBC.A1LO,Computation,LB.LBSTNRLO,,,,,ADLBC
+ADLBC.ADT,Algorithm to derive ADLBC.ADT,Computation,LB.LBDTC,,,,,ADLBC
+ADLBC.ADY,Algorithm to derive ADLBC.ADY,Computation,LB.LBDY,,,,,ADLBC
+ADLBC.AENTMTFL,Algorithm to derive ADLBC.AENTMTFL,Computation,"Last observed value for this lab parameter during treatment phase: 'Y' if VISITNUM=12, if subject discontinues prior to VISIT 12, then this variable is set to 'Y' if this is the last assessment of this analyte for the subject",,,,,ADLBC
+ADLBC.ALBTRVAL,Algorithm to derive ADLBC.ALBTRVAL,Computation,Maximum of [LBSTRESN-(1.5*ULN)] and [(.5*LLN) - LBSTRESN],,,,,ADLBC
+ADLBC.ANL01FL,Algorithm to derive ADLBC.ANL01FL,Computation,If ALBTRVAL  = max(ALBTRVAL) then ANL01FL is 'Y',,,,,ADLBC
+ADLBC.ANRIND,Algorithm to derive ADLBC.ANRIND,Computation,"if AVAL < [0.5*LBSTNRLO) then ANRIND = 'Y' else if AVAL > [0.5*LBSTRNHI),'H','N'",,,,,ADLBC
+ADLBC.AVISIT,Algorithm to derive ADLBC.AVISIT,Computation,"Last observed value for this lab parameter during treatment phase: 'Y' if VISITNUM=12, if subject discontinues prior to VISIT 12, then this variable is set to 'Y' if this is the last assessment of this analyte for the subject",,,,,ADLBC
+ADLBC.BASE,Algorithm to derive ADLBC.BASE,Computation,LB.LBSTNRHI,,,,,ADLBC
+ADLBC.BNRIND,Algorithm to derive ADLBC.BNRIND,Computation,"if BASE < [0.5*LBSTNRLO) then ANRIND = 'Y' else if BASE > [0.5*LBSTRNHI),'H','N'",,,,,ADLBC
+ADLBC.BR2A1HI,Algorithm to derive ADLBC.BR2A1HI,Computation,AVAL / A1HI at baseline,,,,,ADLBC
+ADLBC.BR2A1LO,Algorithm to derive ADLBC.BR2A1LO,Computation,AVAL / A1LO at baseline,,,,,ADLBC
+ADLBC.CHG,Algorithm to derive ADLBC.CHG,Computation,AVAL - BASE,,,,,ADLBC
+ADLBC.PARAM,Algorithm to derive ADLBC.PARAM,Computation,"Concatenated LB.LBTEST, '(',  LB.LBSTRESU and ')'",,,,,ADLBC
+ADLBC.PARAMN,Algorithm to derive ADLBC.PARAMN,Computation,Numeric code for Parameter,,,,,ADLBC
+ADLBC.R2A1HI,Algorithm to derive ADLBC.R2A1HI,Computation,AVAL / A1HI,,,,,ADLBC
+ADLBC.R2A1LO,Algorithm to derive ADLBC.R2A1LO,Computation,AVAL / A1LO,,,,,ADLBC
+ADLBC.TRTA,Algorithm to derive ADLBC.TRTA,Computation,ADSL.TRT01A,,,,,ADLBC
+ADLBC.TRTAN,Algorithm to derive ADLBC.TRTAN,Computation,ADSL.TRT01AN,,,,,ADLBC
+ADLBC.TRTP,Algorithm to derive ADLBC.TRTP,Computation,ADSL.TRT01P,,,,,ADLBC
+ADLBC.TRTPN,Algorithm to derive ADLBC.TRTPN,Computation,ADSL.TRT01PN,,,,,ADLBC
+ADSL.AGE,Algorithm to derive ADSL.AGE,Computation,DM.AGE,,,,,ADSL
+ADSL.AGEGR1,Algorithm to derive ADSL.AGEGR1,Computation,Character variable derived from ADSL.AGEGR1N,,,,,ADSL
+ADSL.AGEGR1N,Algorithm to derive ADSL.AGEGR1N,Computation,AGEGR1 = 1 if AGE <65. AGEGR1 = 2 if AGE 65-80. AGEGR1 = 3 if AGE >80.,,,,,ADSL
+ADSL.AGEU,Algorithm to derive ADSL.AGEU,Computation,DM.AGEU,,,,,ADSL
+ADSL.ARM,Algorithm to derive ADSL.ARM,Computation,DM.ARM,,,,,ADSL
+ADSL.AVGDD,Algorithm to derive ADSL.AVGDD,Computation,CUMDOSE/TRTDURD,,,,,ADSL
+ADSL.BMIBL,Algorithm to derive ADSL.BMIBL,Computation,WEIGHTBL / ((HEIGHTBL/100)**2),,,,,ADSL
+ADSL.BMIBLGR1,Algorithm to derive ADSL.BMIBLGR1,Computation,"BMIBLGR1=""<25"" if . < BMIBL <25.
+BMIBLGR1=""25-<30"" if 25 <=BMIBL <30.
+BMIBLGR1="">=30""if BMIBL >=30.",,,,,ADSL
+ADSL.COMP16FL,Algorithm to derive ADSL.COMP16FL,Computation,"Y if subject has a SV.VISITNUM=10 and ENDDT>=date of visit 10, N otherwise",,,,,ADSL
+ADSL.COMP24FL,Algorithm to derive ADSL.COMP24FL,Computation,"Y if subject has a SV.VISITNUM=12 and ENDDT>= date of visit 12 , N otherwise",,,,,ADSL
+ADSL.COMP8FL,Algorithm to derive ADSL.COMP8FL,Computation,"Y if subject has a SV.VISITNUM=8 and ENDDT >= date of visit 8, N otherwise",,,,,ADSL
+ADSL.CUMDOSE,Algorithm to derive ADSL.CUMDOSE,Computation,"For ARMN=0 or 1: CUMDOSE=TRT01PN*TRTDUR. --- For ARMN=2: CUMDOSE will be based on 54mg per day for the # of days subj was in 1st dosing interval (i.e., visit4date-TRTSTDT+1 if 1st interval completed, TRTEDT-TRTSTDT+1 if subj discontinued <=visit 4 and > visit 3), 81mg per day for the # of days subj was in 2nd dosing interval (i.e., visit12date-visit4date if 2nd interval completed, TRTEDT-visit4date if subj discontinued <= visit 12 and > visit 4), and 54mg per day for the # of days subj was in 3rd dosing interval (i.e., TRTEDT - visit12date if subj continued after visit 12).",,,,,ADSL
+ADSL.DCDECOD,Algorithm to derive ADSL.DCDECOD,Computation,DS.DSDECOD where DSCAT='DISPOSITION EVENT',,,,,ADSL
+ADSL.DCREASCD,Algorithm to derive ADSL.DCREASCD,Computation,Grouping of DCDECOD values to support summarizing study completion status and reason for discontinuation,,,,,ADSL
+ADSL.DISCONFL,Algorithm to derive ADSL.DISCONFL,Computation,Y if DCREASCD ^= 'Completed'. Null otherwise,,,,,ADSL
+ADSL.DISONSDT,Algorithm to derive ADSL.DISONSDT,Computation,MH.MHSTDTC where MHCAT='PRIMARY DIAGNOSIS' converted to SAS date,,,,,ADSL
+ADSL.DSRAEFL,Algorithm to derive ADSL.DSRAEFL,Computation,Y if DCREASCD='Adverse Event'. Null otherwise,,,,,ADSL
+ADSL.DTHFL,Algorithm to derive ADSL.DTHFL,Computation,DM.DTHFL,,,,,ADSL
+ADSL.DURDIS,Algorithm to derive ADSL.DURDIS,Computation,number of months between VISIT1DT and DISONSET,,,,,ADSL
+ADSL.DURDSGR1,Algorithm to derive ADSL.DURDSGR1,Computation,grouping DURDIS values as <12 and >=12,,,,,ADSL
+ADSL.EDUCLVL,Algorithm to derive ADSL.EDUCLVL,Computation,SC.SCSTRESN where SC.SCTESTCD=EDLEVEL,,,,,ADSL
+ADSL.EFFFL,Algorithm to derive ADSL.EFFFL,Computation,"Y if SAFFL='Y AND subject has at least one record in QS for ADAS-Cog with VISITNUM>3 AND at least one record in QS for CIBIC+ with VISITNUM>3, N otherwise",,,,,ADSL
+ADSL.EOSSTT,Algorithm to derive ADSL.EOSSTT,Computation,COMPLETED if ADSL.DCDECOD='COMPLETED'. DISCONTINUED if ADSL.DCDECOD not equal to COMPLETED.,,,,,ADSL
+ADSL.ETHNIC,Algorithm to derive ADSL.ETHNIC,Computation,DM.ETHNIC,,,,,ADSL
+ADSL.HEIGHTBL,Algorithm to derive ADSL.HEIGHTBL,Computation,VSSTRESN when VS.VSTESTCD='HEIGHT' and VS.VISITNUM=1,,,,,ADSL
+ADSL.ITTFL,Algorithm to derive ADSL.ITTFL,Computation,Y if ARMCD ne ' '. N otherwise,,,,,ADSL
+ADSL.MMSETOT,Algorithm to derive ADSL.MMSETOT,Computation,sum of QS.QSORRES values for the subject when QSCAT = MINI-MENTAL STATE,,,,,ADSL
+ADSL.RACE,Algorithm to derive ADSL.RACE,Computation,DM.RACE,,,,,ADSL
+ADSL.RACEN,Algorithm to derive ADSL.RACEN,Computation,Numeric code for RACE,,,,,ADSL
+ADSL.RFENDT,Algorithm to derive ADSL.RFENDT,Computation,RFENDTC converted to SAS date,,,,,ADSL
+ADSL.RFENDTC,Algorithm to derive ADSL.RFENDTC,Computation,DM.RFENDTC,,,,,ADSL
+ADSL.RFSTDTC,Algorithm to derive ADSL.RFSTDTC,Computation,DM.RFSTDTC,,,,,ADSL
+ADSL.SAFFL,Algorithm to derive ADSL.SAFFL,Computation,Y if ITTFL='Y' and TRTSDT ne missing. N otherwise,,,,,ADSL
+ADSL.SEX,Algorithm to derive ADSL.SEX,Computation,DM.SEX,,,,,ADSL
+ADSL.SITEGR1,Algorithm to derive ADSL.SITEGR1,Computation,"refer to SAP, Section 7.1 - if not pooled then SITEGR1=SITEID. If pooled, SITEGR1 will be 900",,,,,ADSL
+ADSL.SITEID,Algorithm to derive ADSL.SITEID,Computation,DM.SITEID,,,,,ADSL
+ADSL.SUBJID,Algorithm to derive ADSL.SUBJID,Computation,DM.SUBJID,,,,,ADSL
+ADSL.TRT01A,Algorithm to derive ADSL.TRT01A,Computation,"TRT01A=TRT01P, i.e., no difference between actual and randomized treatment in this study.",,,,,ADSL
+ADSL.TRT01AN,Algorithm to derive ADSL.TRT01AN,Computation,Numeric code for TRT01A which corresponds to the randomized dose,,,,,ADSL
+ADSL.TRT01P,Algorithm to derive ADSL.TRT01P,Computation,DM.ARM,,,,,ADSL
+ADSL.TRT01PN,Algorithm to derive ADSL.TRT01PN,Computation,Numeric code for TRT01P which corresponds to the randomized dose,,,,,ADSL
+ADSL.TRTDUR,Algorithm to derive ADSL.TRTDUR,Computation,TRTEDT-TRTSDT+1,,,,,ADSL
+ADSL.TRTEDT,Algorithm to derive ADSL.TRTEDT,Computation,"The date of final dose (from the CRF) is EX.EXENDTC on the subject's last EX record. If the date of final dose is missing for the subject and the subject discontinued after visit 3, use the date of discontinuation as the date of last dose. Convert the date to a SAS date.",,,,,ADSL
+ADSL.TRTSDT,Algorithm to derive ADSL.TRTSDT,Computation,"SV.SVSTDTC when SV.VISITNUM=3, converted to SAS date",,,,,ADSL
+ADSL.VISIT1DT,Algorithm to derive ADSL.VISIT1DT,Computation,"SV.SVSTDTC when SV.VISITNUM=1, converted to SAS date",,,,,ADSL
+ADSL.VISNUMEN,Algorithm to derive ADSL.VISNUMEN,Computation,"if DS.VISITNUM=13 where DSTERM='PROTCOL COMPLETED' then VISNUMEN=12, otherwise VISNUMEN=DS.VISITNUM where DSTERM='PROTCOL COMPLETED'",,,,,ADSL
+ADSL.WEIGHTBL,Algorithm to derive ADSL.WEIGHTBL,Computation,VSSTRESN when VS.VSTESTCD='WEIGHT' and VS.VISITNUM=3,,,,,ADSL
+ADTTE.ADT,Algorithm to derive ADTTE.ADT,Computation,if ADAE.ASTDT is not missing and occurred after TRTSDT then ADAE.ASTDT else convert ADSL.RFENDTC to a SAS numeric date,,,,,ADTTE
+ADTTE.AGE,Algorithm to derive ADTTE.AGE,Computation,ADSL.AGE,,,,,ADTTE
+ADTTE.AGEGR1,Algorithm to derive ADTTE.AGEGR1,Computation,ADSL.AGEGR1,,,,,ADTTE
+ADTTE.AGEGR1N,Algorithm to derive ADTTE.AGEGR1N,Computation,ADSL.AGEGR1N,,,,,ADTTE
+ADTTE.AVAL,Algorithm to derive ADTTE.AVAL,Computation,ADT-STARTDT+1,,,,,ADTTE
+ADTTE.CNSR,Algorithm to derive ADTTE.CNSR,Computation,"if ADAE.TRTEMFL =""Y"" then CNSR=0, else CNSR=1",,,,,ADTTE
+ADTTE.EVNTDESC,Algorithm to derive ADTTE.EVNTDESC,Computation,"if ADTTE.CNSR = 0 then ""Dematologic Event Occured"", else if ADTTE.CNSR =1 then ""Study Completion Date""",,,,,ADTTE
+ADTTE.PARAM,Algorithm to derive ADTTE.PARAM,Computation,"PARAM=""Time to First Dermatologic Event""",,,,,ADTTE
+ADTTE.PARAMCD,Algorithm to derive ADTTE.PARAMCD,Computation,"PARAMCD=""TTDE""",,,,,ADTTE
+ADTTE.RACE,Algorithm to derive ADTTE.RACE,Computation,ADSL.RACE,,,,,ADTTE
+ADTTE.RACEN,Algorithm to derive ADTTE.RACEN,Computation,ADSL.RACEN,,,,,ADTTE
+ADTTE.SAFFL,Algorithm to derive ADTTE.SAFFL,Computation,ADSL.SAFFL,,,,,ADTTE
+ADTTE.SEX,Algorithm to derive ADTTE.SEX,Computation,ADSL.SEX,,,,,ADTTE
+ADTTE.SITEID,Algorithm to derive ADTTE.SITEID,Computation,ADSL.SITEID,,,,,ADTTE
+ADTTE.SRCDOM,Algorithm to derive ADTTE.SRCDOM,Computation,The Source domain referred to in order to populate ADT (either ADAE or ADSL),,,,,ADTTE
+ADTTE.SRCSEQ,Algorithm to derive ADTTE.SRCSEQ,Computation,"The value of ADAE.AESEQ if SRCDOM=ADAE, otherwise null.",,,,,ADTTE
+ADTTE.SRCVAR,Algorithm to derive ADTTE.SRCVAR,Computation,The Source variable referred to in order to populate ADT (either ASTDT or RFENDT),,,,,ADTTE
+ADTTE.STARTDT,Algorithm to derive ADTTE.STARTDT,Computation,ADSL.RFSTDTC,,,,,ADTTE
+ADTTE.TRTA,Algorithm to derive ADTTE.TRTA,Computation,ADSL.TRT01A,,,,,ADTTE
+ADTTE.TRTAN,Algorithm to derive ADTTE.TRTAN,Computation,ADSL.TRT01AN,,,,,ADTTE
+ADTTE.TRTDUR,Algorithm to derive ADTTE.TRTDUR,Computation,ADSL.TRTDUR,,,,,ADTTE
+ADTTE.TRTEDT,Algorithm to derive ADTTE.TRTEDT,Computation,ADSL.TRTEDT,,,,,ADTTE
+ADTTE.TRTP,Algorithm to derive ADTTE.TRTP,Computation,ADSL.TRT01P,,,,,ADTTE
+ADTTE.TRTSDT,Algorithm to derive ADTTE.TRTSDT,Computation,ADSL.TRTSDT,,,,,ADTTE
