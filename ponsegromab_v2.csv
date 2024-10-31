@@ -1,0 +1,44 @@
+Source,Target,BIScore,Literature_Score,Source_Class,Target_Class
+GDF15,Chronic kidney disease,0.167650028,0.675627426,HGNC,health_condition
+GDF15,Kidney failure,0.144467753,0.637313528,HGNC,health_condition
+GDF15,Type 2 diabetes mellitus,0.147908961,0.681961127,HGNC,health_condition
+GDF15,Chronic obstructive pulmonary disease,0.145883743,0.668768235,HGNC,health_condition
+GDF15,Anemia,0.136913871,0.673064612,HGNC,health_condition
+GDF15,Congestive heart failure,0.143965516,0.688863945,HGNC,health_condition
+GDF15,HFpEF,0.172601124,0.767862504,HGNC,health_condition
+GDF15,HFrEF,0.130460164,0.637324222,HGNC,health_condition
+GDF15,Primary pulmonary hypertension,0.078845786,0.394228931,HGNC,health_condition
+GDF15,Fatty liver disease,0.157447425,0.685260244,HGNC,health_condition
+GDF15,Cardiomyopathy,0.147442076,0.688247367,HGNC,health_condition
+GDF15,Nephritis,0.133691814,0.60654384,HGNC,health_condition
+GDF15,Cardio-renal syndrome,0.116911356,0.584556782,HGNC,health_condition
+GDF15,Mitochondrial myopathy,0.145903925,0.729172891,HGNC,health_condition
+GDF15,Transthyretin amyloidosis,0.102411275,0.512056373,HGNC,health_condition
+GDF15,Hyperemesis gravidarum,0.177803393,0.682322127,HGNC,health_condition
+GDF15,Anorexia nervosa,0.125983384,0.629916922,HGNC,health_condition
+GDF15,Beta thalassemia,0.129444517,0.647222587,HGNC,health_condition
+GDF15,Colorectal cancer,0.225873184,0.691100902,HGNC,health_condition
+GDF15,Prostate cancer,0.210034601,0.694230626,HGNC,health_condition
+GDF15,Lung cancer,0.178896696,0.677603432,HGNC,health_condition
+GDF15,Breast cancer,0.211272216,0.675151953,HGNC,health_condition
+GDF15,Cancer cachexia,0.204609331,0.678377915,HGNC,health_condition
+GDF15,Pancreatic cancer,0.17764698,0.712129619,HGNC,health_condition
+GDF15,Amyotrophic lateral sclerosis,0.156898725,0.639862641,HGNC,health_condition
+Ponsegromab,Kidney failure,0.023465403,0.117327017,drug,health_condition
+Ponsegromab,Type 2 diabetes mellitus,0.062170339,0.310851696,drug,health_condition
+Ponsegromab,Chronic obstructive pulmonary disease,0.024004291,0.120021454,drug,health_condition
+Ponsegromab,Anemia,0.065238977,0.326194886,drug,health_condition
+Ponsegromab,Congestive heart failure,0.424834346,0.324171731,drug,health_condition
+Ponsegromab,HFpEF,0.18,0,drug,health_condition
+Ponsegromab,HFrEF,0.18,0,drug,health_condition
+Ponsegromab,Primary pulmonary hypertension,0.09,0,drug,health_condition
+Ponsegromab,Nephritis,0.024762563,0,drug,health_condition
+Ponsegromab,Cardio-renal syndrome,0.18,0,drug,health_condition
+Ponsegromab,Colorectal cancer,0.062456465,0.312282325,drug,health_condition
+Ponsegromab,Prostate cancer,0.025403322,0.127016612,drug,health_condition
+Ponsegromab,Lung cancer,0.061211041,0.306055203,drug,health_condition
+Ponsegromab,Breast cancer,0.02424421,0.121221049,drug,health_condition
+Ponsegromab,Cancer cachexia,0.095614041,0.478070203,drug,health_condition
+Ponsegromab,Pancreatic cancer,0.062124437,0.310622185,drug,health_condition
+Ponsegromab,Amyotrophic lateral sclerosis,0.02418989,0.120949449,drug,health_condition
+Ponsegromab,GDF15,0.10781019,0.539050952,drug,HGNC
