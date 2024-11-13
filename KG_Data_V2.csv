@@ -1,0 +1,18 @@
+Drug,Indication,Bibliometric_Target,SKG_BIScore,BI_Confidence,SKG_Literature_Score,Literature_Confidence,Bibliometric_Scientific_Score,Scientific_Confidence,Bibliometric_Market_score,Market_Confidence,Population
+Ponsegromab,Kidney failure,Kidney Failure,0.023465403,Medium,0.117327017,Medium,0,None,0,None,0
+Ponsegromab,Type 2 diabetes mellitus,Type 2 Diabetes,0.062170339,Medium,0.310851696,Medium,76,High,69,High,36134539
+Ponsegromab,Chronic obstructive pulmonary disease,Chronic Obstructive Pulmonary Disease (COPD),0.024004291,Medium,0.120021454,Medium,0,None,0,None,0
+Ponsegromab,Anemia,Iron Deficiency Anemia,0.065238977,Medium,0.326194886,Medium,0,None,0,None,0
+Ponsegromab,Congestive heart failure,Heart Failure,0.424834346,High,0.324171731,Medium,85,High,64,High,1823483
+Ponsegromab,HFpEF,"Heart Failure with preserved Ejection Fraction (HFpEF, Diastolic HF)",0.18,High,0,None,78,High,65,High,1823483
+Ponsegromab,HFrEF,"Heart Failure with reduced Ejection Fraction (HFrEF, Systolic HF)",0.18,High,0,None,0,None,0,None,0
+Ponsegromab,Primary pulmonary hypertension,Pulmonary Hypertension,0.09,Medium,0,None,0,None,0,None,0
+Ponsegromab,Nephritis,Nephritis,0.024762563,Medium,0,None,0,None,0,None,0
+Ponsegromab,Cardio-renal syndrome,Cardio-Renal Syndrome,0.18,High,0,None,0,None,0,None,0
+Ponsegromab,Colorectal cancer,Colorectal Cancer (CRC),0.062456465,Medium,0.312282325,Medium,76,High,64,High,1374344
+Ponsegromab,Prostate cancer,Metastatic Prostate Cancer,0.025403322,Medium,0.127016612,Medium,64,Medium,74,High,9939369
+Ponsegromab,Lung cancer,Bronchogenic Carcinoma,0.061211041,Medium,0.306055203,Medium,72,High,69,High,11158792
+Ponsegromab,Breast cancer,Breast Cancer,0.02424421,Medium,0.121221049,Medium,0,None,0,None,0
+Ponsegromab,Cancer cachexia,Cachexia,0.095614041,Medium,0.478070203,High,83,High,61,High,527100
+Ponsegromab,Pancreatic cancer,Pancreatic Cancer,0.062124437,Medium,0.310622185,Medium,78,High,61,High,18356
+Ponsegromab,Amyotrophic lateral sclerosis,Amyotrophic Lateral Sclerosis (ALS),0.02418989,Medium,0.120949449,Medium,0,None,0,None,0
