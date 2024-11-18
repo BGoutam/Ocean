@@ -1,0 +1,1166 @@
+﻿Source,Indication,Bibliometric_Target,SKG_BIScore,SKG_Literature_Score,SKG_GDF15_BIScore,SKG_GDF15_Literature_Score,SKG_Total_Score,Bibliometric_Scientific_Score,Bibliometric_Market_Score,Bibliometric_Total_Score,Population,PMIDs
+Ponsegromab,Mitochondrial Diseases,Mitochondrial Diseases,0,0,0,0,,85.9,64.6,150.5,45890,None
+Ponsegromab,Cardiomyopathy,Cardiomyopathies,0,0,0.147442076,0.688247367,0.835689443,82.2,67.9,150.1,939598,None
+Ponsegromab,Congestive heart failure,Heart Failure,0.424834346,0.324171731,0,0,0,84.9,64.2,149.1,1823483,None
+Ponsegromab,Fatty liver disease,Steatotic Liver Disease (SLD) (Fatty Liver),0,0,0.157447425,0.685260244,0.842707669,68.5,77,145.5,40843500,None
+Ponsegromab,Cancer cachexia,Cachexia,0.095614041,0.478070203,0.204609331,0.678377915,0.882987246,82.5,61.2,143.7,NA,None
+Ponsegromab,HFpEF,"Heart Failure with preserved Ejection Fraction (HFpEF, Diastolic HF)",0.18,0,0.172601124,0.767862504,0.940463628,78,65,143,1823483,None
+Ponsegromab,Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD / MAFLD / NAFLD),Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD / MAFLD / NAFLD),0,0,0,0,0,65.4,76.9,142.3,40843500,None
+Ponsegromab,Myocardial Ischemia,Myocardial Ischemia,0,0,0,0,0,80.6,61.7,142.3,8851500,None
+Ponsegromab,Lung cancer,Bronchogenic Carcinoma,0.061211041,0.306055203,0.178896696,0.677603432,0.856500128,71.7,69,140.7,11158792,None
+Ponsegromab,Colorectal cancer,Colorectal Cancer (CRC),0.062456465,0.312282325,0.225873184,0.691100902,0.916974086,76.1,63.8,140,1374344,None
+Ponsegromab,Hepato-Pancreato-Biliary Cancers,Hepato-Pancreato-Biliary Cancers,0,0,0,0,0,78.1,61.4,139.5,18356,None
+Ponsegromab,Myocardial Infarction,Myocardial Infarction,0,0,0,0,0,78.2,60.6,138.8,4844922,None
+Ponsegromab,Prostate cancer,Metastatic Prostate Cancer,0.025403322,0.127016612,0.210034601,0.694230626,0.904265227,63.6,73.7,137.4,9939369,None
+Ponsegromab,Coronary Artery Disease (CAD),Coronary Artery Disease (CAD),0,0,0,0,0,77.2,59.4,136.6,9180605,None
+Ponsegromab,Acute Myocardial Infarction (AMI),Acute Myocardial Infarction (AMI),0,0,0,0,0,75.8,59.8,135.6,4844922,None
+Ponsegromab,Non-Small Cell Lung Cancer (NSCLC),Non-Small Cell Lung Cancer (NSCLC),0,0,0,0,0,71.4,62.2,133.6,689620,None
+Ponsegromab,Acute Heart Failure,Acute Heart Failure,0,0,0,0,0,66.7,66.5,133.2,1823483,None
+Ponsegromab,Atrial Fibrillation,Atrial Fibrillation,0,0,0,0,0,70.8,61.6,132.4,7714878,None
+Ponsegromab,Acute Kidney Injury (AKI),Acute Kidney Injury (AKI),0,0,0,0,0,67,65,132.1,40170198,None
+Ponsegromab,Stroke,Stroke,0,0,0,0,0,71.3,60.6,131.9,7078728,None
+Ponsegromab,Gastrointestinal Cancers / Digestive System Tumors,Gastrointestinal Cancers / Digestive System Tumors,0,0,0,0,0,80.1,51.6,131.7,NA,None
+Ponsegromab,Ventricular Dysfunction,Ventricular Dysfunction,0,0,0,0,0,72.2,58.8,130.9,2556982,None
+Ponsegromab,Renal Insufficiency,Renal Insufficiency,0,0,0,0,0,78.7,51.8,130.6,724456,None
+Ponsegromab,Cardiomegaly,Cardiomegaly,0,0,0,0,0,68.9,61.2,130,2556982,None
+Ponsegromab,Chronic kidney disease,Chronic Kidney Disease (CKD),0,0,0.167650028,0.675627426,0.843277454,70.4,58.9,129.3,29317419,None
+Ponsegromab,Pulmonary Arterial Hypertension (PAH),Pulmonary Arterial Hypertension (PAH),0,0,0,0,0,72.2,56.5,128.6,NA,None
+Ponsegromab,Obstructive Lung Diseases,Obstructive Lung Diseases,0,0,0,0,0,70.4,58,128.4,28154789,None
+Ponsegromab,Skin Cancers,Skin Cancers,0,0,0,0,0,69.9,58.5,128.4,2040603,None
+Ponsegromab,Liver Diseases (Hepatology),Liver Diseases (Hepatology),0,0,0,0,0,74.9,53.3,128.2,1041348,None
+Ponsegromab,Ureteral Diseases,Ureteral Diseases,0,0,0,0,0,58.3,68,126.3,5077994,None
+Ponsegromab,Muscular Diseases,Muscular Diseases,0,0,0,0,0,73.8,52.4,126.2,3410860,None
+Ponsegromab,Cardiac Arrhythmias,Cardiac Arrhythmias,0,0,0,0,0,69.6,56.2,125.8,2921511,None
+Ponsegromab,Diabetic Kidney Disease,Diabetic Kidney Disease,0,0,0,0,0,66.1,59.6,125.7,6869750,None
+Ponsegromab,Liver Fibrosis,Liver Fibrosis,0,0,0,0,0,68.8,56.8,125.6,190066,None
+Ponsegromab,Thoracic Cancers,Thoracic Cancers,0,0,0,0,0,67.5,57.9,125.5,443295,None
+Ponsegromab,Pancreatic Cancer,Pancreatic Cancer,0.062124437,0.310622185,0.17764698,0.712129619,0.889776599,74.7,50.6,125.3,50155,None
+Ponsegromab,Acute Coronary Syndrome (ACS),Acute Coronary Syndrome (ACS),0,0,0,0,0,70.1,54.9,125,NA,None
+Ponsegromab,Chronic obstructive pulmonary disease,***Chronic Obstructive Pulmonary Disease (COPD),0.024004291,0.120021454,0.145883743,0.668768235,0.814651978,72,52.9,124.9,20112162,None
+Ponsegromab,Hemorrhage,Hemorrhage,0,0,0,0,0,74.9,49.9,124.8,396496,None
+Ponsegromab,Intestinal Neoplasms,Intestinal Neoplasms,0,0,0,0,0,76,48.7,124.7,2121796,None
+Ponsegromab,Hemoglobinopathies,Hemoglobinopathies,0,0,0,0,0,66.2,58.3,124.5,64950835,None
+Ponsegromab,Ovarian Diseases,Ovarian Diseases,0,0,0,0,0,71,52.4,123.4,789207,None
+Ponsegromab,Structural Heart Diseases,Structural Heart Diseases,0,0,0,0,0,82.9,40.5,123.4,NA,None
+Ponsegromab,Ischemic Stroke,Ischemic Stroke,0,0,0,0,0,59.6,63.3,122.9,5860973,None
+Ponsegromab,Sarcopenia,Sarcopenia,0,0,0,0,0,63.6,59.2,122.8,3410860,None
+Ponsegromab,Liver Cirrhosis,Liver Cirrhosis,0,0,0,0,0,68.6,54.1,122.7,1106959,None
+Ponsegromab,Hematologic Malignancies,Hematologic Malignancies,0,0,0,0,0,63.4,59.1,122.5,3241352,None
+Ponsegromab,Breast Cancer,Breast Cancer,0.02424421,0.121221049,0.211272216,0.675151953,0.886424169,67,55.2,122.3,2812910,None
+Ponsegromab,Heart Valve Diseases,Heart Valve Diseases,0,0,0,0,0,61.6,60.6,122.2,1039957,None
+Ponsegromab,Bladder/Urothelial Cancer,Bladder/Urothelial Cancer,0,0,0,0,0,65.6,56,121.6,264448,None
+Ponsegromab,Neuromuscular Diseases,Neuromuscular Diseases,0,0,0,0,0,71.7,49.6,121.4,NA,None
+Ponsegromab,Aortic Valve Stenosis,Aortic Valve Stenosis,0,0,0,0,0,62.8,58.2,121.1,81849,None
+Ponsegromab,Chronic Heart Failure,Chronic Heart Failure,0,0,0,0,0,65.7,55.4,121.1,1823483,None
+Ponsegromab,COVID-19 / SARS-CoV-2,COVID-19 / SARS-CoV-2,0,0,0,0,0,55.3,65.8,121.1,6689009,None
+Ponsegromab,Early Stage,Early Stage,0,0,0,0,0,65.1,55.9,121,195041,None
+Ponsegromab,Hypertension (High Blood Pressure),Hypertension (High Blood Pressure),0,0,0,0,0,77,44,121,NA,None
+Ponsegromab,Geriatric Oncology,Geriatric Oncology,0,0,0,0,0,69,52,120.9,40818,None
+Ponsegromab,Hyperglycemia,Hyperglycemia,0,0,0,0,0,61.6,58.4,120,2286884,None
+Ponsegromab,Thromboembolism,Thromboembolism,0,0,0,0,0,54.4,65.6,120,2726821,None
+Ponsegromab,Congenital Hemolytic Anemia,Congenital Hemolytic Anemia,0,0,0,0,0,66,53.3,119.3,NA,None
+Ponsegromab,Hematologic Diseases (Hematology),Hematologic Diseases (Hematology),0,0,0,0,0,73.5,45.6,119.1,244323,None
+Ponsegromab,Primary pulmonary hypertension,Pulmonary Hypertension,0.09,0,0.078845786,0.394228931,0.473074717,72.1,46.6,118.7,327,None
+Ponsegromab,Metastatic Castration-Resistant Prostate Cancer (mCRPC),Metastatic Castration-Resistant Prostate Cancer (mCRPC),0,0,0,0,0,51,67.4,118.4,1754160,None
+Ponsegromab,Bronchial Neoplasms,Bronchial Neoplasms,0,0,0,0,0,71.7,46.5,118.2,2121796,None
+Ponsegromab,Aortic Valve Disease,Aortic Valve Disease,0,0,0,0,0,62.2,55.2,117.4,1422544,None
+Ponsegromab,Hepatocellular Carcinoma (HCC),Hepatocellular Carcinoma (HCC),0,0,0,0,0,64.2,52.9,117.1,81849,None
+Ponsegromab,Mitochondrial myopathy,Mitochondrial Myopathies,0,0,0.145903925,0.729172891,0.875076816,62.2,54.9,117.1,NA,None
+Ponsegromab,Morbid Obesity,Morbid Obesity,0,0,0,0,0,57.8,59.3,117.1,2905055,None
+Ponsegromab,Malnutrition,Malnutrition,0,0,0,0,0,65.2,51.7,116.9,17362891,None
+Ponsegromab,Cerebral Small Vessel Diseases,Cerebral Small Vessel Diseases,0,0,0,0,0,52.4,64.4,116.8,3740328,None
+Ponsegromab,Sepsis,Sepsis,0,0,0,0,0,68.2,48.4,116.6,247943,None
+Ponsegromab,Benign Hematology,Benign Hematology,0,0,0,0,0,71,45.2,116.2,NA,None
+Ponsegromab,Male Genital Neoplasms,Male Genital Neoplasms,0,0,0,0,0,73,43.2,116.2,2121796,None
+Ponsegromab,Papillary Thyroid Cancer,Papillary Thyroid Cancer,0,0,0,0,0,54,61.9,115.9,2847695,None
+Ponsegromab,Virus Diseases,Virus Diseases,0,0,0,0,0,69.6,46.2,115.8,1870094,None
+Ponsegromab,Adiposity,Adiposity,0,0,0,0,0,58.5,57.1,115.6,1431863,None
+Ponsegromab,Autoimmune Connective Tissue Diseases,Autoimmune Connective Tissue Diseases,0,0,0,0,0,68.6,47,115.6,16370,None
+Ponsegromab,Castration Resistant Prostate Cancer (CRPC),Castration Resistant Prostate Cancer (CRPC),0,0,0,0,0,49.2,66.3,115.5,1754160,None
+Ponsegromab,Liver Cancer,Liver Cancer,0,0,0,0,0,62.8,52.6,115.4,43154,None
+Ponsegromab,Melanoma,Melanoma,0,0,0,0,0,71,44.3,115.4,NA,None
+Ponsegromab,Pulmonary Fibrosis,Pulmonary Fibrosis,0,0,0,0,0,66.1,49.1,115.2,81849,None
+Ponsegromab,Dyslipidemias,Dyslipidemias,0,0,0,0,0,54.5,60.5,115,71505530,None
+Ponsegromab,Systemic Sclerosis (Scleroderma),Systemic Sclerosis (Scleroderma),0,0,0,0,0,60.2,54.8,115,81849,None
+Ponsegromab,Atherosclerotic Cardiovascular Diseases (ASCVD),Atherosclerotic Cardiovascular Diseases (ASCVD),0,0,0,0,0,80.1,34.6,114.7,NA,None
+Ponsegromab,End Stage Renal Disease (ESRD),End Stage Renal Disease (ESRD),0,0,0,0,0,62.9,51.8,114.7,560849,None
+Ponsegromab,Peripheral Arterial Disease (PAD),Peripheral Arterial Disease (PAD),0,0,0,0,0,55.1,59.4,114.4,12439261,None
+Ponsegromab,Kidney Failure,Kidney Failure,0.023465403,0.117327017,0.144467753,0.637313528,0.781781281,64.3,50.1,114.3,724456,None
+Ponsegromab,Dilated Cardiomyopathy,Dilated Cardiomyopathy,0,0,0,0,0,57,57.2,114.2,81849,None
+Ponsegromab,Gynecological Cancers,Gynecological Cancers,0,0,0,0,0,66.2,48,114.2,101693,None
+Ponsegromab,Glucose Intolerance,Glucose Intolerance,0,0,0,0,0,59.7,54.2,113.9,2286884,None
+Ponsegromab,Acid-Base Imbalance,Acid-Base Imbalance,0,0,0,0,0,56,57.8,113.8,5012635,None
+Ponsegromab,Lipid Metabolism Disorders,Lipid Metabolism Disorders,0,0,0,0,0,58.2,55.5,113.8,45675932,None
+Ponsegromab,Major Bleeding,Major Bleeding,0,0,0,0,0,67.5,46.3,113.8,141993,None
+Ponsegromab,Embolism,Embolism,0,0,0,0,0,55.1,58.6,113.7,2726821,None
+Ponsegromab,Prediabetes,Prediabetes,0,0,0,0,0,59.1,54.6,113.7,2286884,None
+Ponsegromab,Metastatic Melanoma,Metastatic Melanoma,0,0,0,0,0,51,62.7,113.6,195041,None
+Ponsegromab,Cognitive Impairment (Cognitive Dysfunction),Cognitive Impairment (Cognitive Dysfunction),0,0,0,0,0,59.1,54.2,113.3,1482060,None
+Ponsegromab,Mitochondrial Encephalomyopathies,Mitochondrial Encephalomyopathies,0,0,0,0,0,51.5,61.9,113.3,269129,None
+Ponsegromab,Fibrosis,Fibrosis,0,0,0,0,0,80.6,32.3,112.8,NA,None
+Ponsegromab,Urination Disorders,Urination Disorders,0,0,0,0,0,66,46.6,112.7,11439598,None
+Ponsegromab,Thalassemias,Thalassemias,0,0,0,0,0,67.1,45.4,112.5,7794,None
+Ponsegromab,Venous Thromboembolisms (VTE),Venous Thromboembolisms (VTE),0,0,0,0,0,59.8,52.7,112.5,121167,None
+Ponsegromab,Iron Deficiencies,Iron Deficiencies,0,0,0,0,0,56.9,55.3,112.2,14374961,None
+Ponsegromab,Oral Cancer (Mouth Cancer),Oral Cancer (Mouth Cancer),0,0,0,0,0,55.8,56.2,112,170236,None
+Ponsegromab,Acidosis,Acidosis,0,0,0,0,0,56.3,55.5,111.8,2888507,None
+Ponsegromab,Arterial Occlusive Diseases,Arterial Occlusive Diseases,0,0,0,0,0,79.6,32.2,111.8,NA,None
+Ponsegromab,Wasting Syndrome,Wasting Syndrome,0,0,0,0,0,54,57.8,111.8,NA,None
+Ponsegromab,Peripheral Vascular Diseases,Peripheral Vascular Diseases,0,0,0,0,0,55.3,55.8,111.2,12439261,None
+Ponsegromab,HFrEF,"Heart Failure with reduced Ejection Fraction (HFrEF, Systolic HF)",0.18,0,0.130460164,0.637324222,0.767784386,71,40,111,NA,None
+Ponsegromab,Immune System Diseases,Immune System Diseases,0,0,0,0,0,70.9,40.1,111,NA,None
+Ponsegromab,Interstitial Lung Diseases (ILD),Interstitial Lung Diseases (ILD),0,0,0,0,0,66.7,44.4,111,81849,None
+Ponsegromab,Cardiac Fibrosis,Cardiac Fibrosis,0,0,0,0,0,73.8,36.9,110.7,NA,None
+Ponsegromab,Pancreatic Ductal Adenocarcinoma,Pancreatic Ductal Adenocarcinoma,0,0,0,0,0,55.9,54.7,110.6,NA,None
+Ponsegromab,Metastatic Breast Cancer,Metastatic Breast Cancer,0,0,0,0,0,42.9,67.1,110,4313770,None
+Ponsegromab,Urinary Bladder Diseases,Urinary Bladder Diseases,0,0,0,0,0,64.7,45,109.8,1923031,None
+Ponsegromab,Ovarian Cancer,Ovarian Cancer,0,0,0,0,0,68,41.6,109.7,101693,None
+Ponsegromab,Neurodegenerative Diseases,Neurodegenerative Diseases,0,0,0,0,0,63,46.6,109.6,4893995,None
+Ponsegromab,Anemia,Iron Deficiency Anemia,0.065238977,0.326194886,0.136913871,0.673064612,0.809978483,55.3,54.1,109.4,339369,None
+Ponsegromab,Hypochromic Anemia,Hypochromic Anemia,0,0,0,0,0,55.3,54,109.3,339369,None
+Ponsegromab,Head and Neck Squamous Cell Carcinoma (HNSCC),Head and Neck Squamous Cell Carcinoma (HNSCC),0,0,0,0,0,59.7,49.5,109.2,16370,None
+Ponsegromab,Inborn Errors of Metabolism,Inborn Errors of Metabolism,0,0,0,0,0,63.7,45.5,109.2,45890,None
+Ponsegromab,Iron Metabolism Disorders,Iron Metabolism Disorders,0,0,0,0,0,61.6,47.1,108.8,296860,None
+Ponsegromab,Alcohol-Related Disorders,Alcohol-Related Disorders,0,0,0,0,0,57,51.7,108.7,440518,None
+Ponsegromab,HIV,HIV,0,0,0,0,0,56.6,52,108.7,1740035,None
+Ponsegromab,Upper Tract Urothelial Cancer (UTUC),Upper Tract Urothelial Cancer (UTUC),0,0,0,0,0,63.9,44.7,108.6,16370,None
+Ponsegromab,Epithelial Ovarian Cancer,Epithelial Ovarian Cancer,0,0,0,0,0,48.3,59.9,108.2,101693,None
+Ponsegromab,Urothelial Carcinoma (Transitional Cell Carcinoma),Urothelial Carcinoma (Transitional Cell Carcinoma),0,0,0,0,0,64.2,43.8,108.1,NA,None
+Ponsegromab,Metabolic Syndrome,Metabolic Syndrome,0,0,0,0,0,59.2,48.5,107.7,45890,None
+Ponsegromab,Pregnancy Complications,Pregnancy Complications,0,0,0,0,0,63.4,44.2,107.7,1253075,None
+Ponsegromab,Acute Myeloid Leukemia (AML),Acute Myeloid Leukemia (AML),0,0,0,0,0,53.1,54.3,107.4,21332,None
+Ponsegromab,Amyloidosis,Amyloidosis,0,0,0,0,0,50,57.2,107.2,16370,None
+Ponsegromab,Left Ventricular Dysfunction,Left Ventricular Dysfunction,0,0,0,0,0,67.1,39.8,106.9,217128,None
+Ponsegromab,Metabolic Dysfunction-Associated Steatohepatitis (MASH / NASH),Metabolic Dysfunction-Associated Steatohepatitis (MASH / NASH),0,0,0,0,0,58.8,48.1,106.9,NA,None
+Ponsegromab,Ureteral Neoplasms,Ureteral Neoplasms,0,0,0,0,0,57.2,49.5,106.7,2121796,None
+Ponsegromab,Lactic Acidosis,Lactic Acidosis,0,0,0,0,0,46.1,60.5,106.6,2888507,None
+Ponsegromab,ST Elevation Myocardial Infarction,ST Elevation Myocardial Infarction,0,0,0,0,0,57.3,49.3,106.6,4844922,None
+Ponsegromab,HER2 Positive (HER2+) Breast Cancer,HER2 Positive (HER2+) Breast Cancer,0,0,0,0,0,38.5,68,106.5,2277915,None
+Ponsegromab,Esophageal Squamous Cell Carcinoma (ESCC),Esophageal Squamous Cell Carcinoma (ESCC),0,0,0,0,0,50,56.4,106.4,NA,None
+Ponsegromab,Substance Use Disorders,Substance Use Disorders,0,0,0,0,0,55.3,51,106.4,10680870,None
+Ponsegromab,Cardiovascular Abnormalities,Cardiovascular Abnormalities,0,0,0,0,0,57.5,48.6,106.2,2589546,None
+Ponsegromab,Mental Disorders (Psychiatry),Mental Disorders (Psychiatry),0,0,0,0,0,63,43.1,106.1,1503512,None
+Ponsegromab,Stomach Diseases,Stomach Diseases,0,0,0,0,0,58.3,47.8,106,2124128,None
+Ponsegromab,Vascular Calcification,Vascular Calcification,0,0,0,0,0,51.2,54.8,106,577300,None
+Ponsegromab,Inflammatory Diseases,Inflammatory Diseases,0,0,0,0,0,75.1,30.8,105.9,NA,None
+Ponsegromab,Idiopathic Pulmonary Fibrosis (IPF),Idiopathic Pulmonary Fibrosis (IPF),0,0,0,0,0,56.5,49.2,105.7,81849,None
+Ponsegromab,Metabolic Brain Diseases,Metabolic Brain Diseases,0,0,0,0,0,53.3,52.4,105.7,269129,None
+Ponsegromab,Proteostasis Deficiencies,Proteostasis Deficiencies,0,0,0,0,0,52.5,53.2,105.7,NA,None
+Ponsegromab,Heart Disease Risk Factors,Heart Disease Risk Factors,0,0,0,0,0,63.8,41.6,105.4,NA,None
+Ponsegromab,Leukemias,Leukemias,0,0,0,0,0,51.2,54.2,105.4,218607,None
+Ponsegromab,Respiration Disorders,Respiration Disorders,0,0,0,0,0,58.4,46.8,105.2,2449032,None
+Ponsegromab,Idiopathic Interstitial Pneumonias (IIPs),Idiopathic Interstitial Pneumonias (IIPs),0,0,0,0,0,56.1,48.9,105.1,NA,None
+Ponsegromab,Stomatognathic Diseases,Stomatognathic Diseases,0,0,0,0,0,67.9,37.2,105.1,3605239,None
+Ponsegromab,Glioblastoma,Glioblastoma,0,0,0,0,0,56.6,48.4,104.9,16370,None
+Ponsegromab,Adult Infectious Disease,Adult Infectious Disease,0,0,0,0,0,62,42.9,104.8,NA,None
+Ponsegromab,Hormone-Sensitive Prostate Cancer (HSPC),Hormone-Sensitive Prostate Cancer (HSPC),0,0,0,0,0,42.1,62.8,104.8,1754160,None
+Ponsegromab,Respiratory Distress Syndrome,Respiratory Distress Syndrome,0,0,0,0,0,54.5,50.3,104.8,NA,None
+Ponsegromab,Iron Overload,Iron Overload,0,0,0,0,0,58,46.7,104.7,296860,None
+Ponsegromab,Adenocarcinoma,Adenocarcinoma,0,0,0,0,0,72,32.5,104.5,NA,None
+Ponsegromab,Atherosclerotic Plaque (Atherosclerosis),Atherosclerotic Plaque (Atherosclerosis),0,0,0,0,0,70,34.3,104.3,NA,None
+Ponsegromab,IgA Nephropathy,IgA Nephropathy,0,0,0,0,0,46.7,57.1,103.8,1041348,None
+Ponsegromab,Brain Ischemia,Brain Ischemia,0,0,0,0,0,51.7,52,103.7,269129,None
+Ponsegromab,Gastric Cancer,Gastric Cancer,0,0,0,0,0,56.8,46.9,103.7,84947,None
+Ponsegromab,Exocrine Pancreatic Cancer,Exocrine Pancreatic Cancer,0,0,0,0,0,56.2,47.4,103.6,NA,None
+Ponsegromab,Hemolytic Anemia,Hemolytic Anemia,0,0,0,0,0,66.3,37.3,103.6,NA,None
+Ponsegromab,Autoimmune Disorders,Autoimmune Disorders,0,0,0,0,0,72.3,31,103.3,NA,None
+Ponsegromab,Infections (Infectious Diseases),Infections (Infectious Diseases),0,0,0,0,0,70.5,32.7,103.2,NA,None
+Ponsegromab,Astrocytoma,Astrocytoma,0,0,0,0,0,56.8,46,102.8,16370,None
+Ponsegromab,Thyroid Neoplasms,Thyroid Neoplasms,0,0,0,0,0,52.7,49.9,102.6,220320,None
+Ponsegromab,Polyneuropathies,Polyneuropathies,0,0,0,0,0,45.7,56.8,102.5,3145758,None
+Ponsegromab,Depressive Disorders / Depression,Depressive Disorders / Depression,0,0,0,0,0,49,53.4,102.4,15263323,None
+Ponsegromab,Hemorrhagic Stroke,Hemorrhagic Stroke,0,0,0,0,0,40,62.4,102.4,7078728,None
+Ponsegromab,Viral Hepatitis-Associated Hepatocellular Carcinoma,Viral Hepatitis-Associated Hepatocellular Carcinoma,0,0,0,0,0,60.9,41.5,102.4,NA,None
+Ponsegromab,Congenital Abnormalities,Congenital Abnormalities,0,0,0,0,0,63.8,38.5,102.3,1482540,None
+Ponsegromab,Mucositis,Mucositis,0,0,0,0,0,34.7,67.5,102.2,39214678,None
+Ponsegromab,Cardiac Sudden Death,Cardiac Sudden Death,0,0,0,0,0,43.4,58.8,102.1,2921511,None
+Ponsegromab,Acute Ischemic Stroke,Acute Ischemic Stroke,0,0,0,0,0,39.3,62.4,101.7,573257,None
+Ponsegromab,Triple Negative Breast Cancer (TNBC),Triple Negative Breast Cancer (TNBC),0,0,0,0,0,35.1,66.6,101.7,2277915,None
+Ponsegromab,Diabetic Cardiomyopathy,Diabetic Cardiomyopathy,0,0,0,0,0,42.9,58.6,101.5,25829598,None
+Ponsegromab,Metastatic Colorectal Cancer (mCRC),Metastatic Colorectal Cancer (mCRC),0,0,0,0,0,45.9,55.6,101.5,NA,None
+Ponsegromab,AIDS / HIV,AIDS / HIV,0,0,0,0,0,56.4,45,101.4,1740035,None
+Ponsegromab,Sexually Transmitted Infections (STI),Sexually Transmitted Infections (STI),0,0,0,0,0,58.6,42.8,101.4,65151701,None
+Ponsegromab,Myeloid Leukemia,Myeloid Leukemia,0,0,0,0,0,52.7,48.5,101.2,21332,None
+Ponsegromab,Bone Metastases,Bone Metastases,0,0,0,0,0,49.9,50.6,100.4,NA,None
+Ponsegromab,Cognition Disorders,Cognition Disorders,0,0,0,0,0,58.4,42,100.4,NA,None
+Ponsegromab,Respiratory Tract Infections,Respiratory Tract Infections,0,0,0,0,0,53.7,46.7,100.4,299033,None
+Ponsegromab,Congenital Heart Diseases,Congenital Heart Diseases,0,0,0,0,0,58.3,42.1,100.3,391835,None
+Ponsegromab,Inborn Metabolic Brain Diseases,Inborn Metabolic Brain Diseases,0,0,0,0,0,53.8,46.4,100.2,342750,None
+Ponsegromab,Thoracic Injuries,Thoracic Injuries,0,0,0,0,0,59.9,40.2,100.2,NA,None
+Ponsegromab,Beta Thalassemia,Beta Thalassemia,0,0,0.129444517,0.647222587,0.776667104,50.5,49.2,99.8,16370,None
+Ponsegromab,Acute Migraine,Acute Migraine,0,0,0,0,0,37.2,62.4,99.6,6166052,None
+Ponsegromab,Dementia,Dementia,0,0,0,0,0,55.2,44.4,99.6,4893995,None
+Ponsegromab,Acute Lung Injury,Acute Lung Injury,0,0,0,0,0,42.2,57.3,99.5,81849,None
+Ponsegromab,Gliomas,Gliomas,0,0,0,0,0,54.9,44.5,99.5,NA,None
+Ponsegromab,Embolic Stroke,Embolic Stroke,0,0,0,0,0,47,52.4,99.4,573257,None
+Ponsegromab,Essential Hypertension,Essential Hypertension,0,0,0,0,0,41.4,58,99.4,61127270,None
+Ponsegromab,Metastatic Lung Cancer,Metastatic Lung Cancer,0,0,0,0,0,44.3,55.1,99.4,NA,None
+Ponsegromab,Water-Electrolyte Imbalance,Water-Electrolyte Imbalance,0,0,0,0,0,45.7,53.4,99.2,4206218,None
+Ponsegromab,Localized Prostate Cancer,Localized Prostate Cancer,0,0,0,0,0,36.4,62.6,99,1754160,None
+Ponsegromab,Connective Tissue Diseases,Connective Tissue Diseases,0,0,0,0,0,68.1,30.8,98.9,NA,None
+Ponsegromab,Left Ventricular Hypertrophy,Left Ventricular Hypertrophy,0,0,0,0,0,53.1,45.7,98.9,2556982,None
+Ponsegromab,Chronic Progressive Multiple Sclerosis,Chronic Progressive Multiple Sclerosis,0,0,0,0,0,36,62.7,98.8,791129,None
+Ponsegromab,Diabetic Neuropathy,Diabetic Neuropathy,0,0,0,0,0,28.6,70.2,98.8,38789457,None
+Ponsegromab,Advanced / Metastatic Breast Cancer,Advanced / Metastatic Breast Cancer,0,0,0,0,0,42.2,56.2,98.3,2277915,None
+Ponsegromab,Critical Illness,Critical Illness,0,0,0,0,0,59.5,38.8,98.3,NA,None
+Ponsegromab,Glomerulonephritis,Glomerulonephritis,0,0,0,0,0,55.6,42.7,98.3,783501,None
+Ponsegromab,Cystadenocarcinoma,Cystadenocarcinoma,0,0,0,0,0,39.3,58.7,98,195041,None
+Ponsegromab,Tauopathies,Tauopathies,0,0,0,0,0,53,45,98,4893995,None
+Ponsegromab,Calcinosis,Calcinosis,0,0,0,0,0,47.9,50,97.9,296860,None
+Ponsegromab,Plasma Cell Disorders,Plasma Cell Disorders,0,0,0,0,0,50.1,47.8,97.8,NA,None
+Ponsegromab,Endometrial Cancer,Endometrial Cancer,0,0,0,0,0,45.7,51.8,97.5,NA,None
+Ponsegromab,Leukoencephalopathies,Leukoencephalopathies,0,0,0,0,0,39.1,58.4,97.5,2040622,None
+Ponsegromab,Mitochondrial DNA Depletion Syndromes (MDDS),Mitochondrial DNA Depletion Syndromes (MDDS),0,0,0,0,0,59.3,38.2,97.5,NA,None
+Ponsegromab,Paraproteinemias,Paraproteinemias,0,0,0,0,0,49.7,47.5,97.1,NA,None
+Ponsegromab,Occupational Asthma,Occupational Asthma,0,0,0,0,0,40.5,56.5,97,18578193,None
+Ponsegromab,Polycystic Ovary Syndrome (PCOS),Polycystic Ovary Syndrome (PCOS),0,0,0,0,0,43.6,53.4,97,4819447,None
+Ponsegromab,Primary Progressive Multiple Sclerosis (PPMS),Primary Progressive Multiple Sclerosis (PPMS),0,0,0,0,0,37.6,59.2,96.8,791129,None
+Ponsegromab,Parkinson's Disease,Parkinson's Disease,0,0,0,0,0,49.2,47.5,96.7,617093,None
+Ponsegromab,Osteoarthritis,Osteoarthritis,0,0,0,0,0,40.5,56.1,96.5,51773846,None
+Ponsegromab,Anaplastic Thyroid Cancer,Anaplastic Thyroid Cancer,0,0,0,0,0,41.7,54.7,96.4,1637,None
+Ponsegromab,Hepatitis C / HCV,Hepatitis C / HCV,0,0,0,0,0,45.1,51.3,96.4,19931,None
+Ponsegromab,Radiation Injuries,Radiation Injuries,0,0,0,0,0,58.2,38.1,96.4,NA,None
+Ponsegromab,Bone Neoplasms,Bone Neoplasms,0,0,0,0,0,46.6,49.7,96.3,2121796,None
+Ponsegromab,Hyperlipidemias,Hyperlipidemias,0,0,0,0,0,40.9,55.4,96.3,45675932,None
+Ponsegromab,Lung Adenocarcinoma,Lung Adenocarcinoma,0,0,0,0,0,34.3,62,96.3,689620,None
+Ponsegromab,Nervous System Tumors,Nervous System Tumors,0,0,0,0,0,55.2,41.1,96.3,NA,None
+Ponsegromab,Alzheimer's Disease,Alzheimer's Disease,0,0,0,0,0,53.1,43.1,96.2,4893995,None
+Ponsegromab,Pediatric Respiratory Diseases,Pediatric Respiratory Diseases,0,0,0,0,0,47.7,48.5,96.1,2449032,None
+Ponsegromab,Motor Neuron Disease,Motor Neuron Disease,0,0,0,0,0,43.6,52.4,96,37666,None
+Ponsegromab,Thrombosis,Thrombosis,0,0,0,0,0,53.2,42.7,95.9,121167,None
+Ponsegromab,Acute Pain,Acute Pain,0,0,0,0,0,50.7,45.1,95.8,4258038,None
+Ponsegromab,Chronic Migraine,Chronic Migraine,0,0,0,0,0,39.8,55.9,95.7,6166052,None
+Ponsegromab,Leigh Disease,Leigh Disease,0,0,0,0,0,44.3,51.4,95.7,16370,None
+Ponsegromab,Ovarian Cysts,Ovarian Cysts,0,0,0,0,0,43.2,52.5,95.7,789207,None
+Ponsegromab,Pulmonary Embolism (PE),Pulmonary Embolism (PE),0,0,0,0,0,47,48.4,95.4,400457,None
+Ponsegromab,MELAS Syndrome,MELAS Syndrome,0,0,0,0,0,50.9,44.4,95.3,1637,None
+Ponsegromab,Amyotrophic lateral sclerosis,Amyotrophic Lateral Sclerosis (ALS),0.02418989,0.120949449,0.156898725,0.639862641,0.796761366,43.8,51.4,95.2,16370,None
+Ponsegromab,Reperfusion Injury,Reperfusion Injury,0,0,0,0,0,53.6,41.6,95.1,NA,None
+Ponsegromab,Synucleinopathies,Synucleinopathies,0,0,0,0,0,48.9,46,94.9,307912,None
+Ponsegromab,Vision Disorders,Vision Disorders,0,0,0,0,0,43.2,51.7,94.9,10701413,None
+Ponsegromab,Breast Ductal Carcinoma,Breast Ductal Carcinoma,0,0,0,0,0,36.6,57.9,94.5,2277915,None
+Ponsegromab,Mouth Diseases,Mouth Diseases,0,0,0,0,0,65,29.5,94.5,429740,None
+Ponsegromab,Avitaminosis,Avitaminosis,0,0,0,0,0,47.3,47.1,94.4,4616527,None
+Ponsegromab,Lower-Risk Myelodysplastic Syndromes (MDS),Lower-Risk Myelodysplastic Syndromes (MDS),0,0,0,0,0,40.4,54,94.4,NA,None
+Ponsegromab,Right Ventricular Dysfunction,Right Ventricular Dysfunction,0,0,0,0,0,49.7,44.7,94.4,1823483,None
+Ponsegromab,Adult Sickle Cell Disease,Adult Sickle Cell Disease,0,0,0,0,0,40.7,53.5,94.2,NA,None
+Ponsegromab,Hereditary Sensory and Motor Neuropathy,Hereditary Sensory and Motor Neuropathy,0,0,0,0,0,46.6,47.7,94.2,NA,None
+Ponsegromab,High-Risk Prostate Cancer,High-Risk Prostate Cancer,0,0,0,0,0,36.6,57.3,93.8,1754160,None
+Ponsegromab,Idiopathic Inflammatory Myopathies,Idiopathic Inflammatory Myopathies,0,0,0,0,0,48,45.7,93.7,327,None
+Ponsegromab,Rheumatoid Arthritis (RA),Rheumatoid Arthritis (RA),0,0,0,0,0,43.8,49.8,93.7,1619893,None
+Ponsegromab,Charcot-Marie-Tooth Disease,Charcot-Marie-Tooth Disease,0,0,0,0,0,47.4,46.1,93.5,NA,None
+Ponsegromab,Pancreatic Intraductal Neoplasms,Pancreatic Intraductal Neoplasms,0,0,0,0,0,42.8,50.6,93.4,3659822,None
+Ponsegromab,Head and Neck Cancers,Head and Neck Cancers,0,0,0,0,0,48.9,44.4,93.3,40818,None
+Ponsegromab,Nervous System Heredodegenerative Disorders,Nervous System Heredodegenerative Disorders,0,0,0,0,0,46.4,46.9,93.3,1499787,None
+Ponsegromab,TDP-43 Proteinopathies,TDP-43 Proteinopathies,0,0,0,0,0,43,50.3,93.3,NA,None
+Ponsegromab,Central Nervous System Tumors,Central Nervous System Tumors,0,0,0,0,0,52.1,41.2,93.2,NA,None
+Ponsegromab,Pancreatitis,Pancreatitis,0,0,0,0,0,51.5,41.7,93.2,264485,None
+Ponsegromab,Rheumatic Diseases (Rheumatology),Rheumatic Diseases (Rheumatology),0,0,0,0,0,49.7,43.5,93.2,10763146,None
+Ponsegromab,Non-Promyelocytic Acute Myeloid Leukemia (Non-M3 AML),Non-Promyelocytic Acute Myeloid Leukemia (Non-M3 AML),0,0,0,0,0,53.5,39.6,93.1,NA,None
+Ponsegromab,Small Cell Lung Cancer (SCLC),Small Cell Lung Cancer (SCLC),0,0,0,0,0,33.7,59.2,92.9,689620,None
+Ponsegromab,Pediatric Thalassemias,Pediatric Thalassemias,0,0,0,0,0,48,44.8,92.8,NA,None
+Ponsegromab,Asthma,Asthma,0,0,0,0,0,38.9,53.7,92.5,33894211,None
+Ponsegromab,Cancer-Associated Thrombosis,Cancer-Associated Thrombosis,0,0,0,0,0,35.9,56.6,92.4,121167,None
+Ponsegromab,Open-Angle Glaucoma,Open-Angle Glaucoma,0,0,0,0,0,54,38.4,92.4,5025903,None
+Ponsegromab,Severe Aortic Valve Insufficiency,Severe Aortic Valve Insufficiency,0,0,0,0,0,46.7,45.7,92.4,75729,None
+Ponsegromab,Alcoholic Liver Disease,Alcoholic Liver Disease,0,0,0,0,0,36.7,55.7,92.3,NA,None
+Ponsegromab,Eye Diseases (Ophthalmology),Eye Diseases (Ophthalmology),0,0,0,0,0,54.7,37.6,92.3,2351767,None
+Ponsegromab,Parkinsonian Disorders,Parkinsonian Disorders,0,0,0,0,0,48.1,44.1,92.2,696404,None
+Ponsegromab,Uterine Neoplasms,Uterine Neoplasms,0,0,0,0,0,52.8,39.3,92.1,629407,None
+Ponsegromab,Disease Susceptibility,Disease Susceptibility,0,0,0,0,0,53.4,38.5,91.9,NA,None
+Ponsegromab,Childhood Leukemia,Childhood Leukemia,0,0,0,0,0,31.2,60.6,91.8,687573,None
+Ponsegromab,Papillary Adenocarcinoma,Papillary Adenocarcinoma,0,0,0,0,0,53.8,38,91.8,NA,None
+Ponsegromab,Liver Metastases,Liver Metastases,0,0,0,0,0,35.6,55.9,91.6,195041,None
+Ponsegromab,Generalized Epilepsy,Generalized Epilepsy,0,0,0,0,0,47.3,44.1,91.4,1242619,None
+Ponsegromab,Nephritis,Nephritis,0.024762563,0,0.133691814,0.60654384,0.740235654,54.3,36.9,91.2,NA,None
+Ponsegromab,Non-Valvular Atrial Fibrillation (NVAF),Non-Valvular Atrial Fibrillation (NVAF),0,0,0,0,0,39.4,51.8,91.2,3881520,None
+Ponsegromab,Alpha Thalassemia,Alpha Thalassemia,0,0,0,0,0,53.2,38,91.1,81849,None
+Ponsegromab,Bipolar Disorders,Bipolar Disorders,0,0,0,0,0,42.6,48.5,91,2118350,None
+Ponsegromab,Colonic Neoplasms,Colonic Neoplasms,0,0,0,0,0,48.3,42.6,91,2121796,None
+Ponsegromab,Systemic Lupus Erythematosus (SLE),Systemic Lupus Erythematosus (SLE),0,0,0,0,0,50.5,40.6,91,81849,None
+Ponsegromab,Gestational Diabetes,Gestational Diabetes,0,0,0,0,0,52.3,38.3,90.7,379951,None
+Ponsegromab,Kidney Cancer,Kidney Cancer,0,0,0,0,0,48.6,42.1,90.7,364034,None
+Ponsegromab,Aneurysm,Aneurysm,0,0,0,0,0,42.1,48.5,90.6,157386,None
+Ponsegromab,Chronic Kidney Disease (CKD) and Atherosclerotic Cardiovascular Disease (ASCVD),Chronic Kidney Disease (CKD) and Atherosclerotic Cardiovascular Disease (ASCVD),0,0,0,0,0,50.2,40.3,90.5,NA,None
+Ponsegromab,Migraine,Migraine,0,0,0,0,0,37.2,53.3,90.5,56636035,None
+Ponsegromab,Hereditary Eye Diseases,Hereditary Eye Diseases,0,0,0,0,0,41.1,49.2,90.3,4984643,None
+Ponsegromab,HIV Infections,HIV Infections,0,0,0,0,0,53,37.3,90.2,NA,None
+Ponsegromab,Viral Hepatitis,Viral Hepatitis,0,0,0,0,0,48.9,41.3,90.2,225712,None
+Ponsegromab,Cardio-Pulmonary Complications in Sickle Cell Disease (SCD),Cardio-Pulmonary Complications in Sickle Cell Disease (SCD),0,0,0,0,0,37.7,52.2,89.9,400457,None
+Ponsegromab,Primary Headache Disorders,Primary Headache Disorders,0,0,0,0,0,36.8,52.9,89.7,140063157,None
+Ponsegromab,Invasive Ductal Carcinoma (IDC),Invasive Ductal Carcinoma (IDC),0,0,0,0,0,35.5,54.2,89.6,2277915,None
+Ponsegromab,Focal Segmental Glomerulosclerosis (FSGS),Focal Segmental Glomerulosclerosis (FSGS),0,0,0,0,0,39.1,50.4,89.5,NA,None
+Ponsegromab,Thymidine Kinase 2 Deficiency (TK2D),Thymidine Kinase 2 Deficiency (TK2D),0,0,0,0,0,52.6,36.9,89.5,45890,None
+Ponsegromab,Type 1 Diabetes Mellitus,Type 1 Diabetes Mellitus,0,0,0,0,0,45.9,43.6,89.4,2654918,None
+Ponsegromab,Chronic Hepatitis,Chronic Hepatitis,0,0,0,0,0,51.9,37.3,89.2,NA,None
+Ponsegromab,Ureteral Obstruction,Ureteral Obstruction,0,0,0,0,0,41.8,47.4,89.2,2439938,None
+Ponsegromab,Esophageal Cancer,Esophageal Cancer,0,0,0,0,0,48.3,40.8,89.1,40475,None
+Ponsegromab,Hepatitis,Hepatitis,0,0,0,0,0,49.9,39.2,89.1,315864,None
+Ponsegromab,Immunologic Deficiency Syndromes,Immunologic Deficiency Syndromes,0,0,0,0,0,54.4,34.7,89.1,NA,None
+Ponsegromab,Multiple Myeloma,Multiple Myeloma,0,0,0,0,0,42.9,46.1,89,89407,None
+Ponsegromab,Endometrial Carcinoma,Endometrial Carcinoma,0,0,0,0,0,40.6,48.3,88.9,NA,None
+Ponsegromab,Gram-Negative Bacterial Infections,Gram-Negative Bacterial Infections,0,0,0,0,0,41.2,47.5,88.7,1944266,None
+Ponsegromab,Sexually Transmitted Viral Diseases,Sexually Transmitted Viral Diseases,0,0,0,0,0,51.8,36.9,88.7,NA,None
+Ponsegromab,Chronic Pancreatitis,Chronic Pancreatitis,0,0,0,0,0,41.4,47,88.5,1637,None
+Ponsegromab,Platinum-Sensitive Ovarian Cancer,Platinum-Sensitive Ovarian Cancer,0,0,0,0,0,37.2,51.3,88.5,101693,None
+Ponsegromab,Comorbidities in Psoriasis,Comorbidities in Psoriasis,0,0,0,0,0,33.1,55.4,88.4,1550095,None
+Ponsegromab,Platinum-Resistant/Refractory Ovarian Cancer,Platinum-Resistant/Refractory Ovarian Cancer,0,0,0,0,0,36.7,51.7,88.4,101693,None
+Ponsegromab,Bronchopulmonary Dysplasia,Bronchopulmonary Dysplasia,0,0,0,0,0,45,43.3,88.3,81849,None
+Ponsegromab,Myeloid Neoplasms,Myeloid Neoplasms,0,0,0,0,0,53.7,34.6,88.3,NA,None
+Ponsegromab,Chemotherapy-Induced Nausea and Vomiting (CINV),Chemotherapy-Induced Nausea and Vomiting (CINV),0,0,0,0,0,54.9,33.4,88.2,NA,None
+Ponsegromab,Myeloproliferative Neoplasms (MPN) (excl. CML),Myeloproliferative Neoplasms (MPN) (excl. CML),0,0,0,0,0,41.2,47.1,88.2,16370,None
+Ponsegromab,Inborn Errors of Lipid Metabolism,Inborn Errors of Lipid Metabolism,0,0,0,0,0,34.1,54,88.1,45675932,None
+Ponsegromab,Cardio-Renal Syndrome,Cardio-Renal Syndrome,0.18,0,0.116911356,0.584556782,0.701468138,35.1,52.9,88,3198905,None
+Ponsegromab,Metastatic Pancreatic Cancer,Metastatic Pancreatic Cancer,0,0,0,0,0,29.3,58.7,88,1530938,None
+Ponsegromab,Primary Myelofibrosis (PMF),Primary Myelofibrosis (PMF),0,0,0,0,0,40.9,47.2,88,16370,None
+Ponsegromab,Myositis,Myositis,0,0,0,0,0,46.8,41.1,87.9,NA,None
+Ponsegromab,Vascular Dementia,Vascular Dementia,0,0,0,0,0,37.6,50.3,87.9,NA,None
+Ponsegromab,Aortic Diseases,Aortic Diseases,0,0,0,0,0,44.1,43.7,87.8,150024,None
+Ponsegromab,Headache Disorders,Headache Disorders,0,0,0,0,0,36.5,51.3,87.8,140063157,None
+Ponsegromab,Tooth Loss,Tooth Loss,0,0,0,0,0,43.8,44,87.7,7830354,None
+Ponsegromab,Chemical and Drug Induced Liver Injury,Chemical and Drug Induced Liver Injury,0,0,0,0,0,40.9,46.7,87.6,662991,None
+Ponsegromab,Anemia in Chronic Kidney Disease (CKD),Anemia in Chronic Kidney Disease (CKD),0,0,0,0,0,36.3,51.2,87.5,40170198,None
+Ponsegromab,Basal Ganglia Diseases,Basal Ganglia Diseases,0,0,0,0,0,48.9,38.6,87.5,269129,None
+Ponsegromab,Heart Failure with Mid-Range Ejection Fraction (HFmEF),Heart Failure with Mid-Range Ejection Fraction (HFmEF),0,0,0,0,0,51.6,35.9,87.5,NA,None
+Ponsegromab,Membranous Nephropathy,Membranous Nephropathy,0,0,0,0,0,48.4,39,87.5,NA,None
+Ponsegromab,Advanced/Metastatic Liver Cancer,Advanced/Metastatic Liver Cancer,0,0,0,0,0,41.8,45.5,87.4,47927,None
+Ponsegromab,Angina Pectoris,Angina Pectoris,0,0,0,0,0,42.6,44.9,87.4,1655376,None
+Ponsegromab,Cutaneous Melanoma,Cutaneous Melanoma,0,0,0,0,0,49.1,38.3,87.4,NA,None
+Ponsegromab,Bone Resorption,Bone Resorption,0,0,0,0,0,49.1,38.3,87.3,654874,None
+Ponsegromab,Liver Failure,Liver Failure,0,0,0,0,0,40.9,46.4,87.3,NA,None
+Ponsegromab,Pseudomonas Infections,Pseudomonas Infections,0,0,0,0,0,31.8,55.4,87.2,1944266,None
+Ponsegromab,Hepatic Insufficiency,Hepatic Insufficiency,0,0,0,0,0,40.8,46.3,87.1,NA,None
+Ponsegromab,Hypothyroidism,Hypothyroidism,0,0,0,0,0,43.2,43.7,87,9886949,None
+Ponsegromab,Myelodysplastic Syndromes (MDS),Myelodysplastic Syndromes (MDS),0,0,0,0,0,40,47,87,16370,None
+Ponsegromab,RET Positive Thyroid Cancer,RET Positive Thyroid Cancer,0,0,0,0,0,30.1,56.9,87,220320,None
+Ponsegromab,Amyloid Light-Chain (AL) Amyloidosis,Amyloid Light-Chain (AL) Amyloidosis,0,0,0,0,0,33.4,53.5,86.9,16370,None
+Ponsegromab,Ductal Carcinoma In Situ (DCIS),Ductal Carcinoma In Situ (DCIS),0,0,0,0,0,32.5,54.4,86.9,2277915,None
+Ponsegromab,Choline Deficiency,Choline Deficiency,0,0,0,0,0,48.3,38.6,86.8,901348,None
+Ponsegromab,Inborn Errors of Pyruvate Metabolism,Inborn Errors of Pyruvate Metabolism,0,0,0,0,0,45.5,41.2,86.7,NA,None
+Ponsegromab,Intracranial Hemorrhage,Intracranial Hemorrhage,0,0,0,0,0,40,46.7,86.7,662592,None
+Ponsegromab,Cardiorespiratory Failure,Cardiorespiratory Failure,0,0,0,0,0,34.3,52.3,86.6,1539079,None
+Ponsegromab,Low-Risk Prostate Cancer,Low-Risk Prostate Cancer,0,0,0,0,0,35.4,51.1,86.6,1754160,None
+Ponsegromab,Progressive Pulmonary Fibrosis,Progressive Pulmonary Fibrosis,0,0,0,0,0,37.1,49.4,86.6,NA,None
+Ponsegromab,Uterine Sarcoma,Uterine Sarcoma,0,0,0,0,0,36.6,49.9,86.5,116613,None
+Ponsegromab,Bloodstream Infections,Bloodstream Infections,0,0,0,0,0,42.7,43.7,86.4,247943,None
+Ponsegromab,Diabetic Angiopathies,Diabetic Angiopathies,0,0,0,0,0,28.9,57.4,86.4,25829598,None
+Ponsegromab,MSI-High/MMR-Deficient Cancers,MSI-High/MMR-Deficient Cancers,0,0,0,0,0,28.8,57.6,86.4,195041,None
+Ponsegromab,Pediatric Oncology,Pediatric Oncology,0,0,0,0,0,44.9,41.3,86.3,NA,None
+Ponsegromab,Periodontal Diseases,Periodontal Diseases,0,0,0,0,0,45.9,40.4,86.3,42074382,None
+Ponsegromab,Tooth Diseases,Tooth Diseases,0,0,0,0,0,50.1,36.2,86.3,3387914,None
+Ponsegromab,Blood Protein Disorders,Blood Protein Disorders,0,0,0,0,0,41.9,44.3,86.2,NA,None
+Ponsegromab,Endometrioid Carcinoma,Endometrioid Carcinoma,0,0,0,0,0,36.9,49.4,86.2,101693,None
+Ponsegromab,Movement Disorders,Movement Disorders,0,0,0,0,0,48.1,38,86.2,1894974,None
+Ponsegromab,Renal Pelvis Cancer,Renal Pelvis Cancer,0,0,0,0,0,51.7,34.5,86.2,NA,None
+Ponsegromab,Brain Neoplasms,Brain Neoplasms,0,0,0,0,0,47.5,38.6,86.1,2121796,None
+Ponsegromab,Chronic Hepatitis B,Chronic Hepatitis B,0,0,0,0,0,46.3,39.7,86.1,NA,None
+Ponsegromab,Sickle Cell Disease (SCD),Sickle Cell Disease (SCD),0,0,0,0,0,37.6,48.3,86,38397,None
+Ponsegromab,Muscular Dystrophies,Muscular Dystrophies,0,0,0,0,0,36.7,49.3,85.9,NA,None
+Ponsegromab,Refractory Anemia,Refractory Anemia,0,0,0,0,0,37.5,48.3,85.8,327,None
+Ponsegromab,Inflammatory Bowel Diseases (IBD),Inflammatory Bowel Diseases (IBD),0,0,0,0,0,41.8,43.9,85.7,761536,None
+Ponsegromab,Thrombocytopenia,Thrombocytopenia,0,0,0,0,0,46.6,39.1,85.7,NA,None
+Ponsegromab,Atrophic Muscular Disorders,Atrophic Muscular Disorders,0,0,0,0,0,36.5,49.2,85.6,NA,None
+Ponsegromab,Heart Arrest,Heart Arrest,0,0,0,0,0,37.9,47.7,85.6,NA,None
+Ponsegromab,Inclusion Body Myositis,Inclusion Body Myositis,0,0,0,0,0,43.4,42.2,85.6,1637,None
+Ponsegromab,Sensation Disorders,Sensation Disorders,0,0,0,0,0,45.5,40.1,85.6,419363,None
+Ponsegromab,Benign Prostatic Hyperplasia (BPH),Benign Prostatic Hyperplasia (BPH),0,0,0,0,0,44.5,40.9,85.4,4618278,None
+Ponsegromab,Hypotension,Hypotension,0,0,0,0,0,43.1,42.2,85.3,307912,None
+Ponsegromab,Osteoporosis,Osteoporosis,0,0,0,0,0,45.9,39.3,85.3,2062944,None
+Ponsegromab,Chronic Limb-Threatening Ischemia (CLTI) (Critical Limb Ischemia (CLI)),Chronic Limb-Threatening Ischemia (CLTI) (Critical Limb Ischemia (CLI)),0,0,0,0,0,40.7,44.5,85.1,35157,None
+Ponsegromab,Metabolically Benign Obesity,Metabolically Benign Obesity,0,0,0,0,0,35.5,49.6,85.1,1431863,None
+Ponsegromab,Deficiency Diseases,Deficiency Diseases,0,0,0,0,0,47.2,37.7,84.9,NA,None
+Ponsegromab,Infectious Pneumonia (excl. COVID-19/SARS-COV-2),Infectious Pneumonia (excl. COVID-19/SARS-COV-2),0,0,0,0,0,23.2,61.7,84.9,3889803,None
+Ponsegromab,Intrahepatic Cholestasis,Intrahepatic Cholestasis,0,0,0,0,0,34.8,50,84.8,190066,None
+Ponsegromab,Hepatitis B / HBV,Hepatitis B / HBV,0,0,0,0,0,46.9,37.8,84.7,24457,None
+Ponsegromab,Pediatric/Adolescent Acute Lymphoblastic Leukemia (ALL),Pediatric/Adolescent Acute Lymphoblastic Leukemia (ALL),0,0,0,0,0,34.2,50.6,84.7,NA,None
+Ponsegromab,Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,0,0,0,0,0,32.9,51.6,84.5,1674290,None
+Ponsegromab,Dermatitis,Dermatitis,0,0,0,0,0,38,46.5,84.5,16554753,None
+Ponsegromab,Acute-On-Chronic Liver Failure,Acute-On-Chronic Liver Failure,0,0,0,0,0,34.7,49.7,84.4,NA,None
+Ponsegromab,Spinal Diseases,Spinal Diseases,0,0,0,0,0,44.1,40.3,84.4,1042505,None
+Ponsegromab,Metabolic Bone Diseases,Metabolic Bone Diseases,0,0,0,0,0,45.6,38.6,84.2,45890,None
+Ponsegromab,Rhinovirus,Rhinovirus,0,0,0,0,0,44.2,39.9,84.1,NA,None
+Ponsegromab,Arthritis,Arthritis,0,0,0,0,0,53.9,30.1,84,NA,None
+Ponsegromab,Calcium Metabolism Disorders,Calcium Metabolism Disorders,0,0,0,0,0,45.4,38.6,84,296860,None
+Ponsegromab,Lupus Nephritis,Lupus Nephritis,0,0,0,0,0,31.7,52.1,83.8,614364,None
+Ponsegromab,Pediatric Migraine,Pediatric Migraine,0,0,0,0,0,31.2,52.6,83.8,6166052,None
+Ponsegromab,Peripheral Primitive Neuroectodermal Tumors,Peripheral Primitive Neuroectodermal Tumors,0,0,0,0,0,32,51.7,83.7,327,None
+Ponsegromab,Capsule Opacification,Capsule Opacification,0,0,0,0,0,36.3,47.3,83.6,6419666,None
+Ponsegromab,Brain Infarction,Brain Infarction,0,0,0,0,0,28.6,54.9,83.5,573257,None
+Ponsegromab,Seizures,Seizures,0,0,0,0,0,44.2,39.3,83.5,1749202,None
+Ponsegromab,Venous Thrombosis,Venous Thrombosis,0,0,0,0,0,41.6,41.9,83.5,121167,None
+Ponsegromab,Acute Liver Failure,Acute Liver Failure,0,0,0,0,0,33.9,49.5,83.4,81849,None
+Ponsegromab,Cardiac Surgery-Associated Acute Kidney Injury (CSA-AKI),Cardiac Surgery-Associated Acute Kidney Injury (CSA-AKI),0,0,0,0,0,46.8,36.6,83.4,NA,None
+Ponsegromab,Ventilator-Induced Lung Injury,Ventilator-Induced Lung Injury,0,0,0,0,0,44.9,38.5,83.4,NA,None
+Ponsegromab,Chronic Hepatitis C,Chronic Hepatitis C,0,0,0,0,0,37.4,45.9,83.3,19931,None
+Ponsegromab,Organ Damage in Sickle Cell Disease (SCD),Organ Damage in Sickle Cell Disease (SCD),0,0,0,0,0,34.3,49,83.3,NA,None
+Ponsegromab,Uveal Melanoma,Uveal Melanoma,0,0,0,0,0,34.4,48.8,83.3,16370,None
+Ponsegromab,Cervical Cancer,Cervical Cancer,0,0,0,0,0,35.7,47.5,83.2,110262,None
+Ponsegromab,Metastatic Hormone-Sensitive Prostate Cancer (mHSPC),Metastatic Hormone-Sensitive Prostate Cancer (mHSPC),0,0,0,0,0,42.6,40.6,83.2,NA,None
+Ponsegromab,Relapsed/Refractory AML,Relapsed/Refractory AML,0,0,0,0,0,35.8,47.4,83.2,NA,None
+Ponsegromab,Dedifferentiated Liposarcoma (DDLPS),Dedifferentiated Liposarcoma (DDLPS),0,0,0,0,0,30.6,52.5,83.1,1637,None
+Ponsegromab,Epilepsy,Epilepsy,0,0,0,0,0,38.8,44.3,83.1,1088244,None
+Ponsegromab,Coronary Microvascular Disease (CMD),Coronary Microvascular Disease (CMD),0,0,0,0,0,23.5,59.5,83,8139256,None
+Ponsegromab,Crohn's Disease,Crohn's Disease,0,0,0,0,0,36.3,46.7,83,553856,None
+Ponsegromab,Metastatic NSCLC,Metastatic NSCLC,0,0,0,0,0,33.1,49.9,83,NA,None
+Ponsegromab,Pediatric Major Depressive Disorder (MDD),Pediatric Major Depressive Disorder (MDD),0,0,0,0,0,24.9,58,83,21367254,None
+Ponsegromab,Abdominal Obesity,Abdominal Obesity,0,0,0,0,0,26.4,56.6,82.9,1431863,None
+Ponsegromab,Glaucoma,Glaucoma,0,0,0,0,0,50.7,32.3,82.9,263334,None
+Ponsegromab,Soft Tissue Sarcomas,Soft Tissue Sarcomas,0,0,0,0,0,37.5,45.4,82.9,81849,None
+Ponsegromab,Spinal Muscular Atrophy (SMA),Spinal Muscular Atrophy (SMA),0,0,0,0,0,33.9,49,82.9,NA,None
+Ponsegromab,Fibrosarcoma,Fibrosarcoma,0,0,0,0,0,32.7,50.1,82.8,327,None
+Ponsegromab,Follicular Thyroid Cancer,Follicular Thyroid Cancer,0,0,0,0,0,33.1,49.7,82.8,220320,None
+Ponsegromab,Long Covid,Long Covid,0,0,0,0,0,41.2,41.5,82.7,NA,None
+Ponsegromab,Consciousness Disorders,Consciousness Disorders,0,0,0,0,0,36.4,46.2,82.6,2156800,None
+Ponsegromab,RET Positive NSCLC,RET Positive NSCLC,0,0,0,0,0,29.4,53.2,82.6,689620,None
+Ponsegromab,Bipolar Depression,Bipolar Depression,0,0,0,0,0,43.9,38.6,82.5,2710150,None
+Ponsegromab,Eczematous Skin Diseases,Eczematous Skin Diseases,0,0,0,0,0,33,49.4,82.4,92111522,None
+Ponsegromab,Gastritis,Gastritis,0,0,0,0,0,36.4,45.8,82.3,950045,None
+Ponsegromab,Univentricular Heart,Univentricular Heart,0,0,0,0,0,43.3,38.8,82.1,16370,None
+Ponsegromab,Anorexia Nervosa,Anorexia Nervosa,0,0,0.125983384,0.629916922,0.755900306,29.8,52.3,82,369845,None
+Ponsegromab,Locally Advanced Prostate Cancer,Locally Advanced Prostate Cancer,0,0,0,0,0,24.7,57.2,82,1754160,None
+Ponsegromab,Retinal Diseases,Retinal Diseases,0,0,0,0,0,45.4,36.6,82,2767515,None
+Ponsegromab,Urinary Calculi,Urinary Calculi,0,0,0,0,0,38.4,43.6,82,NA,None
+Ponsegromab,Fractures,Fractures,0,0,0,0,0,45.9,36,81.9,1368518,None
+Ponsegromab,Thyroid Cancer,Thyroid Cancer,0,0,0,0,0,52.9,28.8,81.8,NA,None
+Ponsegromab,Inborn Errors of Carbohydrate Metabolism,Inborn Errors of Carbohydrate Metabolism,0,0,0,0,0,39.6,42.1,81.7,NA,None
+Ponsegromab,Right Ventricular Hypertrophy,Right Ventricular Hypertrophy,0,0,0,0,0,35.9,45.8,81.7,2556982,None
+Ponsegromab,Viremia,Viremia,0,0,0,0,0,28.9,52.8,81.7,1870094,None
+Ponsegromab,Spinal Cord Diseases,Spinal Cord Diseases,0,0,0,0,0,43.5,38.1,81.6,NA,None
+Ponsegromab,Hypertrophic Cardiomyopathy (HCM),Hypertrophic Cardiomyopathy (HCM),0,0,0,0,0,32.6,48.9,81.5,41382,None
+Ponsegromab,Gram-Positive Bacterial Infections,Gram-Positive Bacterial Infections,0,0,0,0,0,30.3,51.2,81.4,1944266,None
+Ponsegromab,Pediatric Kidney Diseases (Pediatric Nephrology),Pediatric Kidney Diseases (Pediatric Nephrology),0,0,0,0,0,41.4,40,81.4,NA,None
+Ponsegromab,Proteinuria,Proteinuria,0,0,0,0,0,54.4,27,81.4,NA,None
+Ponsegromab,Acute Pancreatitis,Acute Pancreatitis,0,0,0,0,0,27.5,53.8,81.3,195577,None
+Ponsegromab,Vascular System Injuries,Vascular System Injuries,0,0,0,0,0,41.2,40.1,81.3,4384071,None
+Ponsegromab,Brain Injuries,Brain Injuries,0,0,0,0,0,37.3,43.9,81.2,1069335,None
+Ponsegromab,Protein Deficiency,Protein Deficiency,0,0,0,0,0,39.4,41.8,81.2,NA,None
+Ponsegromab,Lipodystrophy,Lipodystrophy,0,0,0,0,0,44.5,36.6,81.1,45890,None
+Ponsegromab,Experimental Neoplasms,Experimental Neoplasms,0,0,0,0,0,40.7,40.2,81,2121796,None
+Ponsegromab,Hearing Disorders,Hearing Disorders,0,0,0,0,0,32.4,48.6,81,4167114,None
+Ponsegromab,Higher-Risk Myelodysplastic Syndromes (MDS),Higher-Risk Myelodysplastic Syndromes (MDS),0,0,0,0,0,36.8,44.3,81,NA,None
+Ponsegromab,Spondylitis,Spondylitis,0,0,0,0,0,46.7,34,80.8,207320,None
+Ponsegromab,Cardiogenic Shock,Cardiogenic Shock,0,0,0,0,0,34.2,46.6,80.7,81849,None
+Ponsegromab,Hydronephrosis,Hydronephrosis,0,0,0,0,0,47,33.7,80.7,NA,None
+Ponsegromab,Lung Injury,Lung Injury,0,0,0,0,0,47.8,32.8,80.6,81849,None
+Ponsegromab,Cerebral Hemorrhage,Cerebral Hemorrhage,0,0,0,0,0,32.8,47.7,80.5,NA,None
+Ponsegromab,Growth Deficiency,Growth Deficiency,0,0,0,0,0,41.8,38.6,80.4,NA,None
+Ponsegromab,Host vs Graft Reaction,Host vs Graft Reaction,0,0,0,0,0,46.4,34,80.4,NA,None
+Ponsegromab,Sarcomas,Sarcomas,0,0,0,0,0,36.8,43.6,80.4,NA,None
+Ponsegromab,Influenza,Influenza,0,0,0,0,0,29.8,50.5,80.3,51477657,None
+Ponsegromab,Ptosis,Ptosis,0,0,0,0,0,40.7,39.6,80.3,419363,None
+Ponsegromab,Hereditary Ataxias,Hereditary Ataxias,0,0,0,0,0,41,39.2,80.2,NA,None
+Ponsegromab,Lewy Body Disease,Lewy Body Disease,0,0,0,0,0,30.4,49.7,80.1,NA,None
+Ponsegromab,Chest Pain,Chest Pain,0,0,0,0,0,43.7,36.2,80,2734085,None
+Ponsegromab,Hemorrhagic Disorders,Hemorrhagic Disorders,0,0,0,0,0,41.9,38,80,NA,None
+Ponsegromab,Psoriasis,Psoriasis,0,0,0,0,0,37,43,80,4224396,None
+Ponsegromab,Respiratory Syncytial Virus Infections,Respiratory Syncytial Virus Infections,0,0,0,0,0,27.4,52.4,79.9,7646849,None
+Ponsegromab,Cerebral Infarction,Cerebral Infarction,0,0,0,0,0,25,54.6,79.7,573257,None
+Ponsegromab,POLG-Related Disorders,POLG-Related Disorders,0,0,0,0,0,36,43.7,79.7,NA,None
+Ponsegromab,Autistic Disorder,Autistic Disorder,0,0,0,0,0,30.8,48.8,79.6,52877846,None
+Ponsegromab,Intracranial Arteriosclerosis,Intracranial Arteriosclerosis,0,0,0,0,0,36.1,43.3,79.5,NA,None
+Ponsegromab,Ophthalmoplegia,Ophthalmoplegia,0,0,0,0,0,41,38.5,79.5,NA,None
+Ponsegromab,Biliary Tract Cancers (Biliary Tumors),Biliary Tract Cancers (Biliary Tumors),0,0,0,0,0,32.7,46.6,79.3,NA,None
+Ponsegromab,Refractory Epilepsy,Refractory Epilepsy,0,0,0,0,0,21.5,57.8,79.3,1242619,None
+Ponsegromab,Preeclampsia,Preeclampsia,0,0,0,0,0,48.1,31.1,79.2,379951,None
+Ponsegromab,Headaches,Headaches,0,0,0,0,0,33.2,45.9,79.1,140063157,None
+Ponsegromab,Liposarcoma,Liposarcoma,0,0,0,0,0,26.4,52.7,79.1,1637,None
+Ponsegromab,Multiple Sclerosis (MS),Multiple Sclerosis (MS),0,0,0,0,0,33,46.1,79.1,408491,None
+Ponsegromab,Nervous System Trauma,Nervous System Trauma,0,0,0,0,0,43.2,35.8,79.1,4384071,None
+Ponsegromab,Blood Platelet Disorders,Blood Platelet Disorders,0,0,0,0,0,46.3,32.7,79,NA,None
+Ponsegromab,CNS Demyelinating Autoimmune Diseases,CNS Demyelinating Autoimmune Diseases,0,0,0,0,0,33.1,45.7,78.8,791129,None
+Ponsegromab,Congenital Dyserythropoietic Anemia,Congenital Dyserythropoietic Anemia,0,0,0,0,0,42.9,35.9,78.8,1637,None
+Ponsegromab,Spontaneous Abortion,Spontaneous Abortion,0,0,0,0,0,36.4,42.2,78.7,266019,None
+Ponsegromab,Rectal Cancer,Rectal Cancer,0,0,0,0,0,33.6,45,78.6,1374344,None
+Ponsegromab,Tonic-Clonic Seizures,Tonic-Clonic Seizures,0,0,0,0,0,45.1,33.5,78.6,1242619,None
+Ponsegromab,Feeding and Eating Disorders,Feeding and Eating Disorders,0,0,0,0,0,39.9,38.6,78.5,1239081,None
+Ponsegromab,Hyperemesis Gravidarum,Hyperemesis Gravidarum,0,0,0.177803393,0.682322127,0.86012552,52.9,25.5,78.5,NA,None
+Ponsegromab,Locally Advanced Gastric Cancer,Locally Advanced Gastric Cancer,0,0,0,0,0,26.1,52.3,78.4,NA,None
+Ponsegromab,Myosarcoma,Myosarcoma,0,0,0,0,0,30.4,48,78.4,NA,None
+Ponsegromab,Rhabdomyosarcoma,Rhabdomyosarcoma,0,0,0,0,0,30.4,48,78.4,1637,None
+Ponsegromab,Benign Gastrointestinal Tumors,Benign Gastrointestinal Tumors,0,0,0,0,0,46.3,32,78.3,NA,None
+Ponsegromab,Inborn Errors of Steroid Metabolism,Inborn Errors of Steroid Metabolism,0,0,0,0,0,40.1,37.9,78.1,45675932,None
+Ponsegromab,Ganglion Cysts,Ganglion Cysts,0,0,0,0,0,46.8,31.2,78,259932,None
+Ponsegromab,Non-Transfusion Dependent Adult Thalassemias,Non-Transfusion Dependent Adult Thalassemias,0,0,0,0,0,42.7,35.3,78,NA,None
+Ponsegromab,Peripheral Nervous System Diseases (Peripheral Neuropathy),Peripheral Nervous System Diseases (Peripheral Neuropathy),0,0,0,0,0,52.5,25.6,78,NA,None
+Ponsegromab,Transfusion Dependency,Transfusion Dependency,0,0,0,0,0,42.1,35.8,77.9,NA,None
+Ponsegromab,Compensated Cirrhosis,Compensated Cirrhosis,0,0,0,0,0,24.7,53.1,77.8,190066,None
+Ponsegromab,Gout,Gout,0,0,0,0,0,36,41.7,77.7,8640207,None
+Ponsegromab,Non-ST Elevated Myocardial Infarction,Non-ST Elevated Myocardial Infarction,0,0,0,0,0,28.8,49,77.7,4844922,None
+Ponsegromab,Pediatric Asthma,Pediatric Asthma,0,0,0,0,0,14.1,63.6,77.7,18578193,None
+Ponsegromab,Spinal Tuberculosis,Spinal Tuberculosis,0,0,0,0,0,30,47.7,77.7,36821459,None
+Ponsegromab,Uterine Fibroids,Uterine Fibroids,0,0,0,0,0,35.2,42.2,77.4,11652039,None
+Ponsegromab,Diabetic Eye Disease,Diabetic Eye Disease,0,0,0,0,0,24.9,52.3,77.2,25829598,None
+Ponsegromab,Hypertriglyceridemia,Hypertriglyceridemia,0,0,0,0,0,36.2,41,77.2,45675932,None
+Ponsegromab,Familial Amyloidosis,Familial Amyloidosis,0,0,0,0,0,31.7,45.4,77.1,NA,None
+Ponsegromab,Inborn Errors of Amino Acid Metabolism,Inborn Errors of Amino Acid Metabolism,0,0,0,0,0,47.6,29.4,77.1,NA,None
+Ponsegromab,Toxemia,Toxemia,0,0,0,0,0,35.7,41.3,77,247943,None
+Ponsegromab,Adrenal Gland Diseases,Adrenal Gland Diseases,0,0,0,0,0,44.9,31.9,76.8,NA,None
+Ponsegromab,Pulmonary Emphysema,Pulmonary Emphysema,0,0,0,0,0,25.6,51.2,76.8,1611127,None
+Ponsegromab,Urolithiasis,Urolithiasis,0,0,0,0,0,37.1,39.7,76.8,159610,None
+Ponsegromab,Bacterial Infections,Bacterial Infections,0,0,0,0,0,49.5,27.2,76.7,NA,None
+Ponsegromab,Neuroinflammatory Diseases,Neuroinflammatory Diseases,0,0,0,0,0,37.5,39.2,76.7,NA,None
+Ponsegromab,Muscle Tissue Neoplasms,Muscle Tissue Neoplasms,0,0,0,0,0,36,40.6,76.6,222015,None
+Ponsegromab,Adrenal Insufficiency,Adrenal Insufficiency,0,0,0,0,0,39.5,37.1,76.5,327,None
+Ponsegromab,Extensive Disease Small Cell Lung Cancer (SCLC),Extensive Disease Small Cell Lung Cancer (SCLC),0,0,0,0,0,39.4,37,76.5,NA,None
+Ponsegromab,Huntington Disease,Huntington Disease,0,0,0,0,0,30.5,45.9,76.5,16370,None
+Ponsegromab,Encephalomyelitis,Encephalomyelitis,0,0,0,0,0,30.8,45.6,76.4,1637,None
+Ponsegromab,Metastatic Gastric Cancer,Metastatic Gastric Cancer,0,0,0,0,0,29.2,47.2,76.4,NA,None
+Ponsegromab,Vitamin B Deficiency,Vitamin B Deficiency,0,0,0,0,0,47.1,29.2,76.4,901348,None
+Ponsegromab,Hormone-Dependent Neoplasms,Hormone-Dependent Neoplasms,0,0,0,0,0,41.6,34.7,76.3,2121796,None
+Ponsegromab,Spinal Cord Injury (SCI),Spinal Cord Injury (SCI),0,0,0,0,0,38.7,37.5,76.2,81849,None
+Ponsegromab,Abdominal Aortic Aneurysm,Abdominal Aortic Aneurysm,0,0,0,0,0,28.8,47.3,76.1,255560,None
+Ponsegromab,Coronary Stenosis,Coronary Stenosis,0,0,0,0,0,29.8,46.3,76.1,8139256,None
+Ponsegromab,Gallbladder Cancer,Gallbladder Cancer,0,0,0,0,0,25.5,50.5,76.1,18356,None
+Ponsegromab,Beta Thalassemia Major,Beta Thalassemia Major,0,0,0,0,0,30.8,45.1,75.9,327397,None
+Ponsegromab,Dry Age-Related Macular Degeneration (Dry AMD),Dry Age-Related Macular Degeneration (Dry AMD),0,0,0,0,0,29.6,46.3,75.9,2767515,None
+Ponsegromab,Low Back Pain,Low Back Pain,0,0,0,0,0,17,59,75.9,52012960,None
+Ponsegromab,Osteonecrosis,Osteonecrosis,0,0,0,0,0,38.7,37.1,75.9,NA,None
+Ponsegromab,Metabolic Skin Diseases,Metabolic Skin Diseases,0,0,0,0,0,44.3,31.5,75.8,45890,None
+Ponsegromab,Acquired Immunodeficiency Syndrome,Acquired Immunodeficiency Syndrome,0,0,0,0,0,37.5,38.1,75.6,NA,None
+Ponsegromab,Aplastic Anemia,Aplastic Anemia,0,0,0,0,0,37.3,38.3,75.6,1637,None
+Ponsegromab,Down Syndrome,Down Syndrome,0,0,0,0,0,34.6,40.9,75.5,101114,None
+Ponsegromab,Sleep Apnea,Sleep Apnea,0,0,0,0,0,20.9,54.6,75.5,15439078,None
+Ponsegromab,Leiomyoma,Leiomyoma,0,0,0,0,0,36.8,38.5,75.4,327,None
+Ponsegromab,Retinal Degeneration,Retinal Degeneration,0,0,0,0,0,32.2,43.2,75.4,81849,None
+Ponsegromab,Hypertensive Disorders of Pregnancy,Hypertensive Disorders of Pregnancy,0,0,0,0,0,46.9,28.3,75.3,111875,None
+Ponsegromab,Tricuspid Valve Diseases,Tricuspid Valve Diseases,0,0,0,0,0,40.1,35.2,75.3,NA,None
+Ponsegromab,Wernicke Encephalopathy,Wernicke Encephalopathy,0,0,0,0,0,37.2,38.1,75.3,NA,None
+Ponsegromab,Gaucher Disease,Gaucher Disease,0,0,0,0,0,33.8,41.4,75.2,1637,None
+Ponsegromab,Hydrops Fetalis,Hydrops Fetalis,0,0,0,0,0,40.3,34.8,75.2,327397,None
+Ponsegromab,Acute Monocytic Leukemia,Acute Monocytic Leukemia,0,0,0,0,0,31.5,43.6,75.1,NA,None
+Ponsegromab,Cytopenia,Cytopenia,0,0,0,0,0,46.3,28.9,75.1,NA,None
+Ponsegromab,Muscle Invasive Bladder/Urothelial Cancer (MIBC),Muscle Invasive Bladder/Urothelial Cancer (MIBC),0,0,0,0,0,13.3,61.7,75,264229,None
+Ponsegromab,Non-Melanoma Skin Cancers (NMSC),Non-Melanoma Skin Cancers (NMSC),0,0,0,0,0,26.6,48.2,74.8,2040603,None
+Ponsegromab,Nervous System Lysosomal Storage Diseases,Nervous System Lysosomal Storage Diseases,0,0,0,0,0,34.6,40.1,74.7,NA,None
+Ponsegromab,HER2 Negative (HER2-) Breast Cancer,HER2 Negative (HER2-) Breast Cancer,0,0,0,0,0,32.8,41.8,74.6,NA,None
+Ponsegromab,Myelofibrosis,Myelofibrosis,0,0,0,0,0,35.9,38.7,74.6,16370,None
+Ponsegromab,Obstructive Sleep Apnea,Obstructive Sleep Apnea,0,0,0,0,0,21.1,53.5,74.6,15439078,None
+Ponsegromab,Experimental Mammary Neoplasms,Experimental Mammary Neoplasms,0,0,0,0,0,23.1,51.4,74.5,2277915,None
+Ponsegromab,Neuroblastoma,Neuroblastoma,0,0,0,0,0,32.1,42.4,74.5,81849,None
+Ponsegromab,Neurological Autoimmune Diseases (Neuroimmunology),Neurological Autoimmune Diseases (Neuroimmunology),0,0,0,0,0,43.3,31.2,74.5,NA,None
+Ponsegromab,Amyloid Neuropathies,Amyloid Neuropathies,0,0,0,0,0,31.3,43.2,74.4,NA,None
+Ponsegromab,Endotoxemia,Endotoxemia,0,0,0,0,0,37.2,37.2,74.4,108560,None
+Ponsegromab,Fabry Disease,Fabry Disease,0,0,0,0,0,29.7,44.7,74.4,1637,None
+Ponsegromab,Gallbladder Diseases,Gallbladder Diseases,0,0,0,0,0,28.1,46.2,74.3,9990482,None
+Ponsegromab,Gastric Adenocarcinoma,Gastric Adenocarcinoma,0,0,0,0,0,34.8,39.4,74.2,NA,None
+Ponsegromab,Familial Amyloid Neuropathies,Familial Amyloid Neuropathies,0,0,0,0,0,30.8,43.3,74.1,NA,None
+Ponsegromab,Schizophrenia Spectrum and Other Psychotic Disorders,Schizophrenia Spectrum and Other Psychotic Disorders,0,0,0,0,0,34.2,39.9,74.1,3760276,None
+Ponsegromab,Sleep Wake Disorders,Sleep Wake Disorders,0,0,0,0,0,28.5,45.6,74.1,21155274,None
+Ponsegromab,Trauma and Stressor Related Disorders,Trauma and Stressor Related Disorders,0,0,0,0,0,25.5,48.6,74.1,5115302,None
+Ponsegromab,Biliary Tract Diseases,Biliary Tract Diseases,0,0,0,0,0,38.1,35.8,73.9,NA,None
+Ponsegromab,Granulomatosis with Polyangiitis,Granulomatosis with Polyangiitis,0,0,0,0,0,32.6,41.3,73.9,1637,None
+Ponsegromab,Chronic Rhinosinusitis without Nasal Polyps (CRSsNP),Chronic Rhinosinusitis without Nasal Polyps (CRSsNP),0,0,0,0,0,26.8,46.8,73.5,8216633,None
+Ponsegromab,Cytokine Release Syndrome,Cytokine Release Syndrome,0,0,0,0,0,26.2,47.2,73.4,NA,None
+Ponsegromab,Connective Tissue Neoplasms,Connective Tissue Neoplasms,0,0,0,0,0,35.5,37.8,73.3,2121796,None
+Ponsegromab,Degenerative Disc Disease,Degenerative Disc Disease,0,0,0,0,0,24.8,48.5,73.3,3949644,None
+Ponsegromab,Fungal Infections,Fungal Infections,0,0,0,0,0,28.4,44.9,73.3,10559423,None
+Ponsegromab,Transthyretin Amyloidosis (ATTR),Transthyretin Amyloidosis (ATTR),0,0,0.102411275,0.512056373,0.614467648,28.5,44.8,73.3,NA,None
+Ponsegromab,Hip Fractures,Hip Fractures,0,0,0,0,0,34.3,38.9,73.2,411883,None
+Ponsegromab,Neuroendocrine Carcinomas,Neuroendocrine Carcinomas,0,0,0,0,0,36.7,36.5,73.2,NA,None
+Ponsegromab,Polymyositis,Polymyositis,0,0,0,0,0,38.2,35,73.2,16370,None
+Ponsegromab,Subarachnoid Hemorrhage (SAH),Subarachnoid Hemorrhage (SAH),0,0,0,0,0,19.9,53.2,73.1,848226,None
+Ponsegromab,Acute Lymphoblastic Leukemia (ALL),Acute Lymphoblastic Leukemia (ALL),0,0,0,0,0,32.6,40.5,73,13653,None
+Ponsegromab,Addison Disease,Addison Disease,0,0,0,0,0,37.8,34.9,72.7,81849,None
+Ponsegromab,Intrinsic Sleep Disorders,Intrinsic Sleep Disorders,0,0,0,0,0,29.2,43.5,72.7,17503252,None
+Ponsegromab,Subvalvular Aortic Stenosis,Subvalvular Aortic Stenosis,0,0,0,0,0,32.6,40.2,72.7,NA,None
+Ponsegromab,Non-Muscle Invasive Bladder/Urothelial Cancer (NMIBC),Non-Muscle Invasive Bladder/Urothelial Cancer (NMIBC),0,0,0,0,0,36,36.6,72.6,NA,None
+Ponsegromab,Medulloblastoma,Medulloblastoma,0,0,0,0,0,27.4,45.1,72.5,16370,None
+Ponsegromab,Diffuse Scleroderma,Diffuse Scleroderma,0,0,0,0,0,22.3,50.1,72.4,NA,None
+Ponsegromab,Respiratory Syncytial Virus (RSV),Respiratory Syncytial Virus (RSV),0,0,0,0,0,25.9,46.5,72.4,94607,None
+Ponsegromab,Systemic Vasculitis,Systemic Vasculitis,0,0,0,0,0,29.2,43.2,72.4,150024,None
+Ponsegromab,Nervous System Malformations,Nervous System Malformations,0,0,0,0,0,42.1,30.2,72.3,NA,None
+Ponsegromab,Out-of-Hospital Cardiac Arrest,Out-of-Hospital Cardiac Arrest,0,0,0,0,0,23.6,48.7,72.3,NA,None
+Ponsegromab,Sideroblastic Anemia,Sideroblastic Anemia,0,0,0,0,0,36.6,35.7,72.3,327,None
+Ponsegromab,Aortic Aneurysm,Aortic Aneurysm,0,0,0,0,0,25.5,46.6,72.2,0,None
+Ponsegromab,Lower Respiratory Tract Infections (LRTI),Lower Respiratory Tract Infections (LRTI),0,0,0,0,0,45,27,72.1,NA,None
+Ponsegromab,Lymphoid Leukemia,Lymphoid Leukemia,0,0,0,0,0,33.1,39,72.1,NA,None
+Ponsegromab,Hyperlactatemia,Hyperlactatemia,0,0,0,0,0,19.9,52.1,72,2888507,None
+Ponsegromab,Papilloma,Papilloma,0,0,0,0,0,36.8,35.2,72,41995,None
+Ponsegromab,Post-Traumatic Stress Disorder (PTSD),Post-Traumatic Stress Disorder (PTSD),0,0,0,0,0,25.7,46.3,72,5115302,None
+Ponsegromab,Spondyloarthritis,Spondyloarthritis,0,0,0,0,0,38.7,33.3,72,16370,None
+Ponsegromab,Agranulocytosis,Agranulocytosis,0,0,0,0,0,32.7,39.2,71.9,NA,None
+Ponsegromab,Autism Spectrum Disorder (ASD),Autism Spectrum Disorder (ASD),0,0,0,0,0,30.8,41.2,71.9,1975452,None
+Ponsegromab,Femoral Fractures,Femoral Fractures,0,0,0,0,0,33.6,38.2,71.8,411883,None
+Ponsegromab,Traumatic Stress Disorders,Traumatic Stress Disorders,0,0,0,0,0,25.6,46.2,71.8,5115302,None
+Ponsegromab,Exfoliation Syndrome,Exfoliation Syndrome,0,0,0,0,0,31.3,40.4,71.7,5025903,None
+Ponsegromab,Experimental Diabetes Mellitus,Experimental Diabetes Mellitus,0,0,0,0,0,30.6,41.1,71.7,NA,None
+Ponsegromab,Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis,Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis,0,0,0,0,0,30.3,41.3,71.6,81849,None
+Ponsegromab,Testicular Tumor,Testicular Tumor,0,0,0,0,0,42.2,29.4,71.6,111779,None
+Ponsegromab,Deep Vein Thrombosis (DVT),Deep Vein Thrombosis (DVT),0,0,0,0,0,36,35.5,71.5,121167,None
+Ponsegromab,Hyperuricemia,Hyperuricemia,0,0,0,0,0,39.6,31.9,71.5,NA,None
+Ponsegromab,TP53 mutated Hepatocellular Carcinoma,TP53 mutated Hepatocellular Carcinoma,0,0,0,0,0,44.1,27.2,71.3,NA,None
+Ponsegromab,Diarrhea,Diarrhea,0,0,0,0,0,31.8,39.4,71.2,2469834,None
+Ponsegromab,Macular Degeneration,Macular Degeneration,0,0,0,0,0,30.7,40.5,71.2,2767515,None
+Ponsegromab,Hematuria,Hematuria,0,0,0,0,0,45.8,25.3,71.1,449535,None
+Ponsegromab,Leukopenia,Leukopenia,0,0,0,0,0,35.7,35.4,71.1,32564,None
+Ponsegromab,Muscle Neoplasms,Muscle Neoplasms,0,0,0,0,0,35.8,35.2,71.1,2121796,None
+Ponsegromab,Ventricular Fibrillation,Ventricular Fibrillation,0,0,0,0,0,28.4,42.8,71.1,2921511,None
+Ponsegromab,Newborn Respiratory Distress Syndrome,Newborn Respiratory Distress Syndrome,0,0,0,0,0,23.8,47.2,71,NA,None
+Ponsegromab,Pneumonia,Pneumonia,0,0,0,0,0,22.4,48.6,71,3889803,None
+Ponsegromab,Pseudotumor Cerebri,Pseudotumor Cerebri,0,0,0,0,0,33.5,37.4,71,269129,None
+Ponsegromab,Rupture,Rupture,0,0,0,0,0,44.4,26.6,71,NA,None
+Ponsegromab,Cholestasis,Cholestasis,0,0,0,0,0,31.4,39.4,70.8,NA,None
+Ponsegromab,Hyperkalemia,Hyperkalemia,0,0,0,0,0,21.5,49.3,70.8,2888507,None
+Ponsegromab,Albuminuria,Albuminuria,0,0,0,0,0,34.1,36.7,70.7,NA,None
+Ponsegromab,Obesity Hypoventilation Syndrome,Obesity Hypoventilation Syndrome,0,0,0,0,0,23.9,46.8,70.7,1431863,None
+Ponsegromab,Retinal Dystrophies,Retinal Dystrophies,0,0,0,0,0,24.7,46,70.7,2767515,None
+Ponsegromab,Vascular Skin Diseases,Vascular Skin Diseases,0,0,0,0,0,31.5,39.1,70.7,581299,None
+Ponsegromab,Chronic Myelomonocytic Leukemia (CMML),Chronic Myelomonocytic Leukemia (CMML),0,0,0,0,0,37.3,33.2,70.6,1637,None
+Ponsegromab,Deaf-Blind Disorders,Deaf-Blind Disorders,0,0,0,0,0,29.9,40.7,70.6,283157,None
+Ponsegromab,Digital Ulcer,Digital Ulcer,0,0,0,0,0,17,53.5,70.6,4549237,None
+Ponsegromab,Stable Angina,Stable Angina,0,0,0,0,0,31.2,39.4,70.6,1655376,None
+Ponsegromab,Craniocerebral Trauma,Craniocerebral Trauma,0,0,0,0,0,35.6,35,70.5,934529,None
+Ponsegromab,Psychological Trauma,Psychological Trauma,0,0,0,0,0,24.3,46.1,70.4,5115302,None
+Ponsegromab,Vasculitis,Vasculitis,0,0,0,0,0,32.4,38,70.4,16370,None
+Ponsegromab,Hyperthyroidism,Hyperthyroidism,0,0,0,0,0,33.2,37.1,70.3,1493062,None
+Ponsegromab,KRAS mutated Exocrine Pancreatic Cancer,KRAS mutated Exocrine Pancreatic Cancer,0,0,0,0,0,35.1,35.2,70.3,NA,None
+Ponsegromab,Adipose Tissue Neoplasms,Adipose Tissue Neoplasms,0,0,0,0,0,24.5,45.7,70.2,2312219,None
+Ponsegromab,Secondary Headache Disorders,Secondary Headache Disorders,0,0,0,0,0,28.5,41.7,70.2,172367,None
+Ponsegromab,Clear Cell Adenocarcinoma,Clear Cell Adenocarcinoma,0,0,0,0,0,33,37.1,70.1,NA,None
+Ponsegromab,Fibrous Tissue Neoplasms,Fibrous Tissue Neoplasms,0,0,0,0,0,33.2,36.9,70.1,1152512,None
+Ponsegromab,Intellectual Disability,Intellectual Disability,0,0,0,0,0,35.2,34.9,70.1,1314313,None
+Ponsegromab,Vitamin D Deficiency,Vitamin D Deficiency,0,0,0,0,0,29.5,40.5,70,3461624,None
+Ponsegromab,Vascular Malformations,Vascular Malformations,0,0,0,0,0,25,45,69.9,726773,None
+Ponsegromab,Diabetic Ketoacidosis,Diabetic Ketoacidosis,0,0,0,0,0,26.9,42.7,69.7,25829598,None
+Ponsegromab,Helicobacter Infections,Helicobacter Infections,0,0,0,0,0,15.1,54.6,69.7,1944266,None
+Ponsegromab,Ocular Motility Disorders,Ocular Motility Disorders,0,0,0,0,0,36.7,33,69.7,NA,None
+Ponsegromab,Inherited Retinal Diseases (IRD),Inherited Retinal Diseases (IRD),0,0,0,0,0,24.5,45.1,69.6,2767515,None
+Ponsegromab,Autoimmune Hepatitis,Autoimmune Hepatitis,0,0,0,0,0,11.3,58.2,69.5,81849,None
+Ponsegromab,Nodular Goiter,Nodular Goiter,0,0,0,0,0,30.8,38.7,69.5,864685,None
+Ponsegromab,Estrogen-Receptor Positive (ER+) Breast Cancer,Estrogen-Receptor Positive (ER+) Breast Cancer,0,0,0,0,0,30.5,38.8,69.3,NA,None
+Ponsegromab,Infectious Bone Diseases,Infectious Bone Diseases,0,0,0,0,0,28.5,40.8,69.3,207320,None
+Ponsegromab,Non-Squamous NSCLC,Non-Squamous NSCLC,0,0,0,0,0,14.3,54.9,69.2,689620,None
+Ponsegromab,Alagille Syndrome,Alagille Syndrome,0,0,0,0,0,32,37,69.1,16370,None
+Ponsegromab,Histiocytosis,Histiocytosis,0,0,0,0,0,24.9,44.2,69.1,475630,None
+Ponsegromab,Knee Osteoarthritis,Knee Osteoarthritis,0,0,0,0,0,26.4,42.7,69.1,1072300,None
+Ponsegromab,Nasal Polyps,Nasal Polyps,0,0,0,0,0,35.8,33.3,69.1,NA,None
+Ponsegromab,Preterm Birth,Preterm Birth,0,0,0,0,0,35.4,33.7,69.1,3946100,None
+Ponsegromab,Nephrosis,Nephrosis,0,0,0,0,0,27.7,41.3,69,7143053,None
+Ponsegromab,Soft Tissue Neoplasms,Soft Tissue Neoplasms,0,0,0,0,0,29.4,39.6,69,2121796,None
+Ponsegromab,Connective Tissue Disease-Associated Interstitial Lung Disease (CTD-ILD),Connective Tissue Disease-Associated Interstitial Lung Disease (CTD-ILD),0,0,0,0,0,30.7,38.2,68.9,NA,None
+Ponsegromab,Connective Tissue Disease-Associated Pulmonary Arterial Hypertension (CTD-PAH),Connective Tissue Disease-Associated Pulmonary Arterial Hypertension (CTD-PAH),0,0,0,0,0,44.2,24.7,68.9,NA,None
+Ponsegromab,Eye Tumors,Eye Tumors,0,0,0,0,0,32,36.9,68.9,2121796,None
+Ponsegromab,Metastatic Triple Negative Breast Cancer (mTNBC),Metastatic Triple Negative Breast Cancer (mTNBC),0,0,0,0,0,28.5,40.4,68.9,NA,None
+Ponsegromab,Periodontitis,Periodontitis,0,0,0,0,0,35.2,33.7,68.9,358292,None
+Ponsegromab,Acne Vulgaris,Acne Vulgaris,0,0,0,0,0,32.5,36.4,68.8,8550527,None
+Ponsegromab,Gestational Trophoblastic Disease,Gestational Trophoblastic Disease,0,0,0,0,0,36.3,32.5,68.7,327,None
+Ponsegromab,Hereditary Transthyretin Amyloidosis (hATTR),Hereditary Transthyretin Amyloidosis (hATTR),0,0,0,0,0,31.9,36.9,68.7,1637,None
+Ponsegromab,Precancerous Conditions,Precancerous Conditions,0,0,0,0,0,37.5,31.2,68.7,NA,None
+Ponsegromab,Pulmonary Hypertension Due to Left Heart Disease,Pulmonary Hypertension Due to Left Heart Disease,0,0,0,0,0,36.7,32,68.7,NA,None
+Ponsegromab,Cataract,Cataract,0,0,0,0,0,31.6,37,68.6,1702138,None
+Ponsegromab,Teratoma,Teratoma,0,0,0,0,0,21.8,46.8,68.6,493475,None
+Ponsegromab,Difficult Asthma,Difficult Asthma,0,0,0,0,0,10.2,58.3,68.5,18578193,None
+Ponsegromab,Invasive Hydatidiform Mole,Invasive Hydatidiform Mole,0,0,0,0,0,41.9,26.6,68.5,NA,None
+Ponsegromab,Respiratory Insufficiency,Respiratory Insufficiency,0,0,0,0,0,21.1,47.2,68.4,3181185,None
+Ponsegromab,Vascular Tissue Neoplasms,Vascular Tissue Neoplasms,0,0,0,0,0,26.4,42,68.4,NA,None
+Ponsegromab,Atrial Septal Defects (Heart),Atrial Septal Defects (Heart),0,0,0,0,0,31.2,37,68.3,NA,None
+Ponsegromab,Dwarfism,Dwarfism,0,0,0,0,0,27.6,40.7,68.3,1427302,None
+Ponsegromab,EGFR mutated NSCLC,EGFR mutated NSCLC,0,0,0,0,0,10.4,57.9,68.3,689620,None
+Ponsegromab,Mitral Valve Diseases,Mitral Valve Diseases,0,0,0,0,0,24.1,44.2,68.3,473541,None
+Ponsegromab,Lipidoses,Lipidoses,0,0,0,0,0,35.4,32.8,68.2,NA,None
+Ponsegromab,Newly Diagnosed Glioblastoma,Newly Diagnosed Glioblastoma,0,0,0,0,0,31.9,36.3,68.2,NA,None
+Ponsegromab,Retinitis Pigmentosa,Retinitis Pigmentosa,0,0,0,0,0,26.6,41.6,68.2,81849,None
+Ponsegromab,Trichostrongyloidiasis,Trichostrongyloidiasis,0,0,0,0,0,42.1,26.2,68.2,NA,None
+Ponsegromab,Diabetic Foot,Diabetic Foot,0,0,0,0,0,18.8,49.3,68.1,25869925,None
+Ponsegromab,Carotid Stenosis,Carotid Stenosis,0,0,0,0,0,33.8,34.2,68,77460,None
+Ponsegromab,Pandemics,Pandemics,0,0,0,0,0,33,35.1,68,NA,None
+Ponsegromab,Salivary Gland Diseases,Salivary Gland Diseases,0,0,0,0,0,28.9,39.1,68,47843,None
+Ponsegromab,Epidemics,Epidemics,0,0,0,0,0,32.8,35,67.9,NA,None
+Ponsegromab,Primary Dysautonomias,Primary Dysautonomias,0,0,0,0,0,19.5,48.4,67.9,81849,None
+Ponsegromab,Breast Carcinoma In Situ,Breast Carcinoma In Situ,0,0,0,0,0,32.3,35.5,67.8,NA,None
+Ponsegromab,Gallstones,Gallstones,0,0,0,0,0,29.5,38.3,67.8,475116,None
+Ponsegromab,Persistent Infection,Persistent Infection,0,0,0,0,0,22,45.8,67.8,976916,None
+Ponsegromab,Pure Red-Cell Aplasia,Pure Red-Cell Aplasia,0,0,0,0,0,38.5,29.2,67.8,NA,None
+Ponsegromab,Secondary Immunodeficiencies,Secondary Immunodeficiencies,0,0,0,0,0,33.8,34,67.8,NA,None
+Ponsegromab,Carotid Artery Diseases,Carotid Artery Diseases,0,0,0,0,0,35.7,32,67.7,150024,None
+Ponsegromab,Pediatric Obesity,Pediatric Obesity,0,0,0,0,0,17.4,50.3,67.7,6408141,None
+Ponsegromab,Heart Septal Defects,Heart Septal Defects,0,0,0,0,0,29.7,38,67.6,NA,None
+Ponsegromab,Hypoglycemia,Hypoglycemia,0,0,0,0,0,31.8,35.9,67.6,23386,None
+Ponsegromab,Transposition of Great Vessels,Transposition of Great Vessels,0,0,0,0,0,30.9,36.7,67.6,NA,None
+Ponsegromab,Cholecystolithiasis,Cholecystolithiasis,0,0,0,0,0,29.4,38.1,67.5,475116,None
+Ponsegromab,Cranial Nerve Diseases,Cranial Nerve Diseases,0,0,0,0,0,41.3,26.2,67.5,NA,None
+Ponsegromab,Macrocytic Anemia,Macrocytic Anemia,0,0,0,0,0,41.8,25.7,67.5,NA,None
+Ponsegromab,Progressive Myoclonic Epilepsies,Progressive Myoclonic Epilepsies,0,0,0,0,0,18,49.5,67.5,1242619,None
+Ponsegromab,Traumatic Brain Injury (TBI),Traumatic Brain Injury (TBI),0,0,0,0,0,26.9,40.6,67.5,81849,None
+Ponsegromab,Trophoblastic Neoplasms,Trophoblastic Neoplasms,0,0,0,0,0,33.6,33.9,67.5,NA,None
+Ponsegromab,Neutropenia,Neutropenia,0,0,0,0,0,32.9,34.4,67.3,32564,None
+Ponsegromab,Hydatidiform Mole,Hydatidiform Mole,0,0,0,0,0,38,29.2,67.2,327,None
+Ponsegromab,Streptococcal Infections,Streptococcal Infections,0,0,0,0,0,18.7,48.5,67.2,1944266,None
+Ponsegromab,Gastroesophageal Junction (GEJ) Cancer,Gastroesophageal Junction (GEJ) Cancer,0,0,0,0,0,25.1,42,67.1,NA,None
+Ponsegromab,Lysosomal Storage Diseases,Lysosomal Storage Diseases,0,0,0,0,0,33.1,34,67.1,45890,None
+Ponsegromab,Chronic Progressive External Ophthalmoplegia,Chronic Progressive External Ophthalmoplegia,0,0,0,0,0,35.9,31.1,67,NA,None
+Ponsegromab,Endocrine Bone Diseases,Endocrine Bone Diseases,0,0,0,0,0,20,47,67,9886949,None
+Ponsegromab,Nephrocalcinosis,Nephrocalcinosis,0,0,0,0,0,30.7,36.3,67,324666,None
+Ponsegromab,Dyskinesias,Dyskinesias,0,0,0,0,0,36.1,30.8,66.9,NA,None
+Ponsegromab,Sphingolipidoses,Sphingolipidoses,0,0,0,0,0,34.9,32.1,66.9,NA,None
+Ponsegromab,Congenital Hypoplastic Anemia,Congenital Hypoplastic Anemia,0,0,0,0,0,35,31.8,66.8,NA,None
+Ponsegromab,DNA Repair-Deficiency Disorders,DNA Repair-Deficiency Disorders,0,0,0,0,0,27.1,39.6,66.8,NA,None
+Ponsegromab,Bone Fractures,Bone Fractures,0,0,0,0,0,42.3,24.4,66.7,NA,None
+Ponsegromab,Congenital Adrenal Hyperplasia,Congenital Adrenal Hyperplasia,0,0,0,0,0,40.9,25.8,66.7,16370,None
+Ponsegromab,Eclampsia,Eclampsia,0,0,0,0,0,39.9,26.7,66.6,NA,None
+Ponsegromab,Goiter,Goiter,0,0,0,0,0,31.2,35.4,66.6,864685,None
+Ponsegromab,Hypokalemia,Hypokalemia,0,0,0,0,0,27.7,38.9,66.6,2888507,None
+Ponsegromab,Fanconi Anemia,Fanconi Anemia,0,0,0,0,0,24.5,42,66.5,1637,None
+Ponsegromab,Neoplastic Complications in Pregnancy,Neoplastic Complications in Pregnancy,0,0,0,0,0,32.7,33.7,66.5,2121796,None
+Ponsegromab,Decompensated Cirrhosis,Decompensated Cirrhosis,0,0,0,0,0,21,45.4,66.4,NA,None
+Ponsegromab,Age of Onset,Age of Onset,0,0,0,0,0,37.4,28.9,66.3,NA,None
+Ponsegromab,Age-Related Macular Degeneration (AMD),Age-Related Macular Degeneration (AMD),0,0,0,0,0,29.2,37.1,66.3,167529,None
+Ponsegromab,Fibromyalgia,Fibromyalgia,0,0,0,0,0,24.7,41.6,66.3,144249420,None
+Ponsegromab,Gastroesophageal Adenocarcinoma (GEA),Gastroesophageal Adenocarcinoma (GEA),0,0,0,0,0,39.9,26.4,66.3,NA,None
+Ponsegromab,Severe Aplastic Anemia,Severe Aplastic Anemia,0,0,0,0,0,20.7,45.6,66.3,NA,None
+Ponsegromab,Monogenic Diabetes,Monogenic Diabetes,0,0,0,0,0,34.8,31.4,66.2,NA,None
+Ponsegromab,Myoma,Myoma,0,0,0,0,0,31.8,34.4,66.2,222015,None
+Ponsegromab,Osteoarticular Tuberculosis,Osteoarticular Tuberculosis,0,0,0,0,0,28.9,37.3,66.2,NA,None
+Ponsegromab,Atopic Dermatitis,Atopic Dermatitis,0,0,0,0,0,32.7,33.4,66.1,8595515,None
+Ponsegromab,Candidiasis,Candidiasis,0,0,0,0,0,31.4,34.8,66.1,1908068,None
+Ponsegromab,Dyssomnias,Dyssomnias,0,0,0,0,0,28.9,37.1,66,15439078,None
+Ponsegromab,Central Nervous System Cavernous Hemangioma,Central Nervous System Cavernous Hemangioma,0,0,0,0,0,27.9,37.9,65.9,NA,None
+Ponsegromab,Hip Osteoarthritis,Hip Osteoarthritis,0,0,0,0,0,26.1,39.8,65.9,234796,None
+Ponsegromab,Transient Ischemic Attack (TIA),Transient Ischemic Attack (TIA),0,0,0,0,0,37.4,28.5,65.9,NA,None
+Ponsegromab,Atrophic Gastritis,Atrophic Gastritis,0,0,0,0,0,29.2,36.7,65.8,950045,None
+Ponsegromab,Cholelithiasis,Cholelithiasis,0,0,0,0,0,28.2,37.6,65.8,475116,None
+Ponsegromab,Congenital Bone Marrow Failure Syndromes,Congenital Bone Marrow Failure Syndromes,0,0,0,0,0,34.7,31.1,65.8,NA,None
+Ponsegromab,Alcoholic Hepatitis,Alcoholic Hepatitis,0,0,0,0,0,15.3,50.3,65.7,NA,None
+Ponsegromab,Allergies (Immediate Hypersensitivity),Allergies (Immediate Hypersensitivity),0,0,0,0,0,39.5,26.2,65.7,NA,None
+Ponsegromab,Intracranial Hypertension,Intracranial Hypertension,0,0,0,0,0,31.5,34.2,65.7,81849,None
+Ponsegromab,Peritoneal Cancer/Metastases,Peritoneal Cancer/Metastases,0,0,0,0,0,24.1,41.6,65.7,NA,None
+Ponsegromab,Skin Ulcer,Skin Ulcer,0,0,0,0,0,20.2,45.5,65.7,4549237,None
+Ponsegromab,Tricuspid Valve Insufficiency,Tricuspid Valve Insufficiency,0,0,0,0,0,25.3,40.4,65.7,NA,None
+Ponsegromab,Acute Exacerbations of Chronic Obstructive Pulmonary Disease (AECOPD),Acute Exacerbations of Chronic Obstructive Pulmonary Disease (AECOPD),0,0,0,0,0,31.5,34.1,65.6,NA,None
+Ponsegromab,Fetal Growth Restriction,Fetal Growth Restriction,0,0,0,0,0,27.8,37.8,65.6,NA,None
+Ponsegromab,Pigmentation Disorders,Pigmentation Disorders,0,0,0,0,0,30.7,35,65.6,494158,None
+Ponsegromab,Urinary Tract Infections (UTI),Urinary Tract Infections (UTI),0,0,0,0,0,24.6,40.9,65.5,507386,None
+Ponsegromab,Back Pain,Back Pain,0,0,0,0,0,21.1,44.4,65.4,18204986,None
+Ponsegromab,Chronic Wounds,Chronic Wounds,0,0,0,0,0,39.4,25.9,65.4,NA,None
+Ponsegromab,Gastroenteritis,Gastroenteritis,0,0,0,0,0,24.6,40.8,65.4,653360,None
+Ponsegromab,Immunoglobulin G4 (IgG4)-Related Disease,Immunoglobulin G4 (IgG4)-Related Disease,0,0,0,0,0,22.9,42.4,65.4,327,None
+Ponsegromab,Myelodysplastic-Myeloproliferative Diseases (MDS/MPN),Myelodysplastic-Myeloproliferative Diseases (MDS/MPN),0,0,0,0,0,37.1,28.2,65.4,NA,None
+Ponsegromab,Pneumovirus Infections,Pneumovirus Infections,0,0,0,0,0,27.4,38,65.4,NA,None
+Ponsegromab,Renal Cell Carcinoma (RCC),Renal Cell Carcinoma (RCC),0,0,0,0,0,22.3,43,65.4,81849,None
+Ponsegromab,Unresectable Tumors,Unresectable Tumors,0,0,0,0,0,37.4,28,65.4,NA,None
+Ponsegromab,Escherichia coli Infections,Escherichia coli Infections,0,0,0,0,0,32.5,32.9,65.3,NA,None
+Ponsegromab,Extrinsic Allergic Alveolitis,Extrinsic Allergic Alveolitis,0,0,0,0,0,29.4,35.9,65.3,NA,None
+Ponsegromab,Limited Scleroderma,Limited Scleroderma,0,0,0,0,0,18.2,47.2,65.3,190066,None
+Ponsegromab,Primary Biliary Cholangitis (PBC),Primary Biliary Cholangitis (PBC),0,0,0,0,0,17.1,48.2,65.3,81849,None
+Ponsegromab,Tuberculosis,Tuberculosis,0,0,0,0,0,28.8,36.6,65.3,36821459,None
+Ponsegromab,Relapsed/Refractory Hematologic Malignancies,Relapsed/Refractory Hematologic Malignancies,0,0,0,0,0,32.2,32.9,65.2,NA,None
+Ponsegromab,Leg Injuries,Leg Injuries,0,0,0,0,0,35.5,29.5,65.1,NA,None
+Ponsegromab,Helicobacter Pylori,Helicobacter Pylori,0,0,0,0,0,33,32,65,950045,None
+Ponsegromab,Foot Diseases,Foot Diseases,0,0,0,0,0,16.4,48.5,64.9,11102007,None
+Ponsegromab,Heart Injuries,Heart Injuries,0,0,0,0,0,36.8,28.1,64.9,NA,None
+Ponsegromab,Hemodynamic Instability,Hemodynamic Instability,0,0,0,0,0,35.3,29.5,64.9,NA,None
+Ponsegromab,Xerostomia,Xerostomia,0,0,0,0,0,29.2,35.6,64.9,47843,None
+Ponsegromab,Viral Lower Respiratory Tract Infections,Viral Lower Respiratory Tract Infections,0,0,0,0,0,36.8,27.9,64.8,NA,None
+Ponsegromab,Cholestatic Liver Diseases,Cholestatic Liver Diseases,0,0,0,0,0,32.4,32.4,64.7,NA,None
+Ponsegromab,Spondylosis,Spondylosis,0,0,0,0,0,25.2,39.5,64.7,91760,None
+Ponsegromab,Hemochromatosis,Hemochromatosis,0,0,0,0,0,24.4,40,64.5,296860,None
+Ponsegromab,Ketosis,Ketosis,0,0,0,0,0,44,20.6,64.5,45890,None
+Ponsegromab,Megacolon,Megacolon,0,0,0,0,0,23.2,41.3,64.5,2937754,None
+Ponsegromab,Erythroblastosis Fetalis,Erythroblastosis Fetalis,0,0,0,0,0,38.6,25.7,64.4,NA,None
+Ponsegromab,Intracranial Arterial Diseases,Intracranial Arterial Diseases,0,0,0,0,0,29,35.4,64.4,NA,None
+Ponsegromab,Pancreatic Cyst,Pancreatic Cyst,0,0,0,0,0,27.8,36.7,64.4,327,None
+Ponsegromab,Testicular Diseases,Testicular Diseases,0,0,0,0,0,40.8,23.6,64.4,101218,None
+Ponsegromab,Germ-Cell Tumors,Germ-Cell Tumors,0,0,0,0,0,20,44.4,64.3,327,None
+Ponsegromab,Habitual Abortion,Habitual Abortion,0,0,0,0,0,33.1,31.2,64.3,NA,None
+Ponsegromab,Hemangioma,Hemangioma,0,0,0,0,0,24,40.2,64.2,NA,None
+Ponsegromab,Bone Marrow Failure,Bone Marrow Failure,0,0,0,0,0,37.7,26.4,64.1,NA,None
+Ponsegromab,Central Nervous System Vascular Malformations,Central Nervous System Vascular Malformations,0,0,0,0,0,24.3,39.9,64.1,NA,None
+Ponsegromab,Strongylida Infections,Strongylida Infections,0,0,0,0,0,38.7,25.4,64.1,NA,None
+Ponsegromab,Takotsubo Cardiomyopathy,Takotsubo Cardiomyopathy,0,0,0,0,0,18.2,45.9,64.1,16370,None
+Ponsegromab,Ear Diseases,Ear Diseases,0,0,0,0,0,31.6,32.3,64,995051,None
+Ponsegromab,Bile Duct Diseases,Bile Duct Diseases,0,0,0,0,0,30.1,33.9,63.9,NA,None
+Ponsegromab,MINOCA,MINOCA,0,0,0,0,0,10.4,53.5,63.9,4844922,None
+Ponsegromab,Portal Hypertension,Portal Hypertension,0,0,0,0,0,20.1,43.8,63.9,1041348,None
+Ponsegromab,Parasitic Diseases,Parasitic Diseases,0,0,0,0,0,38.6,25.1,63.7,NA,None
+Ponsegromab,Retinal Neoplasms,Retinal Neoplasms,0,0,0,0,0,30.3,33.2,63.6,2121796,None
+Ponsegromab,Thiamine Deficiency,Thiamine Deficiency,0,0,0,0,0,37.6,25.9,63.6,NA,None
+Ponsegromab,Central Sleep Apnea,Central Sleep Apnea,0,0,0,0,0,14.8,48.7,63.5,15439078,None
+Ponsegromab,Disorders of Sex Development,Disorders of Sex Development,0,0,0,0,0,34.9,28.6,63.5,1427302,None
+Ponsegromab,Alcoholic Liver Cirrhosis,Alcoholic Liver Cirrhosis,0,0,0,0,0,20.7,42.7,63.4,716004,None
+Ponsegromab,Leukocyte Disorders,Leukocyte Disorders,0,0,0,0,0,34.4,29,63.4,32564,None
+Ponsegromab,Cockayne Syndrome,Cockayne Syndrome,0,0,0,0,0,26.9,36.3,63.3,327,None
+Ponsegromab,Gestational Trophoblastic Neoplasia,Gestational Trophoblastic Neoplasia,0,0,0,0,0,34.7,28.6,63.3,NA,None
+Ponsegromab,Heart Rupture,Heart Rupture,0,0,0,0,0,37.2,26.1,63.3,NA,None
+Ponsegromab,Multiple System Atrophy,Multiple System Atrophy,0,0,0,0,0,20.7,42.7,63.3,16370,None
+Ponsegromab,Retinoblastoma,Retinoblastoma,0,0,0,0,0,30.5,32.8,63.3,16370,None
+Ponsegromab,Water Intoxication,Water Intoxication,0,0,0,0,0,16.9,46.4,63.3,2888507,None
+Ponsegromab,Autoimmune Skin Disorders,Autoimmune Skin Disorders,0,0,0,0,0,37.2,26,63.1,NA,None
+Ponsegromab,Restrictive Cardiomyopathy (RCM),Restrictive Cardiomyopathy (RCM),0,0,0,0,0,26.6,36.6,63.1,327,None
+Ponsegromab,Acneiform Eruptions (Acne),Acneiform Eruptions (Acne),0,0,0,0,0,29.8,33.1,62.9,3219289,None
+Ponsegromab,Cavernous Hemangioma,Cavernous Hemangioma,0,0,0,0,0,26.5,36.5,62.9,NA,None
+Ponsegromab,Cardiovascular Infections,Cardiovascular Infections,0,0,0,0,0,16.4,46.3,62.7,976916,None
+Ponsegromab,Congenitally Corrected Transposition of the Great Arteries,Congenitally Corrected Transposition of the Great Arteries,0,0,0,0,0,31.7,30.9,62.6,16370,None
+Ponsegromab,Chronic Pain,Chronic Pain,0,0,0,0,0,23.8,38.8,62.5,3944607,None
+Ponsegromab,Endometriosis,Endometriosis,0,0,0,0,0,28.5,34,62.5,589002,None
+Ponsegromab,Genetic Skin Diseases,Genetic Skin Diseases,0,0,0,0,0,33.3,29.2,62.5,NA,None
+Ponsegromab,Papulosquamous Skin Diseases,Papulosquamous Skin Diseases,0,0,0,0,0,36.6,25.9,62.5,NA,None
+Ponsegromab,Biliary Liver Cirrhosis,Biliary Liver Cirrhosis,0,0,0,0,0,17.2,45.2,62.4,190066,None
+Ponsegromab,Infertility,Infertility,0,0,0,0,0,32.5,29.8,62.3,NA,None
+Ponsegromab,Gingival Hyperplasia,Gingival Hyperplasia,0,0,0,0,0,26.4,35.8,62.2,770994,None
+Ponsegromab,Hypercholesterolemia,Hypercholesterolemia,0,0,0,0,0,25.5,36.7,62.2,1637,None
+Ponsegromab,Norovirus,Norovirus,0,0,0,0,0,28.1,34,62.1,NA,None
+Ponsegromab,Gestational Hypertension,Gestational Hypertension,0,0,0,0,0,34.2,27.8,62,NA,None
+Ponsegromab,Biliary Atresia,Biliary Atresia,0,0,0,0,0,26,36,61.9,81849,None
+Ponsegromab,Lymphomas,Lymphomas,0,0,0,0,0,14.3,47.6,61.9,431983,None
+Ponsegromab,Refeeding Syndrome,Refeeding Syndrome,0,0,0,0,0,36.2,25.7,61.9,NA,None
+Ponsegromab,Syncope,Syncope,0,0,0,0,0,18.1,43.9,61.9,674740,None
+Ponsegromab,Gastroparesis,Gastroparesis,0,0,0,0,0,12.2,49.7,61.8,81849,None
+Ponsegromab,Pericardial Effusion,Pericardial Effusion,0,0,0,0,0,26.2,35.6,61.8,NA,None
+Ponsegromab,Tetralogy of Fallot,Tetralogy of Fallot,0,0,0,0,0,26.2,35.6,61.8,81849,None
+Ponsegromab,Myoclonic Epilepsies,Myoclonic Epilepsies,0,0,0,0,0,15.4,46.3,61.7,3137593,None
+Ponsegromab,Sinusitis,Sinusitis,0,0,0,0,0,25.5,36.2,61.7,8216633,None
+Ponsegromab,Bone Lesion,Bone Lesion,0,0,0,0,0,29.6,32,61.6,NA,None
+Ponsegromab,Adrenogenital Syndrome,Adrenogenital Syndrome,0,0,0,0,0,37.5,24,61.5,NA,None
+Ponsegromab,Growth Deficiency in Children,Growth Deficiency in Children,0,0,0,0,0,17.6,43.9,61.5,1427302,None
+Ponsegromab,Desmoplastic Melanoma,Desmoplastic Melanoma,0,0,0,0,0,26.9,34.4,61.4,231126,None
+Ponsegromab,Carcinoma in Situ,Carcinoma in Situ,0,0,0,0,0,32.6,28.7,61.3,NA,None
+Ponsegromab,Visceral Pain Diseases,Visceral Pain Diseases,0,0,0,0,0,31.7,29.6,61.3,NA,None
+Ponsegromab,Hip Injuries,Hip Injuries,0,0,0,0,0,33.9,27.3,61.2,NA,None
+Ponsegromab,Optic Atrophy,Optic Atrophy,0,0,0,0,0,29,32.2,61.2,NA,None
+Ponsegromab,Typhoid,Typhoid,0,0,0,0,0,27.5,33.7,61.2,15,None
+Ponsegromab,Uterine Cervical Diseases,Uterine Cervical Diseases,0,0,0,0,0,35.6,25.6,61.2,NA,None
+Ponsegromab,Allergic Rhinitis,Allergic Rhinitis,0,0,0,0,0,26.5,34.6,61.1,5948198,None
+Ponsegromab,Inborn Errors of Purine-Pyrimidine Metabolism,Inborn Errors of Purine-Pyrimidine Metabolism,0,0,0,0,0,35.8,25.3,61.1,NA,None
+Ponsegromab,Malabsorption Syndromes,Malabsorption Syndromes,0,0,0,0,0,24.9,36.2,61.1,54965,None
+Ponsegromab,Propionic Acidemia,Propionic Acidemia,0,0,0,0,0,22.1,39.1,61.1,16370,None
+Ponsegromab,Gingival Overgrowth,Gingival Overgrowth,0,0,0,0,0,26.4,34.6,61,96123,None
+Ponsegromab,Wound Complications,Wound Complications,0,0,0,0,0,29,32,61,NA,None
+Ponsegromab,Adrenocortical Carcinoma,Adrenocortical Carcinoma,0,0,0,0,0,13.2,47.6,60.8,1637,None
+Ponsegromab,Arthralgia (Joint Pain),Arthralgia (Joint Pain),0,0,0,0,0,15.3,45.5,60.8,22081614,None
+Ponsegromab,Nose Diseases,Nose Diseases,0,0,0,0,0,30.8,30,60.8,2427708,None
+Ponsegromab,Temporomandibular Joint Disorders,Temporomandibular Joint Disorders,0,0,0,0,0,20.9,39.9,60.8,217325,None
+Ponsegromab,Craniomandibular Disorders,Craniomandibular Disorders,0,0,0,0,0,20.9,39.9,60.7,217325,None
+Ponsegromab,Multiple Acyl Coenzyme A Dehydrogenase Deficiency,Multiple Acyl Coenzyme A Dehydrogenase Deficiency,0,0,0,0,0,26.6,34.1,60.6,1637,None
+Ponsegromab,Neuroendocrine Tumors (NETs),Neuroendocrine Tumors (NETs),0,0,0,0,0,32.8,27.8,60.6,NA,None
+Ponsegromab,Essential Thrombocythemia,Essential Thrombocythemia,0,0,0,0,0,12.1,48.4,60.5,81849,None
+Ponsegromab,Febrile Seizures,Febrile Seizures,0,0,0,0,0,22.6,37.9,60.5,1749202,None
+Ponsegromab,Haemangioendothelioma,Haemangioendothelioma,0,0,0,0,0,10.2,50.2,60.5,493475,None
+Ponsegromab,Follicular Adenocarcinoma,Follicular Adenocarcinoma,0,0,0,0,0,30,30.4,60.4,NA,None
+Ponsegromab,Progressive Supranuclear Palsy (PSP),Progressive Supranuclear Palsy (PSP),0,0,0,0,0,12.7,47.7,60.4,16370,None
+Ponsegromab,Status Epilepticus,Status Epilepticus,0,0,0,0,0,23.7,36.6,60.3,327,None
+Ponsegromab,Infectious Pneumonia,Infectious Pneumonia,0,0,0,0,0,22.7,37.6,60.2,NA,None
+Ponsegromab,Multiple Primary Neoplasms,Multiple Primary Neoplasms,0,0,0,0,0,24.1,36,60.2,NA,None
+Ponsegromab,Cardiovascular Complications,Cardiovascular Complications,0,0,0,0,0,32.6,27.4,60.1,NA,None
+Ponsegromab,Diabetic Retinopathy,Diabetic Retinopathy,0,0,0,0,0,24.1,36.1,60.1,NA,None
+Ponsegromab,Lymphopenia,Lymphopenia,0,0,0,0,0,17.8,42.3,60.1,32564,None
+Ponsegromab,Optic Nerve Diseases,Optic Nerve Diseases,0,0,0,0,0,33.9,26.2,60.1,NA,None
+Ponsegromab,Polycythemia Vera,Polycythemia Vera,0,0,0,0,0,14.7,45.4,60.1,81849,None
+Ponsegromab,Behcet's Disease,Behcet's Disease,0,0,0,0,0,16.8,43.2,60,703684,None
+Ponsegromab,Sepsis-Associated Acute Kidney Injury,Sepsis-Associated Acute Kidney Injury,0,0,0,0,0,27.6,32.4,60,NA,None
+Ponsegromab,Adrenal Cortex Neoplasms,Adrenal Cortex Neoplasms,0,0,0,0,0,14.6,45.2,59.9,2121796,None
+Ponsegromab,Mycobacterium Infections,Mycobacterium Infections,0,0,0,0,0,28.5,31.4,59.9,NA,None
+Ponsegromab,Prescription Drug Overuse,Prescription Drug Overuse,0,0,0,0,0,30.3,29.7,59.9,NA,None
+Ponsegromab,Food Hypersensitivity (Food Allergy),Food Hypersensitivity (Food Allergy),0,0,0,0,0,10.8,48.9,59.7,11808153,None
+Ponsegromab,Primitive Neuroectodermal Tumors,Primitive Neuroectodermal Tumors,0,0,0,0,0,31.6,28,59.7,NA,None
+Ponsegromab,Unstable Angina,Unstable Angina,0,0,0,0,0,25.7,34,59.7,1655376,None
+Ponsegromab,Adrenal Tumors,Adrenal Tumors,0,0,0,0,0,14.5,45.1,59.6,2121796,None
+Ponsegromab,Bone Tissue Neoplasms,Bone Tissue Neoplasms,0,0,0,0,0,14.7,44.7,59.4,NA,None
+Ponsegromab,Cardiac Conduction System Disease,Cardiac Conduction System Disease,0,0,0,0,0,25.6,33.8,59.4,NA,None
+Ponsegromab,"Encephalitis, Myelitis and Encephalomyelitis","Encephalitis, Myelitis and Encephalomyelitis",0,0,0,0,0,32,27.5,59.4,NA,None
+Ponsegromab,Pseudomonas aeruginosa,Pseudomonas aeruginosa,0,0,0,0,0,28.5,30.8,59.4,81849,None
+Ponsegromab,Pharyngeal Diseases,Pharyngeal Diseases,0,0,0,0,0,23.7,35.6,59.3,938407,None
+Ponsegromab,Adrenal Cortex Diseases,Adrenal Cortex Diseases,0,0,0,0,0,14.6,44.6,59.2,NA,None
+Ponsegromab,Cholangitis,Cholangitis,0,0,0,0,0,14.8,44.4,59.2,81849,None
+Ponsegromab,Chronic Chemical and Drug Induced Liver Injury,Chronic Chemical and Drug Induced Liver Injury,0,0,0,0,0,26.8,32.4,59.2,NA,None
+Ponsegromab,Cardiac Tumors,Cardiac Tumors,0,0,0,0,0,25.8,33.3,59.1,2121796,None
+Ponsegromab,Perinatal Depression (Postpartum Depression),Perinatal Depression (Postpartum Depression),0,0,0,0,0,26.4,32.6,59,NA,None
+Ponsegromab,Blood Coagulation Disorders,Blood Coagulation Disorders,0,0,0,0,0,20,38.9,58.9,141993,None
+Ponsegromab,Chronic Thromboembolic Pulmonary Hypertension (CTEPH),Chronic Thromboembolic Pulmonary Hypertension (CTEPH),0,0,0,0,0,24.6,34,58.6,NA,None
+Ponsegromab,Patent Foramen Ovale,Patent Foramen Ovale,0,0,0,0,0,23,35.5,58.6,NA,None
+Ponsegromab,Schizophrenia,Schizophrenia,0,0,0,0,0,24.3,34.3,58.6,1605094,None
+Ponsegromab,Delta Thalassemia,Delta Thalassemia,0,0,0,0,0,26.7,31.7,58.5,327,None
+Ponsegromab,Excessive Daytime Sleepiness (Hypersomnia),Excessive Daytime Sleepiness (Hypersomnia),0,0,0,0,0,17.6,40.9,58.5,15439078,None
+Ponsegromab,Gingival Diseases,Gingival Diseases,0,0,0,0,0,27.7,30.8,58.5,96123,None
+Ponsegromab,Hemosiderosis,Hemosiderosis,0,0,0,0,0,22.6,35.9,58.5,327,None
+Ponsegromab,Prenatal Injuries,Prenatal Injuries,0,0,0,0,0,29.2,29.4,58.5,NA,None
+Ponsegromab,Acromegaly,Acromegaly,0,0,0,0,0,19.4,39,58.4,16370,None
+Ponsegromab,Actinomycetales Infections,Actinomycetales Infections,0,0,0,0,0,30.1,28.2,58.4,327,None
+Ponsegromab,Chronic Rhinosinusitis with Nasal Polyps (CRSwNP),Chronic Rhinosinusitis with Nasal Polyps (CRSwNP),0,0,0,0,0,28.3,30.2,58.4,NA,None
+Ponsegromab,Major Depressive Disorder (MDD) (incl. PPD),Major Depressive Disorder (MDD) (incl. PPD),0,0,0,0,0,33,25.4,58.4,NA,None
+Ponsegromab,Obstetric Labor Complications,Obstetric Labor Complications,0,0,0,0,0,22.9,35.4,58.4,218086,None
+Ponsegromab,Autonomic Nervous System Diseases,Autonomic Nervous System Diseases,0,0,0,0,0,17.2,41.1,58.3,NA,None
+Ponsegromab,Intra-Abdominal Infections (IAI),Intra-Abdominal Infections (IAI),0,0,0,0,0,14.9,43.3,58.3,203126,None
+Ponsegromab,Minimal Change Disease,Minimal Change Disease,0,0,0,0,0,14.8,43.5,58.3,NA,None
+Ponsegromab,Autoimmune Hemolytic Anemia (AIHA),Autoimmune Hemolytic Anemia (AIHA),0,0,0,0,0,13.8,44.4,58.2,81849,None
+Ponsegromab,Central Nervous System Infections,Central Nervous System Infections,0,0,0,0,0,15.7,42.5,58.2,976916,None
+Ponsegromab,Embryo Loss,Embryo Loss,0,0,0,0,0,26.9,31.3,58.2,4136,None
+Ponsegromab,Cytomegalovirus Infections,Cytomegalovirus Infections,0,0,0,0,0,13.7,44.4,58.1,NA,None
+Ponsegromab,Neurodevelopmental Disorders,Neurodevelopmental Disorders,0,0,0,0,0,32,26.2,58.1,NA,None
+Ponsegromab,Chronic Total Occlusion (CTO),Chronic Total Occlusion (CTO),0,0,0,0,0,11.5,46.5,58,8139256,None
+Ponsegromab,Williams Syndrome,Williams Syndrome,0,0,0,0,0,25.6,32.4,58,81849,None
+Ponsegromab,Endomyocardial Fibrosis,Endomyocardial Fibrosis,0,0,0,0,0,25.2,32.6,57.9,327,None
+Ponsegromab,Facial Scar,Facial Scar,0,0,0,0,0,31.7,26.2,57.9,NA,None
+Ponsegromab,Ventricular Tachycardia,Ventricular Tachycardia,0,0,0,0,0,26.3,31.7,57.9,44988,None
+Ponsegromab,Celiac Disease,Celiac Disease,0,0,0,0,0,23.3,34.5,57.8,327,None
+Ponsegromab,Autosomal Dominant Optic Atrophy,Autosomal Dominant Optic Atrophy,0,0,0,0,0,26.7,31,57.7,245548,None
+Ponsegromab,Supravalvular Aortic Stenosis,Supravalvular Aortic Stenosis,0,0,0,0,0,25.4,32.3,57.7,NA,None
+Ponsegromab,B-Cell Non-Hodgkin's Lymphoma,B-Cell Non-Hodgkin's Lymphoma,0,0,0,0,0,8.8,48.8,57.6,81849,None
+Ponsegromab,Leukocytosis,Leukocytosis,0,0,0,0,0,22.5,35,57.6,32564,None
+Ponsegromab,Epithelioid Hemangioendothelioma,Epithelioid Hemangioendothelioma,0,0,0,0,0,10.9,46.6,57.5,327,None
+Ponsegromab,Cross Infection,Cross Infection,0,0,0,0,0,12.2,45.2,57.4,976916,None
+Ponsegromab,Digestive System Abnormalities,Digestive System Abnormalities,0,0,0,0,0,24.9,32.4,57.4,NA,None
+Ponsegromab,Autoimmune Encephalitis,Autoimmune Encephalitis,0,0,0,0,0,20.1,37.1,57.2,327,None
+Ponsegromab,Ulcerative Colitis,Ulcerative Colitis,0,0,0,0,0,15.7,41.5,57.2,180231,None
+Ponsegromab,Hepatic Porphyrias,Hepatic Porphyrias,0,0,0,0,0,23.8,33.2,57.1,NA,None
+Ponsegromab,Hereditary Optic Atrophies,Hereditary Optic Atrophies,0,0,0,0,0,27.6,29.5,57.1,NA,None
+Ponsegromab,Developmental Bone Diseases,Developmental Bone Diseases,0,0,0,0,0,25,31.9,57,654874,None
+Ponsegromab,Cytomegalovirus (CMV),Cytomegalovirus (CMV),0,0,0,0,0,10.9,46,56.9,81849,None
+Ponsegromab,Spondyloarthropathies,Spondyloarthropathies,0,0,0,0,0,17.5,39.5,56.9,2879542,None
+Ponsegromab,Iris Diseases,Iris Diseases,0,0,0,0,0,33.9,22.8,56.8,NA,None
+Ponsegromab,Melanosis,Melanosis,0,0,0,0,0,30,26.8,56.8,494158,None
+Ponsegromab,Non-Hodgkin's Lymphoma (NHL),Non-Hodgkin's Lymphoma (NHL),0,0,0,0,0,10,46.8,56.8,288966,None
+Ponsegromab,Premature Menopause,Premature Menopause,0,0,0,0,0,20.4,36.4,56.8,715422,None
+Ponsegromab,Lens Diseases,Lens Diseases,0,0,0,0,0,31.6,25.1,56.7,NA,None
+Ponsegromab,Bone Marrow Neoplasms,Bone Marrow Neoplasms,0,0,0,0,0,14.6,42.1,56.6,2121796,None
+Ponsegromab,Fragility Fracture,Fragility Fracture,0,0,0,0,0,26.4,30.2,56.6,NA,None
+Ponsegromab,Dental Deposits,Dental Deposits,0,0,0,0,0,22.8,33.7,56.5,30563,None
+Ponsegromab,Osteosarcoma,Osteosarcoma,0,0,0,0,0,16.1,40.4,56.5,16370,None
+Ponsegromab,Solitary Pulmonary Nodule,Solitary Pulmonary Nodule,0,0,0,0,0,16.6,39.9,56.5,530055,None
+Ponsegromab,Burns,Burns,0,0,0,0,0,22.2,34.2,56.4,25664,None
+Ponsegromab,Erythropoietic Protoporphyria (EPP),Erythropoietic Protoporphyria (EPP),0,0,0,0,0,25.6,30.8,56.4,NA,None
+Ponsegromab,TP53 mutated Exocrine Pancreatic Cancer,TP53 mutated Exocrine Pancreatic Cancer,0,0,0,0,0,27.2,29.1,56.4,NA,None
+Ponsegromab,Human Papillomavirus (HPV),Human Papillomavirus (HPV),0,0,0,0,0,26.3,30,56.3,NA,None
+Ponsegromab,Urogenital Abnormalities,Urogenital Abnormalities,0,0,0,0,0,33,23.3,56.3,163482,None
+Ponsegromab,Bacteremia,Bacteremia,0,0,0,0,0,35.1,21.2,56.2,NA,None
+Ponsegromab,Hyperpigmentation,Hyperpigmentation,0,0,0,0,0,28.3,28,56.2,494158,None
+Ponsegromab,Nephrotic Syndrome,Nephrotic Syndrome,0,0,0,0,0,25.8,30.4,56.2,NA,None
+Ponsegromab,Inborn Errors of Metal Metabolism,Inborn Errors of Metal Metabolism,0,0,0,0,0,27.1,29,56.1,296860,None
+Ponsegromab,Insomnia,Insomnia,0,0,0,0,0,20.7,35.4,56.1,15439078,None
+Ponsegromab,Antiphospholipid Syndrome (APS),Antiphospholipid Syndrome (APS),0,0,0,0,0,14.2,41.8,56,141993,None
+Ponsegromab,Arrhythmogenic Cardiomyopathy,Arrhythmogenic Cardiomyopathy,0,0,0,0,0,9.8,46,55.8,81849,None
+Ponsegromab,Colitis,Colitis,0,0,0,0,0,14.7,41.1,55.8,653360,None
+Ponsegromab,Neuromyelitis Optica Spectrum Disorder (NMOSD),Neuromyelitis Optica Spectrum Disorder (NMOSD),0,0,0,0,0,16.8,38.9,55.8,16370,None
+Ponsegromab,Polycythemia,Polycythemia,0,0,0,0,0,13.5,42.3,55.8,81849,None
+Ponsegromab,Cushing Syndrome (Hypercortisolism),Cushing Syndrome (Hypercortisolism),0,0,0,0,0,13.2,42.6,55.7,327,None
+Ponsegromab,Prescription Drug Misuse,Prescription Drug Misuse,0,0,0,0,0,25.7,30,55.7,NA,None
+Ponsegromab,Dermatomyositis,Dermatomyositis,0,0,0,0,0,21,34.6,55.6,16370,None
+Ponsegromab,Salmonella Infections,Salmonella Infections,0,0,0,0,0,25,30.6,55.6,51,None
+Ponsegromab,Crystal Arthropathies,Crystal Arthropathies,0,0,0,0,0,35.5,20,55.5,NA,None
+Ponsegromab,Drug Misuse,Drug Misuse,0,0,0,0,0,25.6,29.9,55.5,NA,None
+Ponsegromab,Porphyrias,Porphyrias,0,0,0,0,0,23.2,32.2,55.5,1637,None
+Ponsegromab,MERRF Syndrome,MERRF Syndrome,0,0,0,0,0,18.2,37.2,55.4,1637,None
+Ponsegromab,Tracheal Stenosis,Tracheal Stenosis,0,0,0,0,0,14,41.3,55.4,16370,None
+Ponsegromab,Chronic Rhinosinusitis (CRS),Chronic Rhinosinusitis (CRS),0,0,0,0,0,26.1,29.2,55.3,NA,None
+Ponsegromab,Dental Enamel Hypoplasia,Dental Enamel Hypoplasia,0,0,0,0,0,26.4,28.9,55.3,27806,None
+Ponsegromab,Disorders of Excessive Somnolence,Disorders of Excessive Somnolence,0,0,0,0,0,16.7,38.6,55.3,15439078,None
+Ponsegromab,Pelvic Infection,Pelvic Infection,0,0,0,0,0,19.2,36.1,55.3,NA,None
+Ponsegromab,Amelogenesis Imperfecta,Amelogenesis Imperfecta,0,0,0,0,0,27,28.2,55.2,245548,None
+Ponsegromab,Epileptic Syndromes,Epileptic Syndromes,0,0,0,0,0,13.5,41.8,55.2,1858479,None
+Ponsegromab,Tissue Adhesions,Tissue Adhesions,0,0,0,0,0,19.4,35.8,55.2,NA,None
+Ponsegromab,Colon Polyps,Colon Polyps,0,0,0,0,0,19.9,35.2,55.1,1414772,None
+Ponsegromab,Myxoma,Myxoma,0,0,0,0,0,23.8,31.3,55.1,222015,None
+Ponsegromab,Chronic Graft Versus Host Disease (cGVHD),Chronic Graft Versus Host Disease (cGVHD),0,0,0,0,0,14.3,40.6,54.9,NA,None
+Ponsegromab,Acute Limb Ischemia (ALI),Acute Limb Ischemia (ALI),0,0,0,0,0,12.1,42.7,54.8,581299,None
+Ponsegromab,Leg Ulcer,Leg Ulcer,0,0,0,0,0,18.1,36.6,54.7,40326,None
+Ponsegromab,Binge Drinking,Binge Drinking,0,0,0,0,0,8.2,46.4,54.6,440518,None
+Ponsegromab,Hypoplastic Left Heart Syndrome,Hypoplastic Left Heart Syndrome,0,0,0,0,0,12.3,42.3,54.6,81849,None
+Ponsegromab,Radiation Fibrosis Syndrome,Radiation Fibrosis Syndrome,0,0,0,0,0,27,27.6,54.6,NA,None
+Ponsegromab,Hypoalbuminemia,Hypoalbuminemia,0,0,0,0,0,18.9,35.6,54.5,45890,None
+Ponsegromab,Myocarditis,Myocarditis,0,0,0,0,0,9.8,44.6,54.5,60941,None
+Ponsegromab,Bone and Joint Infections (BJIs),Bone and Joint Infections (BJIs),0,0,0,0,0,23.3,31,54.3,NA,None
+Ponsegromab,Pediatric Acute Myeloid Leukemia (AML),Pediatric Acute Myeloid Leukemia (AML),0,0,0,0,0,9.3,44.9,54.3,NA,None
+Ponsegromab,Rhinosinusitis,Rhinosinusitis,0,0,0,0,0,25.3,29,54.3,NA,None
+Ponsegromab,Hirschsprung Disease,Hirschsprung Disease,0,0,0,0,0,23.9,30.2,54.1,81849,None
+Ponsegromab,Hormone Receptor-Positive Breast Cancer,Hormone Receptor-Positive Breast Cancer,0,0,0,0,0,27.6,26.5,54.1,NA,None
+Ponsegromab,Left Main Coronary Artery (LMCA) Disease,Left Main Coronary Artery (LMCA) Disease,0,0,0,0,0,7.4,46.7,54.1,8139256,None
+Ponsegromab,Hypoproteinemia,Hypoproteinemia,0,0,0,0,0,18.8,35.1,54,45890,None
+Ponsegromab,Traumatic Wounds,Traumatic Wounds,0,0,0,0,0,32.5,21.4,54,NA,None
+Ponsegromab,Paranasal Sinus Diseases,Paranasal Sinus Diseases,0,0,0,0,0,25.4,28.5,53.9,2427708,None
+Ponsegromab,Retroperitoneal Fibrosis,Retroperitoneal Fibrosis,0,0,0,0,0,26.3,27.6,53.9,NA,None
+Ponsegromab,Swallowing Disorders / Dysphagia,Swallowing Disorders / Dysphagia,0,0,0,0,0,21.9,31.9,53.9,NA,None
+Ponsegromab,Atrioventricular Block,Atrioventricular Block,0,0,0,0,0,19.1,34.6,53.7,NA,None
+Ponsegromab,Prenatal Exposure Delayed Effects,Prenatal Exposure Delayed Effects,0,0,0,0,0,29.2,24.4,53.7,NA,None
+Ponsegromab,Hematologic Complications in Pregnancy,Hematologic Complications in Pregnancy,0,0,0,0,0,11.1,42.4,53.5,244323,None
+Ponsegromab,Late-Onset Thymidine Kinase 2 Deficiency (TK2D),Late-Onset Thymidine Kinase 2 Deficiency (TK2D),0,0,0,0,0,26.8,26.8,53.5,NA,None
+Ponsegromab,Foot Ulcer,Foot Ulcer,0,0,0,0,0,18.7,34.7,53.4,40326,None
+Ponsegromab,Multiple Endocrine Neoplasia,Multiple Endocrine Neoplasia,0,0,0,0,0,24.2,29.2,53.4,327,None
+Ponsegromab,Hereditary Spherocytosis,Hereditary Spherocytosis,0,0,0,0,0,21.6,31.6,53.2,NA,None
+Ponsegromab,Female Infertility,Female Infertility,0,0,0,0,0,15.1,38,53.1,1706849,None
+Ponsegromab,Hereditary Elliptocytosis,Hereditary Elliptocytosis,0,0,0,0,0,21.4,31.7,53.1,81849,None
+Ponsegromab,Cavernous Sinus Syndromes,Cavernous Sinus Syndromes,0,0,0,0,0,25.6,27.4,53,NA,None
+Ponsegromab,Femur Head Necrosis,Femur Head Necrosis,0,0,0,0,0,29.4,23.6,53,NA,None
+Ponsegromab,Hypothalamic Diseases,Hypothalamic Diseases,0,0,0,0,0,18.9,34.1,53,NA,None
+Ponsegromab,Staphylococcus aureus,Staphylococcus aureus,0,0,0,0,0,11.2,41.8,53,3382912,None
+Ponsegromab,Cerebrovascular Trauma,Cerebrovascular Trauma,0,0,0,0,0,19.9,33,52.9,1219359,None
+Ponsegromab,Dissecting Aneurysm,Dissecting Aneurysm,0,0,0,0,0,21.7,31.1,52.8,150024,None
+Ponsegromab,Hyperpituitarism,Hyperpituitarism,0,0,0,0,0,19.8,33.1,52.8,327,None
+Ponsegromab,Malaria,Malaria,0,0,0,0,0,25.2,27.7,52.8,0,None
+Ponsegromab,Meningitis,Meningitis,0,0,0,0,0,16.2,36.6,52.8,26733,None
+Ponsegromab,Sebaceous Gland Diseases,Sebaceous Gland Diseases,0,0,0,0,0,31.9,20.8,52.8,38191,None
+Ponsegromab,Low Tension Glaucoma,Low Tension Glaucoma,0,0,0,0,0,10.1,42.6,52.7,5025903,None
+Ponsegromab,Constipation,Constipation,0,0,0,0,0,10.7,41.9,52.6,2937754,None
+Ponsegromab,Hereditary Neoplastic Syndromes,Hereditary Neoplastic Syndromes,0,0,0,0,0,23.8,28.8,52.6,NA,None
+Ponsegromab,Neurotoxicity Syndromes,Neurotoxicity Syndromes,0,0,0,0,0,13.2,39.4,52.6,3024163,None
+Ponsegromab,Glycosuria,Glycosuria,0,0,0,0,0,26.6,26,52.5,NA,None
+Ponsegromab,Thrombocytosis,Thrombocytosis,0,0,0,0,0,11.2,41.2,52.4,244323,None
+Ponsegromab,Alcohol Use Disorder (AUD),Alcohol Use Disorder (AUD),0,0,0,0,0,29.1,23.2,52.3,NA,None
+Ponsegromab,Epiretinal Membrane,Epiretinal Membrane,0,0,0,0,0,12.7,39.6,52.3,2767515,None
+Ponsegromab,Pleural Effusion,Pleural Effusion,0,0,0,0,0,10.4,41.8,52.2,NA,None
+Ponsegromab,Postmenopausal Osteoporosis,Postmenopausal Osteoporosis,0,0,0,0,0,16.4,35.8,52.2,4009211,None
+Ponsegromab,Central Nervous System Bacterial Infections,Central Nervous System Bacterial Infections,0,0,0,0,0,10.6,41.3,51.9,1944266,None
+Ponsegromab,Multiple Endocrine Neoplasia Type 2 (MEN2),Multiple Endocrine Neoplasia Type 2 (MEN2),0,0,0,0,0,25.6,26.3,51.9,NA,None
+Ponsegromab,Uremia,Uremia,0,0,0,0,0,13.9,38,51.9,724456,None
+Ponsegromab,Encephalitis,Encephalitis,0,0,0,0,0,15,36.7,51.8,9809,None
+Ponsegromab,Mosquito-Borne Diseases,Mosquito-Borne Diseases,0,0,0,0,0,29.6,22.1,51.7,NA,None
+Ponsegromab,Acute Spinal Cord Injury,Acute Spinal Cord Injury,0,0,0,0,0,18.4,33.2,51.6,NA,None
+Ponsegromab,Hematopoietic Stem Cell Transplantation-associated Thrombotic Microangiopathy (HSCT-TMA),Hematopoietic Stem Cell Transplantation-associated Thrombotic Microangiopathy (HSCT-TMA),0,0,0,0,0,14.8,36.7,51.5,NA,None
+Ponsegromab,Occupational Diseases,Occupational Diseases,0,0,0,0,0,34.4,17,51.5,NA,None
+Ponsegromab,Pituitary Diseases,Pituitary Diseases,0,0,0,0,0,19.1,32.4,51.5,NA,None
+Ponsegromab,Stress Fractures,Stress Fractures,0,0,0,0,0,20.5,31,51.4,NA,None
+Ponsegromab,Helminthiasis,Helminthiasis,0,0,0,0,0,34.1,17.1,51.3,NA,None
+Ponsegromab,Psoriatic Arthritis (PsA),Psoriatic Arthritis (PsA),0,0,0,0,0,10.3,41,51.3,1550095,None
+Ponsegromab,Brain Atrophy,Brain Atrophy,0,0,0,0,0,11.8,39.5,51.2,NA,None
+Ponsegromab,Kawasaki Disease (Mucocutaneous Lymph Node Syndrome),Kawasaki Disease (Mucocutaneous Lymph Node Syndrome),0,0,0,0,0,16.4,34.9,51.2,NA,None
+Ponsegromab,Nematode Infections,Nematode Infections,0,0,0,0,0,32.4,18.8,51.2,0,None
+Ponsegromab,Barrett's Esophagus,Barrett's Esophagus,0,0,0,0,0,13.8,37.2,51.1,758169,None
+Ponsegromab,Developmental Defects of Enamel,Developmental Defects of Enamel,0,0,0,0,0,25.5,25.5,51,NA,None
+Ponsegromab,Prostatitis,Prostatitis,0,0,0,0,0,18.8,32.1,50.9,117729,None
+Ponsegromab,Ankylosis,Ankylosis,0,0,0,0,0,22.9,27.9,50.8,327,None
+Ponsegromab,Uveal Diseases,Uveal Diseases,0,0,0,0,0,27.8,23,50.8,NA,None
+Ponsegromab,Hirsutism,Hirsutism,0,0,0,0,0,19.6,30.9,50.5,NA,None
+Ponsegromab,Exanthema,Exanthema,0,0,0,0,0,10.8,39.6,50.4,4343061,None
+Ponsegromab,Zika Virus Infection,Zika Virus Infection,0,0,0,0,0,11.4,39,50.4,14,None
+Ponsegromab,Gastric Ulcer,Gastric Ulcer,0,0,0,0,0,19,31.4,50.3,457800,None
+Ponsegromab,Esophageal Adenocarcinoma,Esophageal Adenocarcinoma,0,0,0,0,0,20.8,29.3,50.1,NA,None
+Ponsegromab,Alopecia Areata,Alopecia Areata,0,0,0,0,0,12.2,37.8,50,1252817,None
+Ponsegromab,Chronic Insomnia,Chronic Insomnia,0,0,0,0,0,22.1,27.9,50,169200,None
+Ponsegromab,Pericarditis,Pericarditis,0,0,0,0,0,11.6,38.4,50,NA,None
+Ponsegromab,Stent Thrombosis,Stent Thrombosis,0,0,0,0,0,25.8,24.2,50,NA,None
+Ponsegromab,Endometrial Hyperplasia,Endometrial Hyperplasia,0,0,0,0,0,22,28,49.9,156745,None
+Ponsegromab,Gastrointestinal (GI) Bleeding,Gastrointestinal (GI) Bleeding,0,0,0,0,0,8.7,41.2,49.9,1215297,None
+Ponsegromab,Infectious Skin Diseases,Infectious Skin Diseases,0,0,0,0,0,9.9,39.9,49.8,1909479,None
+Ponsegromab,Relapsed/Refractory Multiple Myeloma,Relapsed/Refractory Multiple Myeloma,0,0,0,0,0,11.1,38.6,49.8,NA,None
+Ponsegromab,Interstitial Lung Disease-Associated Pulmonary Hypertension (ILD-PH),Interstitial Lung Disease-Associated Pulmonary Hypertension (ILD-PH),0,0,0,0,0,15.5,34.2,49.7,NA,None
+Ponsegromab,Transthyretin Amyloid Cardiomyopathy (ATTR-CM),Transthyretin Amyloid Cardiomyopathy (ATTR-CM),0,0,0,0,0,10.5,39.2,49.7,NA,None
+Ponsegromab,Gram-Negative ESKAPE Pathogens,Gram-Negative ESKAPE Pathogens,0,0,0,0,0,29,20.6,49.6,NA,None
+Ponsegromab,Tooth Abnormalities,Tooth Abnormalities,0,0,0,0,0,23.2,26.4,49.6,27806,None
+Ponsegromab,Lymphatic Vessel Tumors,Lymphatic Vessel Tumors,0,0,0,0,0,7.9,41.6,49.5,205372,None
+Ponsegromab,Coccidiosis,Coccidiosis,0,0,0,0,0,23.4,25.9,49.4,NA,None
+Ponsegromab,Nonfermenting Gram-Negative Bacteria (NFGNB),Nonfermenting Gram-Negative Bacteria (NFGNB),0,0,0,0,0,28.9,20.6,49.4,NA,None
+Ponsegromab,Osteopenia,Osteopenia,0,0,0,0,0,9.1,40.3,49.4,1523561,None
+Ponsegromab,Mandibular Diseases,Mandibular Diseases,0,0,0,0,0,20.3,29,49.3,NA,None
+Ponsegromab,Macular Hole,Macular Hole,0,0,0,0,0,11.2,38,49.2,2767515,None
+Ponsegromab,Retinitis,Retinitis,0,0,0,0,0,24.2,24.8,49.1,81849,None
+Ponsegromab,Limbic Encephalitis,Limbic Encephalitis,0,0,0,0,0,21.4,27.6,49,NA,None
+Ponsegromab,Peripheral Spondyloarthritis (SpA),Peripheral Spondyloarthritis (SpA),0,0,0,0,0,20.5,28.5,49,NA,None
+Ponsegromab,Thrombotic Microangiopathy,Thrombotic Microangiopathy,0,0,0,0,0,9.5,39.5,49,NA,None
+Ponsegromab,Toxoplasmosis,Toxoplasmosis,0,0,0,0,0,21.7,27.3,49,327397,None
+Ponsegromab,Heart Block,Heart Block,0,0,0,0,0,15.3,33.6,48.8,16370,None
+Ponsegromab,Infectious Complications in Pregnancy,Infectious Complications in Pregnancy,0,0,0,0,0,26.7,21.9,48.6,NA,None
+Ponsegromab,Plasmacytoma,Plasmacytoma,0,0,0,0,0,11.8,36.8,48.6,1637,None
+Ponsegromab,Endogenous Cushing's Syndrome,Endogenous Cushing's Syndrome,0,0,0,0,0,11.2,36.8,48,1637,None
+Ponsegromab,Retinal Perforations,Retinal Perforations,0,0,0,0,0,14,33.8,47.8,673356,None
+Ponsegromab,Diamond-Blackfan Anemia,Diamond-Blackfan Anemia,0,0,0,0,0,21.3,26.4,47.7,1637,None
+Ponsegromab,Alopecia,Alopecia,0,0,0,0,0,10.6,36.9,47.5,627742,None
+Ponsegromab,Hair Diseases,Hair Diseases,0,0,0,0,0,17.8,29.8,47.5,NA,None
+Ponsegromab,Hypotrichosis,Hypotrichosis,0,0,0,0,0,10.6,36.9,47.5,327,None
+Ponsegromab,Oral Leukoplakia,Oral Leukoplakia,0,0,0,0,0,10.9,36.5,47.4,429740,None
+Ponsegromab,Pregnancy in Diabetics,Pregnancy in Diabetics,0,0,0,0,0,17.2,29.9,47.1,NA,None
+Ponsegromab,Bundle-Branch Block,Bundle-Branch Block,0,0,0,0,0,19.1,28,47,NA,None
+Ponsegromab,Ankylosing Spondylitis (AS),Ankylosing Spondylitis (AS),0,0,0,0,0,16.5,30.4,46.8,NA,None
+Ponsegromab,Psychotic Disorders,Psychotic Disorders,0,0,0,0,0,18.1,28.7,46.8,NA,None
+Ponsegromab,Cutaneous Scar,Cutaneous Scar,0,0,0,0,0,25.8,20.9,46.7,NA,None
+Ponsegromab,Central Nervous System Viral Diseases,Central Nervous System Viral Diseases,0,0,0,0,0,14.5,32,46.4,NA,None
+Ponsegromab,Interstitial Nephritis,Interstitial Nephritis,0,0,0,0,0,8.8,37.6,46.4,327,None
+Ponsegromab,Blood Vessel Dissection,Blood Vessel Dissection,0,0,0,0,0,21.6,24.7,46.3,NA,None
+Ponsegromab,Hypopigmentation,Hypopigmentation,0,0,0,0,0,9.4,36.9,46.3,494158,None
+Ponsegromab,Indolent Lymphomas,Indolent Lymphomas,0,0,0,0,0,10,36.3,46.3,NA,None
+Ponsegromab,Retinal Detachment,Retinal Detachment,0,0,0,0,0,12.3,33.8,46.1,673356,None
+Ponsegromab,Barth Syndrome,Barth Syndrome,0,0,0,0,0,12,33.9,46,1637,None
+Ponsegromab,Chronic Bronchitis,Chronic Bronchitis,0,0,0,0,0,11.4,34.5,45.9,1834170,None
+Ponsegromab,Complicated Urinary Tract Infections (cUTI),Complicated Urinary Tract Infections (cUTI),0,0,0,0,0,24.1,21.6,45.8,NA,None
+Ponsegromab,Cicatrix / Scar,Cicatrix / Scar,0,0,0,0,0,20.4,25.4,45.7,NA,None
+Ponsegromab,Hereditary Autoinflammatory Diseases,Hereditary Autoinflammatory Diseases,0,0,0,0,0,16.8,28.9,45.7,NA,None
+Ponsegromab,Leukoplakia,Leukoplakia,0,0,0,0,0,10.3,35.3,45.6,429740,None
+Ponsegromab,Rhinitis,Rhinitis,0,0,0,0,0,27.2,18.4,45.6,NA,None
+Ponsegromab,Panuveitis,Panuveitis,0,0,0,0,0,16,29.4,45.4,327,None
+Ponsegromab,Peptic Ulcer,Peptic Ulcer,0,0,0,0,0,15.4,29.9,45.3,498286,None
+Ponsegromab,Transfusion Dependent Adult Thalassemias,Transfusion Dependent Adult Thalassemias,0,0,0,0,0,14.2,31.1,45.3,NA,None
+Ponsegromab,Photosensitivity Disorders,Photosensitivity Disorders,0,0,0,0,0,16.5,28.7,45.2,NA,None
+Ponsegromab,Arteritis,Arteritis,0,0,0,0,0,10.6,34.4,45,150024,None
+Ponsegromab,Erythema Infectiosum,Erythema Infectiosum,0,0,0,0,0,12.8,32.2,45,284820,None
+Ponsegromab,Hypervolemia (Fluid Overload),Hypervolemia (Fluid Overload),0,0,0,0,0,22.1,22.9,45,NA,None
+Ponsegromab,Vitiligo,Vitiligo,0,0,0,0,0,9.6,35.3,44.9,NA,None
+Ponsegromab,Treatment-Resistant Depression (TRD),Treatment-Resistant Depression (TRD),0,0,0,0,0,14,30.9,44.8,NA,None
+Ponsegromab,Uncontrolled Hypertension (incl. RHTN),Uncontrolled Hypertension (incl. RHTN),0,0,0,0,0,11.5,33.3,44.8,NA,None
+Ponsegromab,Jaw Diseases,Jaw Diseases,0,0,0,0,0,17,27.8,44.7,NA,None
+Ponsegromab,Acute Aortic Syndrome,Acute Aortic Syndrome,0,0,0,0,0,19.8,24.8,44.6,NA,None
+Ponsegromab,Experimental Radiation Injuries,Experimental Radiation Injuries,0,0,0,0,0,16.1,28.4,44.6,NA,None
+Ponsegromab,Prolactinoma,Prolactinoma,0,0,0,0,0,9.7,34.7,44.4,245548,None
+Ponsegromab,Crush Injuries,Crush Injuries,0,0,0,0,0,15.1,29.2,44.3,NA,None
+Ponsegromab,Healthcare-Associated Infections,Healthcare-Associated Infections,0,0,0,0,0,12.5,31.8,44.3,662991,None
+Ponsegromab,Acute Graft Versus Host Disease (aGVHD),Acute Graft Versus Host Disease (aGVHD),0,0,0,0,0,11.8,32.4,44.2,NA,None
+Ponsegromab,Hospital-Acquired Infections,Hospital-Acquired Infections,0,0,0,0,0,12.6,31.6,44.2,662991,None
+Ponsegromab,Protozoan Infections,Protozoan Infections,0,0,0,0,0,24,20.2,44.2,NA,None
+Ponsegromab,B-Cell Leukemia,B-Cell Leukemia,0,0,0,0,0,8.3,35.8,44.1,NA,None
+Ponsegromab,Chronic Lymphocytic Leukemia (CLL),Chronic Lymphocytic Leukemia (CLL),0,0,0,0,0,8.3,35.8,44.1,116026,None
+Ponsegromab,Erythema Nodosum,Erythema Nodosum,0,0,0,0,0,19.7,24.4,44.1,NA,None
+Ponsegromab,Arbovirus Infections,Arbovirus Infections,0,0,0,0,0,12,32,44,NA,None
+Ponsegromab,Flavivirus Infections,Flavivirus Infections,0,0,0,0,0,11.6,32.1,43.7,NA,None
+Ponsegromab,Multidrug-Resistant Tuberculosis,Multidrug-Resistant Tuberculosis,0,0,0,0,0,6.6,37.2,43.7,162,None
+Ponsegromab,Pleural Diseases,Pleural Diseases,0,0,0,0,0,9.3,34.4,43.7,NA,None
+Ponsegromab,Epstein-Barr Virus (EBV),Epstein-Barr Virus (EBV),0,0,0,0,0,7.7,35.9,43.6,80253,None
+Ponsegromab,Pelvic Inflammatory Disease,Pelvic Inflammatory Disease,0,0,0,0,0,16.3,27.3,43.6,NA,None
+Ponsegromab,Bacterial Meningitis,Bacterial Meningitis,0,0,0,0,0,10.8,32.7,43.4,NA,None
+Ponsegromab,Peritonitis,Peritonitis,0,0,0,0,0,16.3,27.1,43.4,NA,None
+Ponsegromab,Hypogonadism,Hypogonadism,0,0,0,0,0,12.5,30.6,43.1,931883,None
+Ponsegromab,Lymphangiomyoma,Lymphangiomyoma,0,0,0,0,0,10.3,32.8,43.1,1637,None
+Ponsegromab,Overdose,Overdose,0,0,0,0,0,20.3,22.8,43.1,NA,None
+Ponsegromab,Bronchitis,Bronchitis,0,0,0,0,0,8.4,34.6,43,4061706,None
+Ponsegromab,Patent Ductus Arteriosus,Patent Ductus Arteriosus,0,0,0,0,0,13.6,29.4,43,NA,None
+Ponsegromab,Reinjuries,Reinjuries,0,0,0,0,0,15.7,27.3,43,NA,None
+Ponsegromab,Acquired Hemolytic Anemias,Acquired Hemolytic Anemias,0,0,0,0,0,12.1,30.8,42.9,NA,None
+Ponsegromab,Pituitary ACTH Hypersecretion,Pituitary ACTH Hypersecretion,0,0,0,0,0,11.8,31.1,42.9,NA,None
+Ponsegromab,Polyuria,Polyuria,0,0,0,0,0,14.5,28.2,42.7,576949,None
+Ponsegromab,Rheumatic Fever,Rheumatic Fever,0,0,0,0,0,20.3,22.4,42.6,327397,None
+Ponsegromab,Pulmonary Valve Insufficiency,Pulmonary Valve Insufficiency,0,0,0,0,0,11.3,31.3,42.5,NA,None
+Ponsegromab,Perivascular Epithelioid Cell Neoplasms,Perivascular Epithelioid Cell Neoplasms,0,0,0,0,0,11.5,30.9,42.4,327,None
+Ponsegromab,Viral Skin Diseases,Viral Skin Diseases,0,0,0,0,0,10.9,31.6,42.4,12993530,None
+Ponsegromab,Autoimmune Cytopenias,Autoimmune Cytopenias,0,0,0,0,0,12.7,29.6,42.3,NA,None
+Ponsegromab,Aortic Valve Insufficiency,Aortic Valve Insufficiency,0,0,0,0,0,7,35.1,42.2,75729,None
+Ponsegromab,Occupational Dermatitis,Occupational Dermatitis,0,0,0,0,0,11,31,42,1484202,None
+Ponsegromab,Treatment-Resistant Hypertension (RHTN),Treatment-Resistant Hypertension (RHTN),0,0,0,0,0,11.6,30.4,42,NA,None
+Ponsegromab,Cerebral Palsy,Cerebral Palsy,0,0,0,0,0,8.8,33.2,41.9,115599,None
+Ponsegromab,Peritoneal Diseases,Peritoneal Diseases,0,0,0,0,0,11.2,30.7,41.9,NA,None
+Ponsegromab,Stomatognathic System Abnormalities,Stomatognathic System Abnormalities,0,0,0,0,0,19.8,21,40.8,NA,None
+Ponsegromab,Hypercalcemia,Hypercalcemia,0,0,0,0,0,18.4,22,40.4,296860,None
+Ponsegromab,Inherited Cardiac Conditions,Inherited Cardiac Conditions,0,0,0,0,0,9.2,31,40.2,NA,None
+Ponsegromab,Adrenocortical Hyperfunction,Adrenocortical Hyperfunction,0,0,0,0,0,15,25,40,NA,None
+Ponsegromab,Starvation,Starvation,0,0,0,0,0,10.6,29.4,40,NA,None
+Ponsegromab,Supratentorial Neoplasms,Supratentorial Neoplasms,0,0,0,0,0,8.4,31.5,40,NA,None
+Ponsegromab,Septic Shock,Septic Shock,0,0,0,0,0,12.6,27.3,39.9,NA,None
+Ponsegromab,Pituitary Tumor,Pituitary Tumor,0,0,0,0,0,9.6,29.6,39.1,1637,None
+Ponsegromab,Diabetes Insipidus,Diabetes Insipidus,0,0,0,0,0,12.3,26.7,39,NA,None
+Ponsegromab,Tardive Dyskinesia,Tardive Dyskinesia,0,0,0,0,0,14.6,24,38.6,NA,None
+Ponsegromab,Graft versus Host Disease (GvHD),Graft versus Host Disease (GvHD),0,0,0,0,0,12.4,26.1,38.5,NA,None
+Ponsegromab,Metabolic Dysfunction-Associated Alcoholic Liver Disease (MetALD),Metabolic Dysfunction-Associated Alcoholic Liver Disease (MetALD),0,0,0,0,0,11.7,26.7,38.4,NA,None
+Ponsegromab,Hypothalamic Neoplasms,Hypothalamic Neoplasms,0,0,0,0,0,8.5,29.7,38.2,2121796,None
+Ponsegromab,Lymphangioleiomyomatosis,Lymphangioleiomyomatosis,0,0,0,0,0,10.4,27.9,38.2,1637,None
+Ponsegromab,Axial Spondyloarthritis (axSpA),Axial Spondyloarthritis (axSpA),0,0,0,0,0,16.1,21.9,38.1,NA,None
+Ponsegromab,Nephrogenic Diabetes Insipidus,Nephrogenic Diabetes Insipidus,0,0,0,0,0,11.7,26.1,37.8,1637,None
+Ponsegromab,Alcoholic Fatty Liver,Alcoholic Fatty Liver,0,0,0,0,0,11.6,26,37.6,NA,None
+Ponsegromab,Uveitis,Uveitis,0,0,0,0,0,13.3,23.8,37.2,81849,None
+Ponsegromab,Extrapulmonary Tuberculosis,Extrapulmonary Tuberculosis,0,0,0,0,0,25.3,11.5,36.8,NA,None
+Ponsegromab,Chronic Brain Damage,Chronic Brain Damage,0,0,0,0,0,9.9,26.7,36.6,NA,None
+Ponsegromab,Pulmonary Valve Diseases,Pulmonary Valve Diseases,0,0,0,0,0,8.1,28.1,36.1,NA,None
+Ponsegromab,Tracheal Diseases,Tracheal Diseases,0,0,0,0,0,11.6,23.9,35.4,NA,None
+Ponsegromab,Primary Graft Dysfunction,Primary Graft Dysfunction,0,0,0,0,0,10.7,24.4,35.1,NA,None
+Ponsegromab,Anterior Uveitis,Anterior Uveitis,0,0,0,0,0,16.9,17.8,34.7,NA,None
+Ponsegromab,Taste Disorders,Taste Disorders,0,0,0,0,0,9.5,25.1,34.5,NA,None
+Ponsegromab,Transfusion Reaction,Transfusion Reaction,0,0,0,0,0,18.4,15.9,34.3,NA,None
+Ponsegromab,"Pituitary Neuroendocrine Tumors (Pituitary Adenomas, PitNETs)","Pituitary Neuroendocrine Tumors (Pituitary Adenomas, PitNETs)",0,0,0,0,0,8,26.2,34.2,NA,None
+Ponsegromab,Extraintestinal Pathogenic Escherichia Coli (ExPEC),Extraintestinal Pathogenic Escherichia Coli (ExPEC),0,0,0,0,0,17,16.8,33.8,NA,None
+Ponsegromab,Multiple Trauma,Multiple Trauma,0,0,0,0,0,9.4,24.4,33.8,NA,None
+Ponsegromab,Thyroid Nodule,Thyroid Nodule,0,0,0,0,0,10.5,23,33.5,864685,None
+Ponsegromab,Hyperaldosteronism,Hyperaldosteronism,0,0,0,0,0,6.2,26.9,33.1,NA,None
+Ponsegromab,Megaloblastic Anemia,Megaloblastic Anemia,0,0,0,0,0,10.8,22,32.8,NA,None
+Ponsegromab,Stomatitis,Stomatitis,0,0,0,0,0,9.5,22.7,32.2,NA,None
+Ponsegromab,Arm Injuries,Arm Injuries,0,0,0,0,0,4.7,27.2,31.8,NA,None
+Ponsegromab,Contact Dermatitis,Contact Dermatitis,0,0,0,0,0,5.8,25.1,30.9,6840620,None
+Ponsegromab,Gram-Positive ESKAPE Pathogens,Gram-Positive ESKAPE Pathogens,0,0,0,0,0,11.2,19.4,30.6,NA,None
+Ponsegromab,Wrist Injuries,Wrist Injuries,0,0,0,0,0,5.6,23.1,28.7,NA,None
+Ponsegromab,Wrist Fractures,Wrist Fractures,0,0,0,0,0,6,22.3,28.3,NA,None
+Ponsegromab,Forearm Injuries,Forearm Injuries,0,0,0,0,0,5.6,22.5,28.1,NA,None
+Ponsegromab,Radius Fractures,Radius Fractures,0,0,0,0,0,5.3,22.8,28,NA,None
+Ponsegromab,Meningeal Tuberculosis,Meningeal Tuberculosis,0,0,0,0,0,10.3,15.3,25.6,NA,None
+Ponsegromab,Central Nervous System Tuberculosis,Central Nervous System Tuberculosis,0,0,0,0,0,10,15,24.9,NA,None
